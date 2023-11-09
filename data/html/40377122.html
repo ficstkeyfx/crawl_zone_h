@@ -1,0 +1,845 @@
+<html lang="en"><head>
+  <title>iSolve RCM</title>
+	<link rel="shortcut icon" href="_img/fav_icon.png">
+  
+  <meta charset="utf-8">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  
+  
+  <!--meta name="viewport" content="width=device-width, initial-scale=1"-->
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <link rel="stylesheet" href="css/theme_css.css">
+  <!-- Latest compiled and minified CSS -->
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  	<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+</head>
+
+
+<body>
+
+
+<!------------------------------------------------------------------------------------------------------->
+
+		
+
+
+ <!------------------------------------------------------------------------------------------------------> 
+
+<div class="MainHeader">
+<div class="container">
+  <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3"><a href="index.php"><img src="_img/logo.svg" class="img-responsive"></a></div>
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9">  <style>
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+</style>
+<script>
+    $(function(){
+    $(".dropdown").hover(            
+            function() {
+                $('.dropdown-menu', this).stop( true, true ).fadeIn("fast");
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            },
+            function() {
+                $('.dropdown-menu', this).stop( true, true ).fadeOut("fast");
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            });
+    });
+    
+</script>
+<nav class="NavBarColor">
+
+
+<nav class="navbar-inverse">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+</nav>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+     <ul class="nav navbar-nav"> 
+	 
+				<li><a href="index.php">Home</a></li>
+				
+		  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="">About Us<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+		  <li><a href="index.php?view=about_us&amp;hfun=1">About iSolve</a></li>
+		  <li><a href="index.php?view=areas_we_cover&amp;hfun=1">Areas We Cover</a></li>
+		  <li><a href="index.php?view=our_philosophy&amp;hfun=1">Our Philosophy</a></li>
+		  <li><a href="index.php?view=about_medical_billing&amp;hfun=1">About Medical Billing Services</a></li>
+		  <li><a href="index.php?view=about_us&amp;hfun=1#Who-We-ARe">Who We Are</a></li>
+          </ul></li>
+		  
+		  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="">Services<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+		  		  
+		  <li><a href="index.php?view=services&amp;SID=1&amp;hfun=1">Medical Billing &amp; Coding</a></li>
+					  
+		  <li><a href="index.php?view=services&amp;SID=2&amp;hfun=1">Credentialing</a></li>
+					  
+		  <li><a href="index.php?view=services&amp;SID=3&amp;hfun=1">Medical Auditing</a></li>
+					  
+		  <li><a href="index.php?view=services&amp;SID=4&amp;hfun=1">Real-Time Eligibility Verification</a></li>
+					  
+		  <li><a href="index.php?view=services&amp;SID=6&amp;hfun=1">Teleheath</a></li>
+			          </ul></li>
+		  
+		  
+				<!--<li><a href="index.php?view=&hfun=1">Solutions</a></li>
+				<li><a href="index.php?view=&hfun=1">Pricing</a></li>--->
+				<li><a href="index.php?view=faqs&amp;hfun=1">FAQ's</a></li>
+				<li><a href="index.php?view=contact_us&amp;hfun=1" class="active">Contact Us</a></li>
+		
+		
+		
+        </ul>
+	
+    </div><!-- /.navbar-collapse -->
+
+
+</nav>
+
+
+</div>
+  </div>
+</div>
+</div>
+
+<!------------------------------------------------------------------------------->
+
+<div class="MainSlider">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="1" active=""></li>    <li data-target="#myCarousel" data-slide-to="2" class="active"></li>    <li data-target="#myCarousel" data-slide-to="3"></li>    <li data-target="#myCarousel" data-slide-to="6"></li>    <li data-target="#myCarousel" data-slide-to="7"></li>    <li data-target="#myCarousel" data-slide-to="8"></li>    <li data-target="#myCarousel" data-slide-to="9"></li>    <li data-target="#myCarousel" data-slide-to="10"></li>    <li data-target="#myCarousel" data-slide-to="11"></li>    <li data-target="#myCarousel" data-slide-to="12"></li>    <li data-target="#myCarousel" data-slide-to="13"></li>  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+     <div class="item">
+	<a href="index.php?view=page&amp;pid=5" target="_blank">
+     <img src="_img/slider/slide_01.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item active">
+	<a href="index.php?view=page&amp;pid=6" target="_blank">
+     <img src="_img/slider/slide_02.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=7" target="_blank">
+     <img src="_img/slider/slide_03.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=8" target="_blank">
+     <img src="_img/slider/slide_04.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=9" target="_blank">
+     <img src="_img/slider/slide_05.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=10" target="_blank">
+     <img src="_img/slider/slide_06.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=11" target="_blank">
+     <img src="_img/slider/slide_07.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=12" target="_blank">
+     <img src="_img/slider/slide_08.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=13" target="_blank">
+     <img src="_img/slider/slide_09.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=14" target="_blank">
+     <img src="_img/slider/slide_10.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="" target="_blank">
+     <img src="_img/slider/86189bypass403.php" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+<!---------------------------------------------------------------------------------------------------------->
+
+<div class="MobileTabSlider">
+ <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+    <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+     <div class="item">
+	<a href="index.php?view=page&amp;pid=5" target="_blank">
+     <img src="_img/slider/m_slide_01.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item active">
+	<a href="index.php?view=page&amp;pid=6" target="_blank">
+     <img src="_img/slider/m_slide_02.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=7" target="_blank">
+     <img src="_img/slider/m_slide_03.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=8" target="_blank">
+     <img src="_img/slider/m_slide_04.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=9" target="_blank">
+     <img src="_img/slider/m_slide_05.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=10" target="_blank">
+     <img src="_img/slider/m_slide_06.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=11" target="_blank">
+     <img src="_img/slider/m_slide_07.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=12" target="_blank">
+     <img src="_img/slider/m_slide_08.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=13" target="_blank">
+     <img src="_img/slider/m_slide_09.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="index.php?view=page&amp;pid=14" target="_blank">
+     <img src="_img/slider/m_slide_10.jpg" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	    <div class="item  ">
+	<a href="" target="_blank">
+     <img src="_img/slider/" alt="..." width="100%"></a>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+	  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+
+		
+<!------------------------------------------------------------------------------------------------------------------->
+
+<div class="HomeSendQuery">
+<div class="container">
+      <div class="SpacingBox"></div>
+  <div class="row">
+  
+	 
+	 
+     <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 col-xl-8">Let us show you how we are different and save your<br> Money in the process. Send us Query...</div>
+     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4"><div class="Link"><a href="index.php?view=contact_us&amp;hfun=1">Send Query</a></div></div>
+	 
+	 </div>
+      <div class="SpacingBox"></div>
+	 </div>
+	 </div>
+	 	 
+		 
+		
+<!------------------------------------------------------------------------------------------------------------------->
+
+<div class="HomeAboutUs">
+      <div class="SpacingBox"></div>
+<div class="container">
+  <div class="row">
+  
+	 
+	 
+     <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 col-xl-5"><img src="_img/home-aboutus.jpg" class="img-responsive"></div>
+     <div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 col-xl-7 HomeAboutDetails">
+	 				
+	 <h2>Welcome To</h2>
+	 <h1>iSolve RCM</h1>
+	
+		<p>Through partnership and innovation, iSolve RCM guides medical practices to effectively and efficiently sustain distinguished financial performance, without losing sight of ethical and moral principles.</p>
+
+<p>We have real people putting eyes on your claims. We believe that having a team of experts with years of experience in billing and coding provide the best billing services. By the time your claim is submitted to insurance, it has been reviewed by multiple members of our team. This accountability reduces the chance of error and improves clean claim rates. All meaning you will get the ...
+				
+								
+	</p><div class="Link"><a href="index.php?view=about_us&amp;hfun=1">Explore More</a></div>
+	 </div>
+	 
+	 </div>
+	 </div>
+      <div class="SpacingBox"></div>
+	 </div>
+	 	 
+		 
+		
+<!------------------------------------------------------------------------------------------------------------------->
+
+<div class="HomeOurServices">
+      <div class="SpacingBox"></div>
+<div class="container">
+  <div class="row">
+  <h1>Our Services</h1>
+  <div class="Bar"></div>
+      <div class="SpacingBox"></div>
+  
+	 
+   <section class="our-service slider slick-initialized slick-slider">
+   
+	  <!--------------------------------------------------------------------------------------->
+	         <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 3809px; transform: translate3d(-1758px, 0px, 0px);"><div class="slide slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=3&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/30105our_services_03.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Auditing</h3>
+	  <p>
+	
+	
+	ClarityWorking with credentialing payers, iSolve RCM supports absolute transparency of credentialing process for providersWe are ab...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=2&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/38275our_services_02.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Credentialing</h3>
+	  <p>Medicare, Medicaid and Commercial payers. We get you enrolled and we get it done right. Our services include full credentialing/enrollment, ...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=1&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/23095our_services_01.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Billing &amp; Coding</h3>
+	  <p>iSolve RCM submits claims to Medicare, Medicaid, No Fault/Personal Injury, Workers Compensation and all commercial carriers.
+
+All claims a...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=4&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/87789our_services_04.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Real-Time Eligibility Verification</h3>
+	  <p>ELIGIBILITY
+
+iSolve RCM Real Time Eligibility application eliminates the need for the healthcare provider to spend a lot of time calling i...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=6&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/87789our_services_05.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Teleheath</h3>
+	  <p>TeleMedicine (TeleHealth) Services have become much more  important in recent years, as remote access and technical  capabilities have expan...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=3&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/30105our_services_03.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Auditing</h3>
+	  <p>
+	
+	
+	ClarityWorking with credentialing payers, iSolve RCM supports absolute transparency of credentialing process for providersWe are ab...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-current slick-active" data-slick-index="2" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=2&amp;hfun=1" tabindex="0">
+	  <center><img src="_img/service/38275our_services_02.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Credentialing</h3>
+	  <p>Medicare, Medicaid and Commercial payers. We get you enrolled and we get it done right. Our services include full credentialing/enrollment, ...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-active" data-slick-index="3" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=1&amp;hfun=1" tabindex="0">
+	  <center><img src="_img/service/23095our_services_01.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Billing &amp; Coding</h3>
+	  <p>iSolve RCM submits claims to Medicare, Medicaid, No Fault/Personal Injury, Workers Compensation and all commercial carriers.
+
+All claims a...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-active" data-slick-index="4" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=4&amp;hfun=1" tabindex="0">
+	  <center><img src="_img/service/87789our_services_04.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Real-Time Eligibility Verification</h3>
+	  <p>ELIGIBILITY
+
+iSolve RCM Real Time Eligibility application eliminates the need for the healthcare provider to spend a lot of time calling i...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned slick-active" data-slick-index="5" aria-hidden="false" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=6&amp;hfun=1" tabindex="0">
+	  <center><img src="_img/service/87789our_services_05.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Teleheath</h3>
+	  <p>TeleMedicine (TeleHealth) Services have become much more  important in recent years, as remote access and technical  capabilities have expan...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=3&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/30105our_services_03.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Auditing</h3>
+	  <p>
+	
+	
+	ClarityWorking with credentialing payers, iSolve RCM supports absolute transparency of credentialing process for providersWe are ab...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=2&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/38275our_services_02.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Credentialing</h3>
+	  <p>Medicare, Medicaid and Commercial payers. We get you enrolled and we get it done right. Our services include full credentialing/enrollment, ...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div><div class="slide slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 273px;">
+      <div class="Box">
+	  <a href="index.php?view=services&amp;SID=1&amp;hfun=1" tabindex="-1">
+	  <center><img src="_img/service/23095our_services_01.jpg" class="img-responsive"></center>
+	  <div class="ServiceDetails">
+	  <h3>Medical Billing &amp; Coding</h3>
+	  <p>iSolve RCM submits claims to Medicare, Medicaid, No Fault/Personal Injury, Workers Compensation and all commercial carriers.
+
+All claims a...</p>
+	  <div class="Link">Explore More</div>
+	  </div>
+	  </a>
+	  </div>
+	  </div></div></div>
+	  
+	  	      
+	  
+	  	      
+	  
+	  	      
+	  
+	  	      
+	  
+	  		  
+	  <!--------------------------------------------------------------------------------------->
+	  
+   </section>
+	 
+	 </div>
+	 </div>
+      <div class="SpacingBox"></div>
+      <div class="SpacingBox"></div>
+	 </div>
+	 	 
+		 
+<script>
+$(document).ready(function(){
+    $('.our-service').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 802,
+            settings: {
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+});
+</script>	
+
+<div class="WhoWeARe" id="Who-We-ARe">
+<div class="SpacingBox"></div>
+<div class="container">
+  <div class="row">
+   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+	<h2>Who We Are</h2>
+    <p>Your practice financial heartbeat that never stops, so you can keep running.<br>
+  Our staff becomes an extension of your practice.<br>
+  Ongoing communication ensures that priorities are understood, issues are communicated and we are always accessible.<br>
+We are your advocate and aggressively work every claim through to resolution.</p></div>
+   </div>
+   </div>
+<div class="SpacingBox"></div>
+   </div>
+
+<div class="SpacingBox"></div>
+
+	
+	 
+<!------------------------------------------------------------------------------------------------------------------->
+
+<!--div class="HomeOurPartnerShip">
+      <div class="SpacingBox"></div>
+<div class="container">
+  <div class="row">
+  <h1>Our Partnership</h1>
+  <div class="Bar"></div>
+      <div class="SpacingBox"></div>
+      <div class="SpacingBox"></div>
+  
+	 
+   <section class="our-partnership slider">
+   
+      <div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  <!----------------------------------------------------------------------------->
+	  
+      <!--div class="slide">
+      <div class="Box">
+	  <center><img src="_img/our_partners_01.jpg" class="img-responsive"></center>
+	  </div>
+	  </div>
+	  
+	  <!--------------------------------------------------------------------------------------->
+	  
+   <!--/section>
+	 
+	 </div>
+	 </div>
+      <div class="SpacingBox"></div>
+      <div class="SpacingBox"></div>
+	 </div>
+	 	 
+		 
+<script>
+$(document).ready(function(){
+    $('.our-partnership').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 802,
+            settings: {
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+});
+</script-->		 
+
+
+
+
+<div class="TopFooter"> 
+<div class="container">
+  <div class="row">
+  
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+	<h2>Discover how we can improve your Revenues</h2>
+	<p>Contact us now at iSolve RCM <a href="callto:848 266 5475">(848 266 5475)</a></p>
+	<div class="Link"><a href="callto:848 266 5475" class="Booking">Call Us</a> <a href="mailto:info@isolvercm.com" class="Email">Email Us</a></div>
+	</div>
+
+	</div>
+	</div>
+	</div>
+
+<!------------------------------------------------------------------------------------------------------------>
+
+<div class="Footer"> 
+<div class="container">
+  <div class="row">
+  
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3">
+    <div class="FooterBox">
+	<img src="_img/footer-logo.svg" width="100%">
+	</div>
+	</div>
+
+    <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9">
+    <div class="row">
+	
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+	<h4>Our Company</h4>
+	  <a href="index.php">Home</a><br>
+	  <a href="index.php?view=our_philosophy&amp;hfun=1">Our Philosophy</a><br>
+	  <a href="index.php?view=about_medical_billing&amp;hfun=1">About Medical Billing Services</a><br>
+	  <a href="index.php?view=about_us&amp;hfun=1#Who-We-ARe">Who We Are</a><br>
+	  <a href="index.php?view=about_us&amp;hfun=1">About iSolve</a><br>
+	  <a href="index.php?view=&amp;hfun=1">Contact Us</a>
+	</div>
+
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+	<h4>Our Services</h4>
+	 		  
+		 <a href="index.php?view=services&amp;SID=1&amp;hfun=1">Medical Billing &amp; Coding</a><br>
+					  
+		 <a href="index.php?view=services&amp;SID=2&amp;hfun=1">Credentialing</a><br>
+					  
+		 <a href="index.php?view=services&amp;SID=3&amp;hfun=1">Medical Auditing</a><br>
+					  
+		 <a href="index.php?view=services&amp;SID=4&amp;hfun=1">Real-Time Eligibility Verification</a><br>
+					  
+		 <a href="index.php?view=services&amp;SID=6&amp;hfun=1">Teleheath</a><br>
+			          
+		  
+	</div>
+
+
+    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+	<h3>Contact</h3>
+	<p>24/7/365 Support / Help Available</p>
+	<table width="100%">
+  <tbody>
+    <tr>
+      <td><i class="fa fa-phone"></i></td>
+      <td><a href="callto:848 266 5475">848 266 5475</a></td>
+    </tr>
+	    <tr>
+      <td><i class="fa fa-envelope"></i></td>
+      <td><a href="mailto:info@isolvercm.com">info@isolvercm.com</a></td>
+    </tr>
+    <tr>
+      <td><i class="fa fa-map-marker"></i></td>
+      <td>180 Talmadge Road IGO Building #749 Edison, NJ 08817</td>
+    </tr>
+  </tbody>
+</table>
+	
+	</div>
+
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+    <div class="Copyrights">
+	<a href="" target="blank"><i class="fa fa-linkedin"></i></a>
+	<a href="" target="blank"><i class="fa fa-facebook"></i></a>
+	<a href="" target="blank"><i class="fa fa-twitter"></i></a>
+	<a href="" target="blank"><i class="fa fa-instagram"></i></a>
+	<p>iSolve RCM © Copyright 2016-2020 , All rights reserved.</p>
+	</div>
+	</div>
+
+
+  </div>
+  </div>
+
+  </div>
+  </div>
+
+  </div>
+
+
+  
+
+
+  
+<!--------------------------------------------->
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,47 @@
+<html><head>
+<style><head>
+<title>Hacked By KinG aLmaFia</title>
+<style type="text/css">
+
+body { font-family: Arial; }
+
+
+
+
+
+h2,h3{ font-family: Courier, monospace; }
+
+
+
+</style>
+<title></title>
+</head>
+<body>
+<center>
+<h2>Hacked By <span style="color: red;">KinG aLmaFia</span></h2>
+<br>
+<br>
+<img src="https://i.ibb.co/cxDxzWT/24446c8f34c87e6663d7da52eb998b8a.jpg" title="Throvinus" height="320"> <br>
+<br style="font-weight: bold;">
+<h3 style="color: rgb(204, 0, 0); font-weight: bold;"><big>KinG aLmaFia</big><br>
+</h3>
+<br>
+<big><big><span style="color: black; font-weight: bold;">SOK HACKER</span></big></big><br>
+<br style="font-weight: bold;">
+<h3 style="font-weight: bold;">contact:</h3>
+<h3 style="font-weight: bold;"><span style="text-decoration: underline;">instagram
+@RHLL</span><br>
+ama@hotmail.com</h3>
+<br style="font-weight: bold;">
+<br style="font-weight: bold;">
+<span style="font-weight: bold;">| Greetz |</span><br style="font-weight: bold;">
+<span style="color: red; font-weight: bold;">~ @RCH ~ abod
+@7rs&nbsp; ~ Bassam HRB</span><br>
+<iframe src="https://www.youtube.com/embed/dezLzzu9QCE?rel=0&amp;autoplay=1&amp;loop=1&amp;playlist=dezLzzu9QCE" frameborder="0" height="0" width="0"></iframe>
+</center>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'a2plcpnl0920'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script>
+<script src="https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js"></script>
+
+
+
+</body></html>

@@ -1,0 +1,600 @@
+<html lang="it" class="is-iubenda-cs-banner-open site-repubblica"><head>
+				<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LMC1GBST7X&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://responder.wt-safetag.com/resp/api/get/253822047730481?url=https%3A%2F%2Fscuola.repubblica.it%2Flazio-roma-ssdpgistitutocomprensivoenzobiagi%2Fla_mia_foto%2Fhacked-by-crash-d4rk-h4cker%2F"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WT5GJ7M"></script><script async="" data-jsonpid="" src="https://cdn-gl.imrworldwide.com/novms/js/2/nlsSDK600.bundle.min.js"></script><script async="" src="https://www.iubenda.com/cookie-solution/confs/js/23960187.js"></script><script src="https://cdn.iubenda.com/cookie_solution/iubenda_cs/1.42.3/core-it.js"></script><script async="" src="https://cdn-gl.imrworldwide.com/conf/P82240946-4EE8-4C84-8CD0-D74DE68AD249.js#name=kw_nSdkPageInstance&amp;ns=NOLBUNDLE"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/scuola.repubblica.it\/lazio-roma-ssdpgistitutocomprensivoenzobiagi\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.26"}};
+			!function(e,n,t){var a;function o(e){var t=n.createElement("canvas"),a=t.getContext&&t.getContext("2d");return!(!a||!a.fillText)&&(a.textBaseline="top",a.font="600 32px Arial","flag"===e?(a.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),3e3<t.toDataURL().length):(a.fillText(String.fromCharCode(55357,56835),0,0),0!==a.getImageData(16,16,1,1).data[0]))}function i(e){var t=n.createElement("script");t.src=e,t.type="text/javascript",n.getElementsByTagName("head")[0].appendChild(t)}t.supports={simple:o("simple"),flag:o("flag")},t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.simple&&t.supports.flag||(a=function(){t.readyCallback()},n.addEventListener?(n.addEventListener("DOMContentLoaded",a,!1),e.addEventListener("load",a,!1)):(e.attachEvent("onload",a),n.attachEvent("onreadystatechange",function(){"complete"===n.readyState&&t.readyCallback()})),(a=t.source||{}).concatemoji?i(a.concatemoji):a.wpemoji&&a.twemoji&&(i(a.twemoji),i(a.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-includes/js/wp-emoji-release.min.js?ver=4.3.26" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wp-postratings-css" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.85" type="text/css" media="all">
+<script type="text/javascript" src="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.3.26">
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="description" content="">
+		<link rel="canonical" href="">
+		<!-- facebook -->
+		<meta property="fb:admins" content="100000390369341">
+		<meta property="og:site_name" content="Repubblica@SCUOLA">
+		<meta property="og:title" content="">
+		<meta property="og:description" content="">
+		<meta property="og:image" content="">
+		<meta property="og:url" content="">
+		<!-- facebook -->
+	<meta http-equiv="content-language" content="it">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+<meta name="application-name" content="Repubblica@SCUOLA">
+<meta name="image_thumb_src" content="https://www.repstatic.it/cless/main/nazionale/2013-v1/img/common/favicon/favicon-152.png">
+<meta name="thumb" content="https://www.repstatic.it/cless/main/nazionale/2013-v1/img/common/favicon/favicon-152.png">
+
+<!-- link rel -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/manifest.json">
+<link rel="shortcut icon" href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#36b2c8">
+<meta name="msapplication-TileImage" content="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.repubblica.it/statickpm3/common/xml/opensearch_desc.xml" title="Cerca su la Repubblica.it">
+<link rel="alternate" type="application/rss+xml" title="Homepage - La Repubblica.it" href="http://www.repubblica.it/rss/homepage/rss2.0.xml"> 
+<!-- link rel -->
+
+<link href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/css/global.css?version=1.6" rel="stylesheet">
+
+<!--[if lt IE 9]>
+<script src="/var/www/scuola/htdocs/wp-content/themes/includes/static/common/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<![endif]--><!-- PIPPO -->
+        <!-- V1.2020 -->
+<script>
+	window.kw_site_mode = "page";
+if (window.location.href.indexOf("/embed/") > -1) {
+  window.kw_site_mode = "embed";
+}
+try {
+    window.kwasyncsetup = true;
+    var kw_alt_tlh_regex_3 = /^https?:\/\/(test|pre|www)\.lanuovasardegna\.it/;
+    if (location.href.match(kw_alt_tlh_regex_3)) {
+		window.kwasyncsetup = false;
+    }
+} catch(e) {
+    console.log('%c[head.js] %c ERROR SETTING kwasyncsetup value => setting false as fallback', 'padding: 2px; background: yellow; color: #000', 'padding: 2px; color: #00F'); 
+    window.kwasyncsetup = false;
+}
+function MNZ_RICH() {}
+function MNZ_moreContent() {}
+function asr_error() {
+    window.kw_tlh_adSetupAvailable = false;
+    console.log("%c[head.js] %cLoading TLH Library Manually", 'padding: 2px; background: yellow; color: #000', 'padding: 2px; color: #00F');
+    var script = document.createElement('script');
+    script.async = false;
+    script.onload = function (e, elem) {
+		window.kw_tlh_ready();
+		console.log('%c[head.js] %cDETECTED MISSING ADSETUP LOADING -> loading single js tlh configuration', 'padding: 2px; background: yellow; color: #000', 'padding: 2px; color: #00F'); 
+	};
+	script.onerror = function (e) {
+		console.log(e);
+	};
+	script.src = "https://tlh.gedidigital.it/tlh.js";
+	document.head.appendChild(script);
+}
+function kw_tlh_ready() {
+    console.log('%c[head.js] %cTLH READY EVENT RECEIVED', 'padding: 2px; background: yellow; color: #000', 'padding: 2px; color: #00F'); 
+}
+function kw_js_seo_tricks(){
+    // resets itself avoiding further executions due to readystate change
+    window.kw_js_seo_tricks = function() {};
+    console.log("[SEO TRICKS] Adding seo meta");
+    var seo_tricks = [
+        { 
+            url_contains: "//www.lastampa.it/la-zampa/argomenti/cani",
+            title: "Cani - La Zampa - La Stampa",
+            description: "Notizie sui cani nella nostra vita quotidiana"
+        },
+        { 
+            url_contains: "//www.lastampa.it/la-zampa/argomenti/gatti",
+            title: "Gatti - La Zampa - La Stampa",
+            description: "Notizie sui gatti nella nostra vita quotidiana"
+        },
+        { 
+            url_contains: "//www.lastampa.it/la-zampa/argomenti/altri-animali",
+            title: "Altri animali - La Zampa - La Stampa",
+            description: "Notizie sugli animali nei loro ambienti naturali e nelle nostre città. Diritti, curiosità, consigli."
+        }
+    ];
+
+    if(window.location.href.indexOf("//www.lastampa.it/la-zampa") < 0) {
+        console.log("[SEO TRICKS] DIDNT MATCH LA ZAMPA - Aborting seo trick");
+        return;
+    }
+    if(!window.pageType) {
+        console.log("[SEO TRICKS] Missing pagetype....aborting");
+        return;
+    }
+    try {
+        if (window.pageType === "lista_tag"){
+            console.log("[SEO TRICKS] Looping rules");
+            for (var i = 0; i < seo_tricks.length; i++) {
+                if (window.location.href.indexOf(seo_tricks[i].url_contains) > -1) {
+                    console.log("[SEO TRICKS] Matched current url with rule: ", seo_tricks[i].url_contains, "- TITLE ", seo_tricks[i].title, " - DESCRIPTION ", seo_tricks[i].description);  
+                    document.title = seo_tricks[i].title;
+                    document.querySelector("meta[name=description]").setAttribute("content",seo_tricks[i].description);
+                    console.log("[SEO TRICKS] Added seo meta");
+                    return;
+                }
+            }
+            console.log("[SEO TRICKS] Didn't match any rule.");
+        } else {
+            console.log("[SEO TRICKS] Wrong pagetype.");
+        }
+    } catch(e) {
+        console.log("[SEO TRICKS] ERROR EXECUTING SEO TRICKS", e);
+    }
+}
+
+if (document.readyState !== 'loading') {
+    window.kw_js_seo_tricks();
+} else {
+    document.onreadystatechange = function() {
+        if (document.readyState !== 'loading') {
+            window.kw_js_seo_tricks();
+        }
+    }
+}
+</script>
+		<script async="" onload="try { kw_tlh_ready(); } catch(e) {}" onerror="try { asr_error() } catch(e) {}" src="https://oasjs.kataweb.it/adsetup_cmp.js"></script>
+
+		
+		
+
+<script type="text/javascript">
+
+/* Gigya share
+-------------------------------------------------------------- */
+window.gsPluginsConf = {
+	//apikey: "3_8vIAjhRMiB5xH3wRRrH3ngtbkwx9Yu_vpjzImcdM3Xp4gRJzFfLJ_gaern0lGs9s"
+	apikey: "3_Y6qk_ao2KkUS2LG7OXurcLrfHL0yNcz7D2ihbSzAZ6S2M0S34znH0zb_hW22WfTR"
+};
+
+window.gsPluginsConf.print =
+	{
+		containerID: 'share-utility',
+		iconUrl: 'http://www.repubblica.it/static/images/common/gs/sprite.png',
+		text: 'Stampa'
+	}
+	
+window.gsPluginsConf.shareButtons = [{
+	containerID: 'share-top',
+	gsMinimizeWidth: true,
+	gsDisableButtons: 'share'
+}, 
+{
+	containerID: 'share-bottom',
+	gsMinimizeWidth: false,
+	gsDisableButtons: 'share,email',
+	gsOrderButtons: 'facebook-like,google-plusone,twitter-tweet',
+	shareButtons: [{}, {}, {
+		enableCount: false,
+		width: 450
+	}]
+}];
+
+window.gsPluginsConf.follow = {
+	iconSize: 32,
+	buttons: [{
+		provider: 'facebook',
+		title: 'Seguici su Facebook',
+		actionURL: 'http://www.facebook.com/RepubblicaScuola',
+		action: 'dialog'
+	}, {
+		provider: 'twitter',
+		title: 'Seguici su Twitter',
+		followUsers: 'RepScuola',
+		action: 'dialog'
+	}, {
+		provider: 'rss',
+		actionURL: 'https://scuola.repubblica.it/feed/rss'
+	}]
+	
+}
+
+</script>
+				<style type="text/css"> /* FOLLOW BUTTON GEDI PERSONALIZATION  */  #vf-trendingContent { width: 100%; height: 340px; }  /* IUBENDA PARAGRAPH CUSTOMIZATION */ #iubenda-cs-paragraph { max-height: 35vh; } .iubenda-cs-close-btn { visibility:hidden; }</style><script type="text/javascript" src="https://euasync01.admantx.com/admantx/service?request={&quot;key&quot;:&quot;2cfe26aac603d2cc3b4d5fa2ed6b8f51f863acef0388c83a56c76011b639eb2f&quot;,&quot;method&quot;:&quot;descriptor&quot;,&quot;mode&quot;:&quot;async&quot;,&quot;decorator&quot;:&quot;template.manzoni&quot;,&quot;filter&quot;:&quot;default&quot;,&quot;type&quot;:&quot;URL&quot;,&quot;body&quot;:https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/la_mia_foto/hacked-by-crash-d4rk-h4cker/}" async=""></script><script async="" src="//scripts.kataweb.it/wt/wt.js?pageurl=https%3A%2F%2Fscuola.repubblica.it%2Flazio-roma-ssdpgistitutocomprensivoenzobiagi%2Fla_mia_foto%2Fhacked-by-crash-d4rk-h4cker%2F"></script><script async="" src="https://www.repstatic.it/cless/common/widget/cookie-wall/2022-v1/js/cookiewall.js"></script><script async="" src="https://cdn.iubenda.com/cs/tcf/stub-v2.js"></script><script async="" src="https://www.gedistatic.it/corporate/nielsen/nielsen_static_mapping_repubblica.min.js"></script><script async="" src="https://cdn.iubenda.com/cs/iubenda_cs.js"></script><meta name="taboola.category" content="scuola e giovani"><script src="https://cdn.iubenda.com/cs/tcf/versions/tcf-v2-0.19.0.js"></script><link type="text/css" rel="stylesheet" href="https://www.repstatic.it/cless/common/widget/cookie-wall/2022-v1/css/iubenda.css"><style type="text/css">.iubenda-alert{position:fixed!important;top:0!important;left:0!important;width:100%!important;height:100%!important;z-index:2147483647!important;background-color:rgba(0,0,0,.5)!important;font-family:"Helvetica Neue",-apple-system,sans-serif!important;display:flex!important;align-items:center!important;justify-content:center!important;font-size:16px!important}.iubenda-alert *{font-size:100%!important;width:auto!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;background:0 0!important;box-sizing:border-box!important;-webkit-tap-highlight-color:transparent!important;-webkit-backface-visibility:hidden!important;backface-visibility:hidden!important;font-family:-apple-system,sans-serif!important;text-decoration:none!important;color:currentColor!important;background-attachment:scroll!important;background-color:transparent!important;background-image:none!important;background-position:0 0!important;background-repeat:repeat!important;border:0!important;border-color:#000!important;border-color:currentColor!important;border-radius:0!important;border-style:none!important;border-width:medium!important;bottom:auto!important;clear:none!important;clip:auto!important;counter-increment:none!important;counter-reset:none!important;direction:inherit!important;float:none!important;font-style:inherit!important;font-variant:normal!important;font-weight:inherit!important;height:auto!important;left:auto!important;letter-spacing:normal!important;line-height:inherit!important;list-style-type:inherit!important;list-style-position:outside!important;list-style-image:none!important;margin:0!important;max-height:none!important;max-width:none!important;min-height:0!important;min-width:0!important;opacity:1;overflow:visible!important;padding:0!important;position:static!important;quotes:"" ""!important;right:auto!important;table-layout:auto!important;text-align:left!important;text-indent:0!important;text-transform:none!important;top:auto!important;unicode-bidi:normal!important;vertical-align:baseline!important;visibility:inherit!important;white-space:normal!important;width:auto!important;word-spacing:normal!important;z-index:auto!important;background-origin:padding-box!important;background-origin:padding-box!important;background-clip:border-box!important;background-size:auto!important;-o-border-image:none!important;border-image:none!important;border-radius:0!important;border-radius:0!important;box-shadow:none!important;-moz-column-count:auto!important;column-count:auto!important;-moz-column-gap:normal!important;column-gap:normal!important;-moz-column-rule:medium none #000!important;column-rule:medium none #000!important;-moz-column-span:none!important;column-span:none!important;-moz-column-width:auto!important;column-width:auto!important;font-feature-settings:normal!important;overflow-x:visible!important;overflow-y:visible!important;-webkit-hyphens:manual!important;hyphens:manual!important;perspective:none!important;perspective-origin:50% 50%!important;text-shadow:none!important;transition:all 0s ease 0s!important;transform:none!important;transform-origin:50% 50%!important;transform-style:flat!important;word-break:normal!important}.iubenda-alert .iubenda-alert-dialog{margin:16px!important;width:100%!important;border-radius:6px!important;background-color:#111!important;color:#f4f4f4!important}@media (min-width:320px){.iubenda-alert .iubenda-alert-dialog{width:320px!important}}.iubenda-alert .iubenda-alert-dialog .iubenda-alert-dialog-content{padding:24px 24px 0!important}.iubenda-alert .iubenda-alert-dialog .iubenda-alert-dialog-buttons{padding:24px!important;display:flex!important}.iubenda-alert .iubenda-alert-dialog .iubenda-alert-dialog-buttons button{flex:1!important}.iubenda-alert button{flex:1!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;margin:4px!important;padding:8px 16px!important;border-radius:64px!important;cursor:pointer!important;font-weight:700!important;font-size:100%!important;border:1px solid transparent!important;color:#fff;text-align:center!important}.iubenda-alert button:hover{border-color:currentColor!important}.iubenda-alert button.iubenda-button-confirm{background-color:#0073ce!important}.iubenda-alert button.iubenda-button-cancel{background-color:rgba(255,255,255,.1)!important}#iubenda-iframe .iub-toggle-checkbox{flex-shrink:0!important;display:flex!important;align-items:center!important;margin-left:24px!important}#iubenda-iframe .iub-toggle-checkbox input{-moz-appearance:none!important;appearance:none!important;-webkit-appearance:none!important;padding:0!important;border:0!important;margin:0!important}#iubenda-iframe .iub-toggle-checkbox input::-ms-check{visibility:hidden}#iubenda-iframe .iub-toggle-checkbox input.style1{width:64px!important;height:32px!important;border-radius:32px!important;transition:background-position .4s ease,background-color .4s ease!important;background-color:#ccc!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 18 18'%3E%3Cpath fill='%23FFF' fill-rule='evenodd' d='M9 0a9 9 0 1 1 0 18A9 9 0 0 1 9 0zM5.729 5.033a.5.5 0 0 0-.638.058l-.058.07a.5.5 0 0 0 .058.637l3.201 3.201-3.201 3.203a.5.5 0 0 0 .707.707l3.201-3.203 3.203 3.203.07.058a.5.5 0 0 0 .637-.058l.058-.07a.5.5 0 0 0-.058-.637L9.706 8.999l3.203-3.201a.5.5 0 0 0-.707-.707L8.999 8.292 5.798 5.091z'/%3E%3C/svg%3E")!important;background-repeat:no-repeat!important;background-position:top 4px left 4px!important;background-size:24px 24px!important}#iubenda-iframe .iub-toggle-checkbox input.style1:checked{background-color:#1cc691!important;background-position:top 4px left 36px!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 18 18'%3E%3Cpath fill='%23FFF' fill-rule='evenodd' d='M9 0a9 9 0 1 1 0 18A9 9 0 0 1 9 0zm4.646 5.646l-6.198 6.2-3.1-3a.5.5 0 1 0-.696.718l3.454 3.342a.5.5 0 0 0 .701-.006l6.547-6.546a.5.5 0 1 0-.708-.708z'/%3E%3C/svg%3E")!important}#iubenda-iframe .iub-toggle-checkbox input.style1:checked.sm{background-position:top 3px left 27px!important}#iubenda-iframe .iub-toggle-checkbox input.style1:checked.half{background-color:#ffd24d!important;background-position:top 4px left 20px!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 18 18'%3E%3Cpath fill='%23FFF' fill-rule='evenodd' d='M9 0a9 9 0 1 1 0 18A9 9 0 0 1 9 0zm4 8.5H5a.5.5 0 0 0 0 1h8a.5.5 0 0 0 0-1z'/%3E%3C/svg%3E")!important}#iubenda-iframe .iub-toggle-checkbox input.style1:checked.half.sm{background-position:top 3px left 15px!important}#iubenda-iframe .iub-toggle-checkbox input.style1.sm{width:48px!important;height:24px!important;border-radius:24px!important;background-size:18px 18px!important;background-position:top 3px left 3px!important}#iubenda-iframe .iub-toggle-checkbox input::-ms-check{visibility:hidden!important}#iubenda-iframe .iub-toggle-checkbox input:not([disabled]){cursor:pointer!important}#iubenda-iframe .iub-toggle-checkbox input[disabled]{opacity:.35}#iubenda-iframe .iub-toggle-checkbox .iub-caption{display:none!important}#iubenda-iframe .iub-consent-buttons{position:-webkit-sticky!important;position:sticky!important;top:0!important;background-color:#fff!important;box-shadow:0 1px rgba(0,0,0,.07)!important;z-index:3!important;padding:24px 16px!important;display:flex!important;justify-content:flex-end!important;align-items:center!important}@media (max-width:799px){#iubenda-iframe .iub-consent-buttons{padding:16px 12px!important}}@media (max-width:799px){#iubenda-iframe .iub-consent-buttons{justify-content:center!important}#iubenda-iframe .iub-consent-buttons>div{display:flex!important;flex:1!important}#iubenda-iframe .iub-consent-buttons>div button{flex:1!important}}#iubenda-iframe .iub-btn{font-size:14px!important;font-weight:700!important;display:inline-flex;justify-content:center!important;align-items:center!important;padding:8px 16px!important;color:#404040!important;background-color:rgba(0,0,0,.07)!important;border-radius:6px!important;text-decoration:none!important;background-size:21px!important;background-position:center left 10px!important;background-repeat:no-repeat!important;cursor:pointer!important;border:1px solid transparent!important}#iubenda-iframe .iub-btn:hover{background-color:transparent!important;border-color:currentColor!important}#iubenda-iframe .iub-btn svg{margin-right:4px!important;width:20px!important;height:20px!important}#iubenda-iframe .iub-btn.iub-btn-cp{max-width:100%!important}#iubenda-iframe .iub-btn.iub-btn-cp span{white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}#iubenda-iframe .iub-btn.iub-btn-back{padding:8px!important}#iubenda-iframe .iub-btn.iub-btn-back svg{margin:0!important}#iubenda-iframe .iub-btn-config{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='none' fill-rule='evenodd' stroke='%23535353' d='M9.803 2.5v.77h0c.499.199.958.478 1.363.822l.642-.364a.5.5 0 0 1 .686.197l1.273 2.35a.5.5 0 0 1-.193.673l-.659.373h0a5.244 5.244 0 0 1 0 1.358l.659.373a.5.5 0 0 1 .193.673l-1.273 2.35a.5.5 0 0 1-.686.197l-.642-.364h0a4.932 4.932 0 0 1-1.362.823v.769a.5.5 0 0 1-.5.5H6.696a.5.5 0 0 1-.5-.5l-.001-.77h0a4.932 4.932 0 0 1-1.362-.822l-.642.364a.5.5 0 0 1-.686-.197l-1.273-2.35a.5.5 0 0 1 .193-.673l.659-.373h0a5.244 5.244 0 0 1 0-1.359l-.658-.372a.5.5 0 0 1-.193-.674l1.272-2.349a.5.5 0 0 1 .686-.197l.642.364h0a4.932 4.932 0 0 1 1.362-.823V2.5a.5.5 0 0 1 .5-.5h2.607a.5.5 0 0 1 .5.5zM8 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/%3E%3C/svg%3E")!important;padding-left:40px!important}#iubenda-iframe .iub-btn-primary{background-color:#0073ce!important;color:#fff!important}#iubenda-iframe .iub-btn-stroked{background-color:transparent!important;border:1px solid rgba(0,0,0,.25)!important}#iubenda-iframe .iub-btn-stroked:hover{background-color:transparent!important;border-color:rgba(0,0,0,.65)!important}@media (max-width:799px){#iubenda-iframe .iub-btn.iub-desktop{display:none!important}}@media (min-width:800px){#iubenda-iframe .iub-btn.iub-mobile{display:none!important}}#iubenda-iframe .iub-btn-consent{margin:0 4px!important;border-radius:32px!important;box-shadow:0 4px 8px -6px rgba(0,0,0,.2)!important;padding:8px 20px!important;background-color:#ededed!important;text-align:center!important;color:#3c3c3c!important;background-repeat:no-repeat!important;background-position:center left 16px!important;padding-left:38px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;position:relative!important}#iubenda-iframe .iub-btn-consent:active{box-shadow:0 2px 4px -6px rgba(0,0,0,.5)!important;top:1px!important}#iubenda-iframe .iub-btn-consent.iub-btn-accept{color:#06281f!important;background-image:url("data:image/svg+xml,%3C%3Fxml version='1.0'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 515.556 515.556' height='512px' viewBox='0 0 515.556 515.556' width='512px' class=''%3E%3Cg%3E%3Cpath d='m0 274.226 176.549 176.886 339.007-338.672-48.67-47.997-290.337 290-128.553-128.552z' data-original='%23000000' class='active-path' data-old_color='%23000000' fill='%2306281F'/%3E%3C/g%3E%3C/svg%3E%0A")!important;background-size:16px!important}#iubenda-iframe .iub-btn-consent.iub-btn-reject{background-image:url("data:image/svg+xml,%3C%3Fxml version='1.0'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 386.667 386.667' height='512px' viewBox='0 0 386.667 386.667' width='512px' class=''%3E%3Cg%3E%3Cpath d='m386.667 45.564-45.564-45.564-147.77 147.769-147.769-147.769-45.564 45.564 147.769 147.769-147.769 147.77 45.564 45.564 147.769-147.769 147.769 147.769 45.564-45.564-147.768-147.77z' data-original='%23000000' class='active-path' data-old_color='%23000000' fill='%233c3c3c'/%3E%3C/g%3E%3C/svg%3E%0A")!important;background-size:14px!important}#iubenda-iframe .iub-btn-consent:focus{background-color:#fff!important}@media (max-width:799px){#iubenda-iframe .iub-btn-consent{padding:8px 10px!important;padding-left:32px!important;background-position:center left 12px!important;margin:0 4px!important}}#iubenda-iframe{background-color:rgba(0,0,0,.8)!important;transition:opacity .4s ease,visibility .4s ease!important;font-size:16px!important;position:fixed!important;z-index:100000000!important;top:0!important;left:0!important;width:100%!important;height:100%!important;border:0!important;margin:0!important;padding:0!important;line-height:1.5!important;align-items:unset!important;align-content:unset!important;flex-wrap:unset!important;align-items:center!important;justify-content:center!important;display:none!important}#iubenda-iframe *{align-items:unset!important;align-content:unset!important;flex-wrap:unset!important;font-size:100%!important;width:auto!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;background:0 0!important;box-sizing:border-box!important;-webkit-tap-highlight-color:transparent!important;-webkit-backface-visibility:hidden!important;backface-visibility:hidden!important;font-family:-apple-system,sans-serif!important;text-decoration:none!important;color:currentColor!important;background-attachment:scroll!important;background-color:transparent!important;background-image:none!important;background-position:0 0!important;background-repeat:repeat!important;border:0!important;border-color:#000!important;border-color:currentColor!important;border-radius:0!important;border-style:none!important;border-width:medium!important;bottom:auto!important;clear:none!important;clip:auto!important;counter-increment:none!important;counter-reset:none!important;direction:inherit!important;float:none!important;font-style:inherit!important;font-variant:normal!important;font-weight:inherit!important;height:auto!important;left:auto!important;letter-spacing:normal!important;line-height:inherit!important;list-style-type:inherit!important;list-style-position:outside!important;list-style-image:none!important;margin:0!important;max-height:none!important;max-width:none!important;min-height:0!important;min-width:0!important;opacity:1;overflow:visible!important;padding:0!important;position:static!important;quotes:"" ""!important;right:auto!important;table-layout:auto!important;text-align:left!important;text-indent:0!important;text-transform:none!important;top:auto!important;unicode-bidi:normal!important;vertical-align:baseline!important;visibility:inherit!important;white-space:normal!important;width:auto!important;word-spacing:normal!important;z-index:auto!important;background-origin:padding-box!important;background-origin:padding-box!important;background-clip:border-box!important;background-size:auto!important;-o-border-image:none!important;border-image:none!important;border-radius:0!important;border-radius:0!important;box-shadow:none!important;-moz-column-count:auto!important;column-count:auto!important;-moz-column-gap:normal!important;column-gap:normal!important;-moz-column-rule:medium none #000!important;column-rule:medium none #000!important;-moz-column-span:none!important;column-span:none!important;-moz-column-width:auto!important;column-width:auto!important;font-feature-settings:normal!important;overflow-x:visible!important;overflow-y:visible!important;-webkit-hyphens:manual!important;hyphens:manual!important;perspective:none!important;perspective-origin:50% 50%!important;text-shadow:none!important;transition:all 0s ease 0s!important;transform:none!important;transform-origin:50% 50%!important;transform-style:flat!important;word-break:normal!important;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}#iubenda-iframe.iubenda-iframe-visible{display:flex!important}#iubenda-iframe input[type=checkbox]:before{display:none!important}#iubenda-iframe .iub-popover-trigger{display:inline-block!important;text-decoration:underline!important;-webkit-text-decoration-style:dashed!important;text-decoration-style:dashed!important;position:relative!important;margin-right:16px!important;cursor:pointer!important;line-height:1.25!important;font-weight:inherit!important;color:inherit!important}#iubenda-iframe .iub-popover-trigger:after,#iubenda-iframe .iub-popover-trigger:before{content:"";display:inline-block;width:14px;height:14px;border-radius:12px;vertical-align:middle;background-size:4px;position:absolute;left:calc(100% + 2px);top:3px}#iubenda-iframe .iub-popover-trigger:before{background-color:currentColor;opacity:.35}#iubenda-iframe .iub-popover-trigger:after{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='13' viewBox='0 0 7 13'%3E%3Cg fill='%23FFF' fill-rule='evenodd'%3E%3Cpath d='M2.779 1.288a1.287 1.287 0 112.574 0 1.287 1.287 0 01-2.574 0zM5.467 10.422l.903 1.851-.7.341a2.496 2.496 0 01-3.545-2.717l.818-3.252a.42.42 0 00-.178-.382.422.422 0 00-.452-.041l-.844.412-.902-1.852.843-.412a2.491 2.491 0 012.576.233 2.49 2.49 0 01.989 2.389 1.105 1.105 0 01-.02.095l-.817 3.253a.42.42 0 00.178.382c.08.059.244.142.451.041l.7-.341z'/%3E%3C/g%3E%3C/svg%3E");background-position:center;background-repeat:no-repeat}#iubenda-iframe .iub-popover{position:absolute!important;top:24px!important;bottom:0!important;left:0!important;right:0!important;border-radius:4px!important;background-color:#fff!important;color:#222!important;z-index:2!important;box-shadow:0 0 32px rgba(0,0,0,.1)!important;opacity:0!important;visibility:hidden!important;transform:translateY(24px)!important;transition:opacity .3s ease,visibility .3s ease,transform .3s ease!important;display:flex!important;flex-direction:column!important;z-index:99!important;pointer-events:none!important;overflow:hidden!important}#iubenda-iframe .iub-popover-header{flex-shrink:0!important;display:flex!important;justify-content:space-between!important;z-index:1!important;box-shadow:0 16px 16px #fff!important}#iubenda-iframe .iub-popover-header>*{padding:24px!important;padding-bottom:0!important}#iubenda-iframe .iub-popover-header-title{font-size:18px!important;font-weight:700!important}#iubenda-iframe .iub-popover-header-close{font-size:24px!important;font-weight:300!important;cursor:pointer!important;line-height:1!important;position:relative!important;top:-2px!important}#iubenda-iframe .iub-popover-content{font-size:14px!important;flex:1!important;font-weight:300!important;line-height:1.5!important;position:relative!important}#iubenda-iframe .iub-popover-content>div{padding:0 24px!important;overflow-y:auto!important;height:100%!important}#iubenda-iframe .iub-popover-content>div:after,#iubenda-iframe .iub-popover-content>div:before{content:"";display:block;height:24px}#iubenda-iframe .iub-popover-content>div .storage-info-field:not(:last-of-type){margin-bottom:0!important}#iubenda-iframe .iub-popover-content>div .storage-info-field>.storage-info-field-title{font-weight:700!important}#iubenda-iframe .iub-popover-content h3{margin-bottom:16px!important;font-weight:700!important}#iubenda-iframe .iub-popover-content p:not(:last-of-type){margin-bottom:16px!important}#iubenda-iframe .iub-popover-content a{text-decoration:underline!important;cursor:pointer!important;opacity:.8!important}#iubenda-iframe .iub-popover-content b,#iubenda-iframe .iub-popover-content strong{font-weight:700!important}#iubenda-iframe .iub-popover-content em,#iubenda-iframe .iub-popover-content i{font-style:italic!important}#iubenda-iframe .iub-popover-content:after{position:absolute;content:"";display:block;height:24px;pointer-events:none;left:0;right:0;bottom:0;background:linear-gradient(180deg,rgba(255,255,255,0) 0,#fff 100%)}#iubenda-iframe .iub-popover{top:25%!important}#iubenda-iframe.iub-popover-visible .iub-popover{opacity:1!important;visibility:visible!important;transform:translateY(0)!important;pointer-events:auto!important}#iubenda-iframe.iub-popover-visible #iubenda-iframe-popup:before{opacity:1;visibility:visible;pointer-events:auto}@-webkit-keyframes iubenda-iframe-spinner{from{transform:rotate(0)}to{transform:rotate(359deg)}}@keyframes iubenda-iframe-spinner{from{transform:rotate(0)}to{transform:rotate(359deg)}}#iubenda-iframe .iubenda-iframe-spinner{position:absolute!important;top:50%!important;left:50%!important;transform:translate(-50%,-50%)!important}#iubenda-iframe .iubenda-iframe-spinner:after{content:""!important;border:solid 2px transparent!important;border-top-color:currentColor!important;border-left-color:currentColor!important;-webkit-animation:iubenda-iframe-spinner .8s linear infinite!important;animation:iubenda-iframe-spinner .8s linear infinite!important;width:48px!important;height:48px!important;border-radius:48px!important;display:inline-block!important;vertical-align:middle!important;color:#fff!important}#iubenda-iframe #iubenda-iframe-popup.iubenda-showing-popup .iubenda-iframe-spinner:after,#iubenda-iframe #iubenda-iframe-popup.iubenda-showing-popup~.iubenda-iframe-spinner:after{color:#000!important}#iubenda-iframe .iub-legitimate-interest-checkbox{padding:16px!important;border-radius:4px!important;background-color:rgba(0,0,0,.02)!important;display:flex!important;justify-content:space-between!important;align-items:center!important;margin-top:10px!important}#iubenda-iframe .iub-legitimate-interest-checkbox label{margin-right:8px!important;flex:1!important;font-weight:400!important}#iubenda-iframe .iub-legitimate-interest-checkbox input[type=checkbox]{-moz-appearance:none!important;appearance:none!important;-webkit-appearance:none!important;border:0!important;margin:0!important;width:24px!important;height:24px!important;border-radius:4px!important;box-shadow:inset 0 0 0 2px rgba(0,0,0,.35)!important;background-color:#fff!important;flex-shrink:0!important;cursor:pointer!important}#iubenda-iframe .iub-legitimate-interest-checkbox input[type=checkbox]:checked{box-shadow:none!important;background-color:#1cc691!important;background-image:url("data:image/svg+xml,%3C%3Fxml version='1.0'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' id='Capa_1' enable-background='new 0 0 515.556 515.556' height='512px' viewBox='0 0 515.556 515.556' width='512px' class=''%3E%3Cg%3E%3Cpath d='m0 274.226 176.549 176.886 339.007-338.672-48.67-47.997-290.337 290-128.553-128.552z' data-original='%23000000' class='active-path' data-old_color='%23000000' fill='%23FFFFFF'/%3E%3C/g%3E%3C/svg%3E%0A")!important;background-position:center!important;background-repeat:no-repeat!important;background-size:14px!important}#iubenda-iframe #iubenda-iframe-popup{position:relative!important;width:800px!important;height:650px!important;box-shadow:0 0 16px rgba(0,0,0,.02)!important;border-radius:4px!important;overflow:hidden!important}#iubenda-iframe #iubenda-iframe-popup:before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.5);z-index:98;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .3s ease,visibility .3s ease}@media (max-height:649px){#iubenda-iframe #iubenda-iframe-popup{height:calc(100% - 32px)!important}}@media (max-width:799px){#iubenda-iframe #iubenda-iframe-popup{width:calc(100% - 32px)!important}}#iubenda-iframe .iubenda-iframe-close-btn{cursor:pointer!important;width:24px!important;height:24px!important;border-radius:24px!important;display:flex!important;justify-content:center!important;align-items:center!important;font-weight:300!important;background-color:#fff!important;position:absolute!important;top:0!important;right:0!important;transform:translate(50%,-50%)!important;transition:transform .4s ease!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='21' height='21' viewBox='0 0 21 21'%3E%3Cpath fill='%23000' fill-rule='nonzero' d='M18.5.379L20.621 2.5l-8 8 8 8-2.121 2.121-8-8-8 8L.379 18.5l8-8-8-8L2.5.379l8 8z'/%3E%3C/svg%3E")!important;background-size:8px 8px!important;background-repeat:no-repeat!important;background-position:center!important;box-shadow:0 0 32px rgba(0,0,0,.3)!important}#iubenda-iframe .iubenda-iframe-close-btn:hover{transform:translate(50%,-50%) scale(1.15)!important}@media (max-width:799px){#iubenda-iframe .iubenda-iframe-close-btn{width:36px!important;height:36px!important;border-radius:36px!important;transform:translate(25%,-25%)!important;transition:none!important}#iubenda-iframe .iubenda-iframe-close-btn:hover{transform:translate(25%,-25%)!important}}#iubenda-iframe iframe{width:100%!important;height:100%!important}#iubenda-iframe #iubenda-iframe-content{height:100%!important;display:flex!important;flex-direction:column!important}#iubenda-iframe .iubenda-modal-navigation{position:relative!important;z-index:3!important}#iubenda-iframe .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand){color:#555!important;box-shadow:0 18px 10px -8px #fff!important}@media (max-width:799px){#iubenda-iframe .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand){box-shadow:0 28px 12px -8px #fff!important}}#iubenda-iframe .iubenda-modal-navigation.iubenda-modal-navigation-brand{position:relative;box-shadow:0 1px 0 rgba(0,0,0,.075)!important}#iubenda-iframe .iubenda-modal-navigation.iubenda-modal-navigation-brand .iubenda-modal-navigation-logo{display:flex;flex-shrink:0!important;flex:1!important;margin-right:16px!important}#iubenda-iframe .iubenda-modal-navigation.iubenda-modal-navigation-brand .iubenda-modal-navigation-logo img{max-width:192px!important;max-height:56px!important;min-width:auto!important;min-height:auto!important}@media (max-width:799px){#iubenda-iframe .iubenda-modal-navigation.iubenda-modal-navigation-brand .iubenda-modal-navigation-logo img{max-width:75%!important}}#iubenda-iframe .iubenda-modal-navigation.iubenda-modal-navigation-brand .purposes-header{align-items:center!important}#iubenda-iframe .iubenda-iframe-top-container{flex:1!important;background-color:#fff!important;overflow:hidden!important}#iubenda-iframe .iubenda-iframe-footer{background-color:#fff!important;color:#555!important;font-size:16px!important;position:relative!important;z-index:10!important;box-shadow:0 -18px 10px -8px #fff!important;border-bottom-left-radius:4px!important;border-bottom-right-radius:4px!important}#iubenda-iframe .iubenda-iframe-footer:not(.iubenda-iframe-footer-absolute):before{content:"";height:48px;display:block;width:100%;flex:0 0 100%;background:linear-gradient(to bottom,rgba(255,255,255,0) 0,#fff 100%);position:absolute;bottom:100%;pointer-events:none}@media (min-width:800px){#iubenda-iframe .iubenda-iframe-footer:not(.iubenda-iframe-footer-absolute)>*{margin-top:8px!important}}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute{pointer-events:none!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute>*{pointer-events:auto!important}@media (min-width:800px){#iubenda-iframe .iubenda-iframe-footer{display:flex;align-items:center!important;justify-content:space-between!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubFooterIabBtnContainer{opacity:0!important;pointer-events:none!important;transform:translateY(16px)!important}}@media (max-width:799px){#iubenda-iframe .iubenda-iframe-footer{text-align:center!important}#iubenda-iframe .iubenda-iframe-footer #iubFooterIabBtnContainer{position:absolute!important;bottom:6px!important;left:50%!important;transform:translateX(-50%)!important;margin:0!important;width:100%!important}#iubenda-iframe .iubenda-iframe-footer #iubFooterIabBtnContainer+#iubFooterBtnContainer{transform:translateY(-22px)!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute{display:flex;flex-direction:column!important;padding:0!important;text-align:center!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubFooterBtnContainer,#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubFooterIabBtnContainer{order:1}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubBackBtn{border:0!important;order:2;margin-top:0!important;padding-top:0!important;margin-top:-4px!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubFooterIabBtnContainer{opacity:0!important;pointer-events:none!important;transform:translate(-50%,16px)!important}#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute #iubFooterIabBtnContainer+#iubFooterBtnContainer{transform:translateY(0)!important}}#iubenda-iframe .iubenda-iframe-footer>*{transition:opacity .4s ease,transform .4s ease!important;margin:24px 20px!important}@media (max-width:799px){#iubenda-iframe .iubenda-iframe-footer>*{margin:16px 12px!important}}#iubenda-iframe #iubFooterBtnIab{-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;display:block!important;width:100%!important;font-size:12px!important;text-decoration:underline!important;color:currentColor!important;text-align:center!important;cursor:pointer!important}#iubenda-iframe #iubFooterBtnIab:hover{opacity:.6!important}#iubenda-iframe #iubFooterBtnContainer button{flex:1!important;-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;margin:4px!important;padding:8px 24px!important;border-radius:64px!important;cursor:pointer!important;font-weight:700!important;font-size:100%!important;background-color:#0073ce!important;color:#fff!important;border:1px solid transparent!important;text-align:center!important;border-color:transparent!important}#iubenda-iframe #iubFooterBtnContainer button:focus,#iubenda-iframe #iubFooterBtnContainer button:hover{box-shadow:0 0 0 999px inset rgba(0,0,0,.1)!important}@media (min-width:800px){#iubenda-iframe #iubFooterBtnContainer{align-self:end!important;margin-left:auto!important}}@media (max-width:799px){#iubenda-iframe #iubFooterBtnContainer{display:flex!important}#iubenda-iframe #iubFooterBtnContainer button{flex:1!important}}#iubenda-iframe .purposes-header-right{display:flex!important;position:relative!important;text-align:right!important;justify-content:flex-end!important;max-width:50%!important}#iubenda-iframe .purposes-header-right>*{flex-shrink:0!important}#iubenda-iframe .purposes-header-right .iub-iframe-brand-button{order:2!important}#iubenda-iframe .purposes-header-right .iub-iframe-brand-button.hover{width:154px!important}#iubenda-iframe .purposes-header-right .iub-iframe-brand-button.hover svg{margin-left:-30px!important}@media (max-width:799px){#iubenda-iframe .purposes-header-right .iub-iframe-brand-button.hover~.purposes-btn-cp{pointer-events:none!important;opacity:0!important}}#iubenda-iframe .iub-iframe-brand-button{width:42px!important;height:38px!important;margin-left:8px!important;margin-right:-24px!important;color:currentColor!important;display:inline-block!important;background-color:rgba(0,0,0,.075)!important;overflow:hidden!important;border-top-left-radius:32px!important;border-bottom-left-radius:32px!important;cursor:pointer!important;transition:transform .4s ease,width .4s ease!important}#iubenda-iframe .iub-iframe-brand-button svg{transition:margin .4s ease!important;height:38px!important;width:174px!important;margin-left:4px!important}@media (max-width:799px){#iubenda-iframe .iub-iframe-brand-button{margin-right:-16px!important}}#iubenda-iframe #iubenda-iframe-content.cookie-policy-no-logo #purposes-container .iubenda-modal-navigation-logo{display:none}#iubenda-iframe #iubenda-iframe-content.cookie-policy-no-logo .iubenda-iframe-footer #iubBackBtn{display:none!important}#iubenda-iframe #iubenda-iframe-content:not(.cookie-policy-no-logo) #purposes-container .purposes-btn-back{display:none}#iubenda-iframe #iubenda-iframe-content:not(.cookie-policy-no-logo) .iubenda-modal-navigation-brand .purposes-header>div{flex:1!important}#iubenda-iframe [tabindex]:not([tabindex="-1"]):focus,#iubenda-iframe a[href]:focus,#iubenda-iframe button:focus,#iubenda-iframe details:focus,#iubenda-iframe input:focus,#iubenda-iframe select:focus,#iubenda-iframe textarea:focus{outline-width:2px!important;outline-style:solid!important;outline-color:#005fcc!important;outline-offset:2px!important}#iab-container .iab-top-container{padding:24px!important;font-size:16px!important;font-family:Helvetica,Helvetica Neue,Arial,sans-serif!important;background-color:#fff!important;border-radius:0!important;border-top-left-radius:5px!important;border-top-right-radius:5px!important;flex-shrink:0!important;display:flex!important;justify-content:space-between!important}#iab-container .iab-top-container button{font-size:14px!important;font-weight:700!important;color:rgba(0,0,0,.65)!important;display:inline-block!important;padding:8px 16px!important;background-color:rgba(0,0,0,.07)!important;border-radius:6px!important;text-decoration:none!important;background-size:21px!important;background-position:center left 10px!important;background-repeat:no-repeat!important;cursor:pointer!important}#iab-container .iab-top-container button:before{content:attr(data-str-desktop)}@media (max-width:799px){#iab-container .iab-top-container button:before{content:attr(data-str-mobile)}}#iab-container .iab-top-container button:hover{opacity:.8!important}#iab-container .iab-top-container button.cp-button{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cg fill='none' fill-rule='evenodd' stroke='%23535353'%3E%3Cpath d='M3 2h5c1.773 0 5 2.634 5 5v7H3V2z'/%3E%3Cpath d='M13 7H8V2h0'/%3E%3C/g%3E%3C/svg%3E")!important;padding-left:40px!important}#iab-container .iab-top-container button.back-button{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cg fill='none' fill-rule='evenodd' stroke='%23535353' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6.72 12.243L2.477 8h0L6.72 3.757M3 8h10.548'/%3E%3C/g%3E%3C/svg%3E")!important;padding-left:40px!important}#iab-container .iab-top-container button.stroked-button{background-color:transparent!important;border:1px solid rgba(0,0,0,.25)!important}#iab-container .iab-top-container button.stroked-button:hover{background-color:transparent!important;border-color:rgba(0,0,0,.45)!important}#purposes-container .purposes-header{padding:24px!important;position:relative!important;z-index:2!important;display:flex!important;justify-content:space-between!important;align-items:center!important}@media (max-width:799px){#purposes-container .purposes-header{padding:16px!important}}#iubenda-iframe.iubenda-iframe-branded .purposes-header .iub-btn{border-color:currentColor!important}#purposes-content-container{display:flex!important;flex-direction:column!important;line-height:1.5!important}#purposes-content-container a{color:rgba(0,0,0,.7)!important;text-decoration:underline!important}#purposes-content-container a.trigger-link{font-weight:700!important;background-color:#eaeaea!important;padding:8px 16px!important;color:rgba(0,0,0,.75)!important;border-radius:6px!important;display:inline-block!important;text-decoration:none!important;white-space:nowrap!important}#purposes-content-container button{position:relative!important}#purposes-content-container .purposes-content{flex:1!important;overflow-y:scroll!important}#purposes-content-container .purposes-header{flex-shrink:0!important;padding:24px!important}@media (max-width:799px){#purposes-content-container .purposes-header{padding:16px 16px 32px!important}}#purposes-content-container .purposes-header .purposes-header-title{font-weight:700!important;font-size:48px!important;margin-bottom:8px!important}@media (max-width:799px){#purposes-content-container .purposes-header .purposes-header-title{font-size:24px!important}}#purposes-content-container .purposes-header .purposes-header-text{font-size:15px!important;font-weight:300!important}#purposes-content-container .purposes-items{border-radius:4px!important;background-color:#fff!important}#purposes-content-container .purposes-badge{display:inline-block!important;padding:2px 16px!important;border-radius:32px!important;font-size:10px!important;font-weight:700!important;text-align:center!important;margin:6px 0!important}@media (max-width:799px){#purposes-content-container .purposes-badge{margin:6px 0!important}}#purposes-content-container .purposes-badge.purposes-badge-primary{color:#25a247!important;text-align:left!important;padding:0!important;display:flex!important;align-items:center!important}#purposes-content-container .purposes-badge.purposes-badge-primary:before{content:"";width:24px!important;height:24px!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='16' viewBox='0 0 14 16'%3E%3Cpath fill='%2325a247' fill-rule='evenodd' d='M6.592 0L0 2.783v6.611C0 12.502 6.222 15.902 6.588 16c.366-.098 6.588-3.735 6.588-6.258V2.783L6.592 0z'/%3E%3C/svg%3E")!important;background-repeat:no-repeat!important;background-position:center!important;background-size:12px 12px!important;display:inline-block!important;background-color:#47c51e21!important;vertical-align:middle!important;border-radius:32px!important;margin-right:6px!important;border-top-left-radius:8px!important;flex-shrink:0}#purposes-content-container .purposes-first{box-shadow:0 1px 0 rgba(0,0,0,.1),inset 0 4px 0 rgba(0,0,0,.04),0 4px 4px rgba(0,0,0,.05)!important;position:sticky!important;position:-webkit-sticky!important;top:0!important;background-color:#f8f8f8!important;z-index:2!important;padding:16px 24px!important;display:flex!important;justify-content:space-between!important;align-items:center!important;display:none!important}#purposes-content-container .purposes-first>:first-child{text-transform:uppercase!important;text-align:right!important;font-weight:700!important;font-size:12px!important;letter-spacing:1.25px!important;color:rgba(0,0,0,.75)!important;flex:1}@media (max-width:799px){#purposes-content-container .purposes-first>:first-child{font-size:10px!important}}@media (max-width:799px){#purposes-content-container .purposes-first{padding:16px 16px!important}}#purposes-content-container .purposes-item{position:relative!important;display:flex!important;flex-direction:column!important;margin:0 24px!important}@media (max-width:799px){#purposes-content-container .purposes-item{margin:0 20px!important}}#purposes-content-container .purposes-item:not(:last-of-type){border-bottom:1px solid rgba(0,0,0,.075)!important}#purposes-content-container .purposes-item.purposes-item-shown .purposes-item-body{max-height:1000px!important;padding:0 0 24px!important}@media (max-width:799px){#purposes-content-container .purposes-item.purposes-item-shown .purposes-item-body{padding:0 0 16px!important}}#purposes-content-container .purposes-item.purposes-item-shown .purposes-item-title-btn:after{transform:rotate(180deg)!important}#purposes-content-container .purposes-item .purposes-item-header{background:linear-gradient(0deg,rgba(255,255,255,0) 0,#fff 15%)!important;position:sticky!important;position:-webkit-sticky!important;top:85px!important;z-index:1!important;display:flex!important;padding:24px 0!important}@media (max-width:799px){#purposes-content-container .purposes-item .purposes-item-header{top:65px!important}}#purposes-content-container .purposes-item .purposes-item-title{display:flex!important;flex:1!important;justify-content:space-between!important}#purposes-content-container .purposes-item .purposes-item-title>div:first-of-type{display:flex!important}@media (min-width:800px){#purposes-content-container .purposes-item .purposes-item-title>div:first-of-type{align-items:center!important}}@media (max-width:799px){#purposes-content-container .purposes-item .purposes-item-title>div:first-of-type{flex-direction:column!important}}@media (max-width:799px){#purposes-content-container .purposes-item .purposes-item-title{flex-direction:column!important}}#purposes-content-container .purposes-item .purposes-item-title label{font-weight:700!important;font-size:16px!important}@media (max-width:799px){#purposes-content-container .purposes-item .purposes-item-title label{font-size:14px!important}}#purposes-content-container .purposes-item .purposes-item-title .purposes-item-title-btn{-webkit-appearance:none!important;-moz-appearance:none!important;appearance:none!important;font-size:12px!important;color:rgba(0,0,0,.75)!important;font-weight:300!important;display:flex!important;align-items:center!important;cursor:pointer!important}#purposes-content-container .purposes-item .purposes-item-title .purposes-item-title-btn:after{content:"";width:10px!important;height:10px!important;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='5' viewBox='0 0 10 5'%3E%3Cpath fill='none' fill-rule='evenodd' stroke='%23979797' stroke-linecap='round' stroke-linejoin='round' d='M9.243 0L5 4.243h0L.757 0'/%3E%3C/svg%3E")!important;opacity:.5!important;background-position:center!important;background-repeat:no-repeat!important;display:inline-block!important;margin:8px 6px!important}#purposes-content-container .purposes-item .purposes-item-body{max-height:0!important;overflow:hidden!important;transition:max-height .4s ease,padding .4s ease!important;font-size:14px!important;font-weight:300!important;color:rgba(0,0,0,.75)!important}@media (max-width:799px){#purposes-content-container .purposes-item .purposes-item-body{font-size:12px!important}}#purposes-content-container .purposes-item .purposes-item-body p:not(:last-of-type){margin-bottom:8px!important}#purposes-content-container .purposes-sub-container{color:#5f5f5f!important}#purposes-content-container .purposes-sub-container:not(:last-of-type){padding-bottom:32px!important}#purposes-content-container .purposes-sub-container>div:first-of-type{display:flex;align-items:center;margin-bottom:8px!important}#purposes-content-container .purposes-sub-container>div:first-of-type>div:first-of-type{flex:1}#purposes-content-container .purposes-sub-container label{font-weight:700!important}#purposes-content-container .purposes-sub-container p:not(:last-of-type){margin-bottom:16px!important}</style><script async="" src="https://www.gedistatic.it/corporate/webtrekk/webtrekk_library.min.js"></script><script language="javascript" type="text/javascript" src="https://cdn.wbtrk.net/js/geid.min.js"></script><script type="text/javascript" async="" src="https://cdn.mateti.net/mcp/onsite.min.js"></script><script language="javascript" type="text/javascript" src="https://geid.wbtrk.net/cc?a=rtacdb&amp;c=wt_geid&amp;ac=wt_geid&amp;av=816660553380053440234402&amp;al=24&amp;acp=/&amp;acd=.wbtrk.net&amp;acl=180&amp;o=s&amp;x=1666055338299"></script><script language="javascript" type="text/javascript" src="https://geid.wbtrk.net/cc?a=c&amp;c=wt_geid&amp;rn_wt_geid=wt_geid&amp;v=&amp;cp=/&amp;cl=-1&amp;ccd=1&amp;w=2&amp;x=1666055339329"></script><iframe id="wt-mcp-ls-sync-253822047730481" width="0px" height="0px" sandbox="allow-scripts allow-same-origin" src="https://253822047730481.mateti.net/mcp/ls.html?trackId=253822047730481" style="display: none;"></iframe><style>.wt-mcp-ol-fade{opacity:0;-webkit-transition:opacity .3s linear;transition:opacity .3s linear}.wt-mcp-ol-fade.wt-mcp-ol-in{opacity:1}.wt-mcp-ol-modal-open{overflow:hidden}.wt-mcp-ol-modal{position:fixed;top:0;right:0;bottom:0;left:0;z-index:99050;overflow:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;outline:0}.wt-mcp-ol-modal.wt-mcp-ol-fade .wt-mcp-ol-modal-dialog{-webkit-transition:-webkit-transform .3s ease-out;-moz-transition:-moz-transform .3s ease-out;-o-transition:-o-transform .3s ease-out;transition:transform .3s ease-out;-webkit-transform:translate(0,-25%);-ms-transform:translate(0,-25%);transform:translate(0,-25%)}.wt-mcp-ol-modal.wt-mcp-ol-in .wt-mcp-ol-modal-dialog{-webkit-transform:translate(0,0);-ms-transform:translate(0,0);transform:translate(0,0)}.wt-mcp-ol-modal-dialog{position:relative;width:auto;margin:0 auto;padding:20px;box-sizing:border-box}.wt-mcp-ol-modal-content{position:relative;background-color:#fff;background-clip:padding-box;border-radius:6px;outline:0;-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5);overflow:hidden}.wt-mcp-ol-modal-backdrop{position:fixed;top:0;right:0;bottom:0;left:0;z-index:99040;background-color:#000}.wt-mcp-ol-modal-backdrop.wt-mcp-ol-fade{opacity:0}.wt-mcp-ol-modal-backdrop.wt-mcp-ol-in{opacity:.5}@media (min-width:768px){.wt-mcp-ol-modal-dialog{width:100%;margin:30px auto}.wt-mcp-ol-modal-content{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);box-shadow:0 5px 15px rgba(0,0,0,.5)}.wt-mcp-ol-modal-sm{width:300px}}@media (min-width:992px){.wt-mcp-ol-modal-lg{width:900px}}.wt-mcp-ol-modal-content{height:400px}.wt-mcp-ol-modal-close{position:absolute;top:.5rem;right:.5rem;width:25px;height:25px;border-radius:50%;text-align:center;background-color:#000}.wt-mcp-ol-modal-close>span:before{color:#fff;font-size:20px;line-height:1.3;font-family:Arial;content:'\D7'}.wt-mcp-ol-modal-close:hover{text-decoration:none;opacity:.8;cursor:pointer}#wt_mcp_prediction{width:30%;height:30%;position:fixed;right:1px;bottom:1px;background:#8fbc13;border:1px solid #97bf0d;overflow:scroll;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;box-shadow:0 5px 15px rgba(0,0,0,.5);-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5)}</style></head>
+<body>
+
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+	<ul>
+		<li class="hidden-xs hidden-sm"><a href="https://www.repubblica.it/" class="repubblica">Repubblica.it</a></li>
+		<li class="hidden-xs hidden-sm"><span>|</span></li>
+		<li class="dropdown hidden-xs hidden-sm">
+	<a href="#" class="dropdown-toggle" data-toggle="dropdown">NETWORK <b class="icon-arrow-down"></b></a>
+	<ul class="dropdown-menu" role="menu">
+		<li class="dropdown-container">
+			<div class="network-list-wrapper">
+				<section class="list-01">
+					<h1>GEDI News Network</h1>
+					<div>
+                        <a title="La Stampa" href="https://www.lastampa.it/">La Stampa</a>
+                        <a title="Il Secolo XIX" href="http://www.ilsecoloxix.it/">Il Secolo XIX</a>
+                        <a title="Corriere delle Alpi" href="http://corrierealpi.gelocal.it/">Corriere delle Alpi</a>
+						<a title="Gazzetta di Mantova" href="http://gazzettadimantova.gelocal.it/">Gazzetta di Mantova</a>
+						<a title="Il mattino di Padova" href="http://mattinopadova.gelocal.it/">Il mattino di Padova</a>
+						<a title="Il Piccolo" href="http://ilpiccolo.gelocal.it/">Il Piccolo</a>
+						</div>
+					<div>
+						<a title="La Nuova Venezia" href="http://nuovavenezia.gelocal.it/">La Nuova Venezia</a>
+						<a title="La Provincia Pavese" href="http://laprovinciapavese.gelocal.it/">La Provincia Pavese</a>
+						<a title="La Sentinella del Canavese" href="http://lasentinella.gelocal.it/">La Sentinella del Canavese</a>
+						<a title="La Tribuna di Treviso" href="http://tribunatreviso.gelocal.it/">La Tribuna di Treviso</a>
+						<a title="Messaggero Veneto" href="http://messaggeroveneto.gelocal.it/">Messaggero Veneto</a>
+					</div>
+				</section>
+				<section class="list-02">
+					<h1>Periodici</h1>
+					<a title="L’espresso" href="http://espresso.repubblica.it/">l’Espresso</a>
+					<a title="Espresso - Food and Wine" href="http://espresso.repubblica.it/food/">Espresso - Food and Wine</a>
+					<a title="Le Scienze" href="http://www.lescienze.it">Le Scienze</a>
+					<a title="National Geographic" href="http://www.nationalgeographic.it/">National Geographic</a>
+					<a title="Micromega" href="http://temi.repubblica.it/micromega-online/">Micromega</a>
+					<a title="Chiesa.it" href="http://www.chiesa.espressonline.it/">Chiesa.it</a>
+					<a title="Limes" href="http://temi.repubblica.it/limes">Limes</a>
+				</section>
+				<div class="list-03">
+					<section>
+						<h1>Radio</h1>
+						<a title="Capital" href="http://www.capital.it/">Capital</a>
+						<a title="DeeJay" href="http://www.deejay.it/">DeeJay</a>
+						<a title="m2o" href="http://www.m2o.it/">m2o</a>
+					</section>
+					<section class="servizi-tv-consumi">	
+						<h1>Servizi, Tv e consumi</h1>
+						<a title="Mymovies.it" href="http://www.mymovies.it/">Mymovies.it</a>
+						<a title="Vai alla Home di TvZap" href="http://tvzap.kataweb.it/">TvZap</a>
+						<a title="MioJob" href="http://miojob.repubblica.it/">MioJob</a>
+						<a title="Enti e Tribunali" href="http://www.entietribunali.kataweb.it/">Enti e Tribunali</a>
+						<a title="Fantacalcio" href="http://www.fantacalcio.it/">Fantacalcio</a>
+						<a title="Ristoranti" href="http://cityfan.repubblica.it/">Ristoranti</a>
+                        <a title="Consigli" href="https://www.consigli.it/">Consigli.it</a>
+					</section>
+				</div>
+				<section class="list-04">
+					<h1>I siti di Repubblica</h1>
+					<a title="Vai al sito di D - la Repubblica" href="http://d.repubblica.it/">D - la Repubblica</a>
+					<a title="Vai al sito di TrovaCinema" href="http://trovacinema.repubblica.it/">TrovaCinema</a>
+					<a title="Vai al sito di Casa&amp;Design" href="http://design.repubblica.it/">Casa&amp;Design</a>
+					<a title="Vai al sito di XL" href="http://xl.repubblica.it/">XL</a>
+					<a title="Vai al sito di ilmiolibro.it" href="http://ilmiolibro.kataweb.it/">ilmiolibro.it</a>
+					<a title="Vai al sito di Storiebrevi" href="http://www.storiebrevi.it/">Storiebrevi</a>
+				</section>
+			</div> 
+		</li>
+	</ul>              
+</li>		<li class="hidden-xs hidden-sm"><span>|</span></li>		
+		<li class="hidden-xs hidden-sm"><a href="https://www.repubblica.it/premium/" class="r-premium">Quotidiano <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M8.833 4h.234c1.7 0 2.133.86 2.133 2.927C11.2 8.995 10.767 9.6 9 9.6h-.2V4h.033zm2.294 6.09c2.236-.438 3.259-1.597 3.259-3.257 0-2.255-1.566-3.633-4.761-3.633H4.8v.658c.99.062 1.086.376 1.086 1.315v9.991c0 .908-.223 1.222-1.086 1.316v.657h5.208v-.657c-.862-.063-1.086-.408-1.086-1.316v-4.76h.287c.671 0 1.215.25 1.406.845.288.971.288 3.038.671 4.385.384 1.253 1.31 1.566 2.493 1.566.926 0 1.565-.282 1.821-.438l-.032-.658c-.799.188-1.118-.125-1.47-2.35-.351-2.41-1.182-3.288-2.971-3.664zM2 0h16a2 2 0 012 2v16a2 2 0 01-2 2H2a2 2 0 01-2-2V2a2 2 0 012-2zm-.2.8h16.4a1 1 0 011 1v16.4a1 1 0 01-1 1H1.8a1 1 0 01-1-1V1.8a1 1 0 011-1z"></path></svg></a></li>
+	</ul> 
+	<ul class="pull-right">
+		<!-- <li class="hidden-xs hidden-sm"><div id="gs-social-follow"></div></li> -->
+		<li class="hidden-xs hidden-sm">
+			<a href="https://www.facebook.com/RepubblicaScuola"><div class="icon-facebook"></div></a>
+			<a href="https://twitter.com/RepScuola"><div class="icon-twitter"></div></a>
+			<a href="https://scuola.repubblica.it/feed/rss"><div class="icon-feed"></div></a>
+		</li>
+		<li class="hidden-xs hidden-sm"><span>|</span></li>
+		<li class="hidden-xs hidden-sm"><a href="https://scuola.repubblica.it/domande-e-risposte/">BISOGNO DI AIUTO?</a></li>
+		<li class="hidden-xs hidden-sm"><span>|</span></li>
+					<li><a href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-login.php?redirect_to=%2F">LOGIN</a></li>
+				
+	</ul>       
+  </div>
+</div><!-- REP SCUOLA CHILD HOME -->
+    <div class="container main">
+    	    		<header class="page-header" id="backtotop" role="banner">
+	<div class="col-sm-12">
+		<div class="adv"><div id="adv-Top"><script>try { MNZ_RICH('Top'); } catch(e) {}</script></div></div>
+		<h1 class="logo">
+			<a href="https://scuola.repubblica.it/">
+				<span class="assistive-text">Repubblica@SCUOLA</span>				
+				<img src="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/logo_rep@scuola.svg">
+				<span>Il giornale web con gli studenti</span>
+			</a>
+		</h1>	
+	</div>
+</header>    		<nav class="navbar navbar-default" role="navigation">  
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>      
+    </div>
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+            <ul class="nav navbar-nav">
+        <li><a href="https://scuola.repubblica.it">Home</a></li>
+        	        	        	        	        <li class="dropdown">
+	          <a href="https://scuola.repubblica.it/liniziativa/" class="dropdown-toggle" data-toggle="dropdown">Cos'è Rep@Scuola <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/regolamento-campionato/">
+				            	 <dl>
+					            	 <dt>Il regolamento</dt>
+					            	 <dd>Le norme, le regole e i premi del Campionato nazionale di Repubblica@Scuola</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/domande-e-risposte/">
+				            	 <dl>
+					            	 <dt>Faq</dt>
+					            	 <dd>Le domande e le risposte su come utilizzare il sito per le attività in aula e online</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/crediti-formativi/">
+				            	 <dl>
+					            	 <dt>Crediti formativi</dt>
+					            	 <dd>Le indicazioni per ricevere l’attestato per ottenere i crediti formativi, i requisiti minimi e i termini per la richiesta dei docenti</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	              				  	</div>
+	              	<div class="row"> 
+	              	 
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/blog/news/">
+				            	 <dl>
+					            	 <dt>Le notizie di Rep@Scuola</dt>
+					            	 <dd>Le news e gli aggiornamenti sulle sfide e le novità del sito</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	        	        	        		            </div></li>
+	          </ul>
+	        </li> 
+	        	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sfide <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/blog/tema/">
+				            	 <dl>
+					            	 <dt>Studente Reporter</dt>
+					            	 <dd>La nostra redazione offre spunti, notizie di cronaca per avvicinare gli studenti al mondo dell’informazione e aiutarli a imparare a scrivere un articolo e a descrivere, in prima persona, la realtà che li circonda</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/blog/didascalie/">
+				            	 <dl>
+					            	 <dt>La Gara della Didascalia</dt>
+					            	 <dd>Una fotografia di cronaca, attualità, politica internazionale, spettacolo, sport o legata all’ambiente. Agli studenti-redattori viene chiesto di scrivere il breve testo che nei giornali accompagna le immagini allo scopo di illustrarle</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/blog/la_mia_foto/">
+				            	 <dl>
+					            	 <dt>La Mia Foto</dt>
+					            	 <dd>La sfida che dà agli studenti modo di esprimersi attraverso l’arte immaginifica della fotografia e allo stesso tempo raccontare la realtà che li circonda</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	              				  	</div>
+	              	<div class="row"> 
+	              	 
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/blog/il_mio_disegno/">
+				            	 <dl>
+					            	 <dt>Il Mio Disegno</dt>
+					            	 <dd>Dove gli studenti possono mostrare le loro capacità di “artisti”. Colori, linee, chiaroscuri. I disegni e le “opere d’arte” potranno essere commentate dagli altri studenti e la gara potrà essere condivisa sui social network</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	        	        	        		            </div></li>
+	          </ul>
+	        </li> 
+	        	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Rep@Video <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/le-repclip-di-repubblicascuola/">
+				            	 <dl>
+					            	 <dt>Rep@Clip</dt>
+					            	 <dd>Dalle lezioni online, agli incontri pubblici, alle finali dei giochi o delle iniziative con studenti e docenti, i video di Repubblica@Scuola</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/cosa-e-repdigital/">
+				            	 <dl>
+					            	 <dt>Rep@Digital</dt>
+					            	 <dd>Obiettivi e strumenti del video-corso di educazione civica del web di Repubblica@Scuola e Google per gli studenti delle scuole italiane. Da come scoprire le fake news alla scelta della password. Per diventare davvero cittadini digitali.</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/cosa-sono-le-repconference/">
+				            	 <dl>
+					            	 <dt>Rep@Conference</dt>
+					            	 <dd>Importanti esponenti del mondo della cultura, dello spettacolo, dello sport, tengono delle lezioni esclusive per gli studenti che possono seguirle sul nostro portale.</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	        	        	        		            </div></li>
+	          </ul>
+	        </li> 
+	        	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Giornali Scolastici <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/cosa-sono-i-giornali-scolastici/">
+				            	 <dl>
+					            	 <dt>Cosa sono i giornali scolastici</dt>
+					            	 <dd>Come cambiano i siti delle scuole, la nuova grafica e tutti i contenuti che possono essere pubblicati sul sito del proprio istituto</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/ricerca-scuola/?name_school=&amp;type_search=M&amp;region_search=ABR&amp;province_search=&amp;searchSchool=Cerca">
+				            	 <dl>
+					            	 <dt>Cerca la scuola</dt>
+					            	 <dd>Il motore di ricerca per trovare l’istituto in cui studi o lavori o quello di un tuo parente o amico</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	        	        	        		            </div></li>
+	          </ul>
+	        </li> 
+	        	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Alternanza Scuola - Lavoro <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/alternanza-progetto/">
+				            	 <dl>
+					            	 <dt>Scopri il progetto</dt>
+					            	 <dd></dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/alternanza/">
+				            	 <dl>
+					            	 <dt>Vai al progetto</dt>
+					            	 <dd></dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	        	        	        		            </div></li>
+	          </ul>
+	        </li> 
+	        	        <li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Iscriviti <b class="icon-arrow-down"></b></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li class="dropdown-container">
+	            	              					        	              	            	<div class="row">  
+	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/iscrizione/">
+				            	 <dl>
+					            	 <dt>Come iscrivere un istituto</dt>
+					            	 <dd>Le modalità degli istituti per iscriversi a Repubblica@Scuola in qualsiasi fase dell’anno scolastico</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            					        	                       	
+		            	<div class="col-sm-4">
+			            	<a href="https://scuola.repubblica.it/area-documenti/">
+				            	 <dl>
+					            	 <dt>Area Documenti</dt>
+					            	 <dd>I documenti e le autorizzazioni da scaricare per aderire e cominciare a scrivere su Repubblica@Scuola</dd>
+				            	 </dl>
+				            </a>
+		            	</div>
+		            			            						            						</div>
+						
+					
+            </li>
+          </ul>
+        </li>          
+         
+        
+      </ul>
+	      </div><!-- /.navbar-collapse -->
+</nav>				<section class="school">
+			<header class="main col-sm-12">
+	    		<h1><a href="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi">ISTITUTO COMPRENSIVO MEDIA BIAGI&nbsp;-&nbsp;Enzo Biagi&nbsp;(RM)</a></h1>
+	    			    			    			<div id="social-share-top" class="hidden-xs hidden-sm"></div>
+	    					</header>	
+<div class="col-sm-8">
+	<article class="main">
+		<header>
+			<h1 style="color:#ee3353">Errore 404 - Pagina non trovata</h1>						
+		</header>
+		<a href="https://scuola.repubblica.it/"><img src="https://scuola.repubblica.it/lazio-roma-ssdpgistitutocomprensivoenzobiagi/wp-content/themes/includes/static/common/img/puppy-and-kitten.jpg" alt="" border="0"></a>				
+	</article>
+</div>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 928/929 objects using memcache
+Page Caching using memcache (SSL caching disabled)
+
+ Served from: scuola.repubblica.it @ 2022-10-18 03:08:50 by W3 Total Cache --></section></div><iframe name="__tcfapiLocator" style="display: none;"></iframe><div id="iubenda-cs-banner" class="iubenda-cs-default-floating iubenda-cs-top iubenda-cs-center iubenda-cs-slidein iubenda-cs-no-heading iubenda-cs-visible" role="alertdialog" aria-labelledby="iubenda-cs-title" aria-describedby="iubenda-cs-paragraph"><div class="iubenda-cs-container">
+                   <div class="iubenda-cs-content" style="">
+                     <div class="iubenda-cs-rationale">
+                       <button type="button" class="iubenda-cs-close-btn" tabindex="0" role="button" aria-pressed="false" style="visibility: visible; display: none !important; border-radius: 55px !important; border: 1px solid rgb(119, 119, 119) !important; font-size: 16px !important; font-weight: bold !important; padding: 10px 20px !important; height: 34px !important; color: rgb(102, 102, 102) !important;">Continua senza accettare</button>
+                       <div class="iubenda-banner-content iubenda-custom-content" role="document"><div>
+                        <img src="https://www.repstatic.it/cless/common/widget/cookie-wall/2022-v1/img/repubblica/logo.svg">
+                        <br>
+                        <strong>I ricavi ottenuti dalla pubblicità personalizzata ci aiutano a supportare il lavoro della nostra redazione che si impegna a fornirti ogni giorno una informazione di qualità</strong>. Per questo chiediamo il tuo consenso all'utilizzo di cookie o tecnologie simili per finalità diverse da quelle strettamente necessarie, come specificato nella <a href="https://www.repubblica.it/corporate/privacy/cookie-policy.html" class="iubenda-cs-cookie-policy-lnk" target="_blank" rel="noopener">cookie policy</a>. <br>Sei libero di rifiutare in qualsiasi momento accedendo a questa informativa, ma in tal caso ti chiederemo di sottoscrivere uno dei nostri abbonamenti.
+                      </div>
+                      <div class="iubenda-cs-opt-group" style="color:#000!important">
+                        <div class="iubenda-cs-opt-group-consent">
+                          <button class="iubenda-cs-reject-btn iubenda-cs-btn-primary" tabindex="0" role="button" aria-pressed="false">Rifiuta e abbonati</button>
+                          <button class="iubenda-cs-accept-btn iubenda-cs-btn-primary" tabindex="0" role="button" aria-pressed="false">Accetta</button>
+                        </div>
+                      </div>
+                      <div class="iubenda-cs-login">Sei già abbonato? <a href="#" id="iub_cmp_subscribe_custom_btn">ACCEDI</a></div>
+                      <div class="iubenda-cs-footer">
+                        Se accetti l’uso dei cookie, per quanto riguarda la pubblicità, noi e <a href="javascript:void(0)" class="iubenda-vendor-list-link" data-iub-enabled="1">terze parti</a> selezionate, potremmo utilizzare dati di geolocalizzazione precisi e l’identificazione attraverso la scansione del dispositivo, al fine di archiviare e/o accedere a informazioni su un dispositivo e trattare dati personali come i tuoi dati di utilizzo, per le seguenti <a href="javascript:void(0)" class="iubenda-advertising-preferences-link">pannello delle preferenze pubblicitarie</a>: annunci e contenuti personalizzati, valutazione degli annunci e del contenuto, osservazioni del pubblico e sviluppo di prodotti. 
+                        <br>
+                        <br>
+                      </div></div>
+                       <div class="iubenda-cs-counter" style="display:none">Premi ancora per continuare 0/1</div>
+                     </div>
+                   </div>
+                 </div></div><iframe src="https://cdn-gl.imrworldwide.com/novms/html/ls.html" height="0" width="0" id="lsframe" style="display: none;"></iframe></body></html>

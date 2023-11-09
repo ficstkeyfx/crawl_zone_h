@@ -1,0 +1,5 @@
+A PHP Error was encountered
+Severity: Notice
+Message: Only variable references should be returned by reference
+Filename: core/Common.php
+Line Number: 257

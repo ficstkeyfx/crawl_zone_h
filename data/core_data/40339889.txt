@@ -1,0 +1,3 @@
+Notified by: ./SaklarRusak
+Domain: http://kenden.com.sg/k.txt
+IP address: 103.26.43.131

@@ -1,0 +1,9 @@
+Hacked XUGURX
+Hacked By XUGURX
+CONTACK : XUGURX@HACKERMAİL.COM
+Warning:
+main() [function.main]: open_basedir restriction in effect. File(/includes/version.php) is not within the allowed path(s): (/home/parkland:/usr/lib/php:/usr/local/lib/php:/tmp) in /home/parkland/public_html/includes/joomla.php on line 71
+Warning:
+main(/includes/version.php) [function.main]: failed to open stream: Operation not permitted in /home/parkland/public_html/includes/joomla.php on line 71
+Fatal error:
+main() [function.require]: Failed opening required '/includes/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/parkland/public_html/includes/joomla.php on line 71

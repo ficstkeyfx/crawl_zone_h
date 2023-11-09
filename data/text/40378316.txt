@@ -1,0 +1,10 @@
+Login
+mailcow UI
+Username
+Password
+Login
+Apps
+Webmail
+Stable Demo
+Nightly Demo
+Show/Hide help panel

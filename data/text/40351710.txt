@@ -1,0 +1,86 @@
+Manage Cookie Consent
+We use cookies to optimize our website and our service.
+Accept
+Deny
+Preferences
+accueil
+@keyframes a0_o { 0% { opacity: 0; } 22.2% { opacity: 0; } 22.2222% { opacity: 1; } 100% { opacity: 1; } } @keyframes a0_s { 0% { stroke: #1cba5c; } 22.2222% { stroke: #1cba5c; } 100% { stroke: #1cba5c; } } @keyframes a0_do { 0% { stroke-dashoffset: 41366.6px; } 22.2222% { stroke-dashoffset: 41366.6px; } 96.2889% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } } @keyframes a1_mo { 0% { offset-distance: 0%; } 22.2222% { offset-distance: 0%; } 24.0667% { offset-distance: 2.432%; } 25.9111% { offset-distance: 4.793%; } 27.7778% { offset-distance: 7.32%; } 29.6222% { offset-distance: 9.271%; } 31.4667% { offset-distance: 11.928%; } 33.3333% { offset-distance: 14.456%; } 35.1778% { offset-distance: 17.055%; } 37.0222% { offset-distance: 19.394%; } 38.8889% { offset-distance: 21.85%; } 40.7333% { offset-distance: 24.456%; } 42.5778% { offset-distance: 26.729%; } 44.4444% { offset-distance: 29.341%; } 46.2889% { offset-distance: 31.738%; } 48.1333% { offset-distance: 34.355%; } 50% { offset-distance: 36.573%; } 51.8444% { offset-distance: 39.268%; } 53.6889% { offset-distance: 41.906%; } 55.5556% { offset-distance: 44.093%; } 57.4% { offset-distance: 46.59%; } 59.2444% { offset-distance: 49.007%; } 61.1111% { offset-distance: 51.522%; } 62.9556% { offset-distance: 53.913%; } 64.8% { offset-distance: 56.436%; } 66.6667% { offset-distance: 59%; } 68.5111% { offset-distance: 61.368%; } 74.0667% { offset-distance: 68.89%; } 81.4667% { offset-distance: 78.647%; } 88.8889% { offset-distance: 88.49%; } 96.2889% { offset-distance: 98.69%; } 100% { offset-distance: 100%; } } @keyframes C_o { 0% { opacity: 0; } 22.2222% { opacity: 0; } 88.8889% { opacity: 0; } 97.7778% { opacity: 1; } 100% { opacity: 1; } } @keyframes E2_o { 0% { opacity: 0; } 22.2222% { opacity: 0; } 86.6667% { opacity: 0; } 95.5556% { opacity: 1; } 100% { opacity: 1; } } @keyframes E3_o { 0% { opacity: 0; } 22.2222% { opacity: 0; } 91.1111% { opacity: 0; } 100% { opacity: 1; } } @keyframes J_o { 0% { opacity: 0; } 22.2222% { opacity: 0; } 82.2222% { opacity: 0; } 91.1111% { opacity: 1; } 100% { opacity: 1; } } @keyframes E1_o { 0% { opacity: 0; } 22.2222% { opacity: 0; } 84.4444% { opacity: 0; } 93.3333% { opacity: 1; } 100% { opacity: 1; } }
+Notre Junior au service
+de vos envies
+Chiffres clés
+Spécialisée dans les technologies du numérique tel que l’informatique et l’électronique, JEECE accompagne les entreprises dans la réalisation de leurs projets liés aux nouvelles technologiques depuis 1986.
+90
+Membres pour vous accompagner
+12
+Ans dans la liste des 30 meilleures Junior-Entreprise
+102
+L'ECE, une école centenaire
+Satisfaction Client
+96%
+36
+Ans
+d'expérience
+Découvrez notre structure
+Nos valeurs
+ENGAGEMENT
+JEECE tient à s’engager quotidiennement auprès des acteurs de son environnement pour faire prospérer le mouvement et accompagner les entreprises dans la transition vers le monde de demain.
+INNOVATION
+C’est par son approche innovante, et consciente des évolutions technologiques, problématiques et enjeux de notre société, que JEECE aide les entreprises à  s’adapter aux nouvelles tendances du marché.
+EXCELLENCE
+Dans une volonté d’atteindre l’excellence et dans une démarche d’amélioration continue, les membres de JEECE assurent une gestion pérenne de l’association permettant de fournir des prestations de qualité.
+Nos offres
+CONCRÉTISER VOTRE PROJET
+Pitch
+Maquettage
+Cahier des Charges
+Prototypages
+En savoir plus
+PROPULSER VOTRE BUSINESS
+Sites Vitrines
+Site de
+E-Commerce
+Applications Mobiles
+Référencement
+En savoir plus
+
+BOOSTER VOTRE EFFICACITÉ
+Transformation Digitale
+Outils Internes
+Analytics
+Optimisation
+En savoir plus
+BÉNÉFICIER DE NOTRE EXPERTISE
+Sensibilisation
+Formation
+Audit Technique
+Conseil
+En savoir plus
+TÉLÉCHARGER NOTRE PLAQUETTE
+L'Agilité au coeur de notre réponse
+01. RENDEZ-VOUS
+Réponse sous 24h avec affectation d’un Chef de Projet, suivie d’une phase primordiale d’analyse de vos besoins et envies.
+02. PROPOSITION COMMERCIALE
+Proposition de technologies, d’une méthodologie et de solutions adaptées. Devis et planning.
+03. BON DE COMMANDE
+Votre projet est développé pas à pas pour s’assurer d’être en accord avec vos besoins et d’échelonner vos paiements.
+04. SUIVI CLIENT
+Réunion hebdomadaire pour suivre l’avancée de votre projet dans lequel nous accompagnons nos intervenants dans sa bonne réalisation.
+05. LIVRAISON
+Tests complets avant la présentation produit. Le projet ne peut se voir cloturé qu’avec votre validation.
+06. GARANTIE
+Votre livrable est garanti jusqu’à 3 mois après la livraison en fonction de sa nature afin de revenir sur les points du cahier des charges.
+07. ITÉRATION EN BON DE COMMANDE
+Retour à l’étape 03 pour développer la suite de votre projet de manière itérative.
+Articles récents
+Voir tous les articles
+JEECE
+37 Quai de Grenelle, Immeuble Pollux, 75015 Paris
+contact@jeece.fr
+01 45 49 19 99
+
+
+
+
+
+
+© JEECE

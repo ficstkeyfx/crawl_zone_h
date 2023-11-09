@@ -1,0 +1,16 @@
+serialroot
+serialroot owns again
+Just For Fun ®
+what happen?? got root?
+uname -a;id;uptime
+Linux mail 2.4.7-10 #1 Thu Sep 6 17:27:27 EDT 2001 i686 unknown
+uid=0(root) gid=0(wheel) groups=0(wheel)
+12:15am
+up 2 days, 12:38,
+0 users,
+load average: 0.00, 0.00, 0.00
+Silvinha te adoro !!
+Greet => Hax0r lab, WFD, woot-project ,
+Dropper and all mambers off Trippin Smurfs
+Need security
+contact me > serialroot@zipmail.com

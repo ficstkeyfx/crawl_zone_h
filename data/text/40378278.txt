@@ -1,0 +1,124 @@
+-
+
+©  Bioinformatics Centre, Svatribai Phule Pune University
+Contact
+Resources
+Home
+
+
+
+
+
+Wellcome to Cloud Platform!
+
+Bioinformatics Centre at the Savitribai Phule Pune University (SPPU, formerly University of Pune) was established in 1987 as a Distributed Information Centre (DIC) under the Biotechnology Information System Network (BTISNET) established by the Department of Biotechnology (DBT), Govt. of India. Ever since its inception, the Centre has made perceptible impact towards the growth of the discipline of Bioinformatics at the national and international levels. As a culmination of this, the Centre is conferred with the status of the Centre of Excellence (CoE) in Bioinformatics by the DBT (2002 - till date). It also has a distinction of being recognised as the Centre of Excellence (CoE) in Bioinformatics by the Department of Electronics & Information Technology (DeitY), Govt. of India during 2008-2013. The centre is equipped with the-state-of-the-art infrastructure and a specialised library. The faculty & the students at the Centre are engaged in carrying out cutting-edge research in various areas of Bioinformatics with a special focus on ViroInformatics and Structural Bioinformatics. The mission of the Bioinformatics Centre at SPPU has been and continues to be a nationally acclaimed and internationally recognised premier institution of higher education and research in Bioinformatics and Computational Biology.
+The Centre is known for its contributions in R&D and has developed several algorithms, servers and databases which are extensively used by the scientific community. Some of these indigenous algorithms and databases are the firsts in respective categories and have made a significant impact nationally and internationally. The centre has an impressive record of publications, citations and usage statistics for its servers and databases.
+The Centre is happy to announce launch of the cloud platform to host the databases and servers and profusely acknowledges Centre for Information & Network Security (CINS), Savitribai Phule Pune University for coming forward to develop cloud and related facilities dedicated to Bioinformatics. With Bioinformatics Centre, CINS@SPPU is also successfully launching cloud environment for the first time on SPPU campus!
+
+ Resources
+Databases
+AllerBase
+An Allergen Knowledgebase
+AgAbDb
+Antigen Antibody Interaction Database
+Data Extraction
+BDE
+BioDB Extractor
+ICDEE
+Integrated Customized Data Extraction of Enzyme/s
+PFV3D
+Protein Feature Visualisation on 3D structure
+Web Servers
+Viral Bioinformatics
+RTD based typing servers
+Dengue Subtyper
+HRV Typer
+MuV genotyping server
+RTD Phylogeny
+WNV Typer
+
+IRESPred: Internal Ribosome Entry Site (IRES) prdiction server
+Immunoinformatics
+CEP: Conformational Epitope Prediction Server
+Structural Biology
+ProtFract
+ Databases
+
+AllerBase
+AllerBase is a comprehensive knowledgebase of allergens and allergen related data. The database provides an in depth coverage of allergens and related data with cross-references to primary, immunological and allergen database... 
+
+  Read more
+Antigen Antibody Interaction Database (AgAbDb)
+AgAbDb, a derived knowledge base archives molecular interactions of protein and peptide antigens characterized by co-crystal structures. The interactions are characterized using AAIF (Antigen-Antibody Interaction Finder) deve... 
+
+  Read more
+Data Extraction
+
+BioDb Extractor
+BioDB Extractor (BDE) provides customized search and extraction utilities for widely used Bioinformatics databases such as ENA (EMBL-Bank), UniprotKB, PDB, and KEGG through web-based user interface. Current version supports 2... 
+
+  Read more
+
+ Web Servers
+
+Aeromons MLSTyper
+MLSTyper helps to identify the Aeromonas species by Multiple-locus Sequence Typing (MLST) method using novel alignment-free method based on Return Time Distribution (RTD) developed in-house.
+Publication: ... Manuscript under preparation. Link: http://bioinfo.net.in/aeromonas/homepage.html
+  Read more
+
+Dengue Subtyper
+Dengue Subtyper server assigns serotype/genotype to query sequence(s) using an alignment-free method based on Return Time Distribution (RTD), which is developed in-house. Typing of Dengue viruses is carried out using whole ge... 
+
+  Read more
+
+HRV Typer
+This server assigns serotype to query sequence(s) of VP1 protein of Human rhinoviruses A, B & C using RTD-based approach. Server accepts nucleotide or protein sequence of VP1 and computes return times of di-peptides (k = ... 
+
+  Read more
+
+MuV genotyping server
+Genotyping of Mumps is carried out using SH gene sequences. Mumps Virus (MuV) genotyping server assigns genotype to query sequence(s) of small hydrophobic (SH) gene. The server uses two conventional methods viz., BLAST, molec... 
+
+  Read more
+
+
+RTD Phylogeny
+RTD Phylogeny server is an implementation of Return Time Distribution (RTD) based alignment-free approach developed in house for phylogeny of genomic sequences. While most of the alignment-free methods use frequencies of k-me... 
+
+  Read more
+
+WNV Typer
+WNV Typer has been developed to predict lineage/genotype of West Nile viruses using the complete coding sequences as an input. The server uses alignment-free approach based on RTD at back-end.
+Publication:&nb... 
+Kolekar P, Hake N, Kale M, Kulkarni-Kale U. WNV Typer: a server for genotyping of West Nile viruses using an alignment-free method based on a return time distribution. J Virol Methods. 2014. 198:41-55.
+Link: http://bioinfo.unipune.ac.in/WNV/homepage.html
+  Read more
+
+IRESPred
+IRESPred is a Support Vector Machine (SVM) based computational tool to predict the presence of Internal Ribosome Entry Site (IRES) in viral and cellular 5'UTR sequences.
+Publication: 
+... 
+Link: http://bioinfo.unipune.ac.in/IRESPred/home.html
+  Read more
+
+Conformational Epitope Prediction (CEP) Server
+CEP predicts both, linear and conformational epitopes of protein antigens using 3D structure as an input. It is the first algorithm that was developed to predict conformational epitopes using accessibility and distance-based ... 
+
+  Read more
+
+ProtFract
+ProtFract analyses interior and exterior of proteins using fractals. It offers two classes of broad services: services meant for calculating many protein interior fractal-properties and services meant for calculating protein... 
+
+
+  Read more
+
+   Contact Us
+Postal Address:
+Bioinformatics Centre,
+Savitribai Phule Pune University (Formerly University of Pune),
+Pune 411 007,
+Maharashtra, India.
+Telephone +91 20 25692039, 25690195
+Fax +91 20 25690087
+
+E-mail: bioinfosppu@gmail.com

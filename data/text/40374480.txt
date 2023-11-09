@@ -1,0 +1,3 @@
+Internal Server Error
+Pri zpracovani pozadavku doslo k vnitrni chybe. Pravdepodobne se jedna o chybu v .htaccess souboru.
+Ctete instrukce v nasi znalostni bazi: Chyba 500 - Internal Server Error

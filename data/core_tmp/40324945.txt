@@ -1,0 +1,3 @@
+Notified by: ./Fake Root
+Domain: http://e-kinerja.pta-pontianak.go.id/read.html
+IP address: 202.83.121.118

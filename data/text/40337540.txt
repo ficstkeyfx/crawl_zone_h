@@ -1,0 +1,33 @@
+Real_Karizma  ~ By_MuCaHiT (DarKKnight)
+O w n z
+Y o u r
+S y s t e m
+Real_Karizma  ~ By_MuCaHiT (DarkKnight)
+Web Site Hacked..! Fuck You USA rusya ABD :) Love You .... ;)
+Aþkým Sana Þiir Tasarým:Real_Karizma
+mail:real_karizma@hotmail.co.uk
+<Sen bilmezsin Yüreðimde Yasar Ýsmin tekrar tekrar sölerim
+Sen Görmezsin Sakaklarýnda Ayak Ýzlerim sEni Her Özlediðimde Gelirim
+NE esen Ruzgar Kokumu Götürebilir Solduðum Havadan
+Nede gecen zaman içimdeki biþey eksiltebilir bu aþktan
+Sen Silemezsin Bu yazýyý Kararý Sen Veremezsin
+Ben Kendimce Yaþarým...
+Sevmiyor Olsan Bile Kendimi Avutur ''oda Seviyor'' Derim
+Her umudum Tükendiðinde Bu Sözlere Kanarým
+Zaman Gecer Mevsimler Deiþir Zaman Kýþ Olur
+Bazen Hava soðuk Olur Ama Ben Seni Düþündükce Isýnýrým,yanarým
+Yaðmurun ALtýnda Seninle Birlikte Yürümeyi Düþlerim
+BAzen o hayel Sakaklarýnda Sana Raslarým
+yüzünü Her gördüðümded Sana Silbaþtan Aþýk olurum
+bir fýsýltý Duyar bir düþ görürüm
+Gülüþümde Seni Gizlerim
+Aynaya Bakar Senin Gülümsemeni Gördükce Mutlu olur Sevinirim
+Kalbimde Bir Bahce Gizlerim,Ýçinde Binbir renkli güllerim
+Hepsi sanadýr Tüm Ciceklerin
+Sensiz Geçmez Günlerim Yanlýz Deðilim
+Hep Seninleyim
+1 düþüm 1 gülüm war 1 güneþimm war hayatýmda
+Ve Her olan 1 Senin Öteki Adýn Aslýnda.......!
+Fatal error:
+Cannot instantiate non-existent class:
+jconfig in /web/htdocs/www.studiotecnicoigr.it/home/main/includes/framework.php on line 48

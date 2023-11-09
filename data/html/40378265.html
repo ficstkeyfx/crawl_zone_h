@@ -1,0 +1,219 @@
+<html><head>
+		<meta charset="utf-8">
+	<title>Pencarian Panti Asuhan</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+	<!-- CSS -->
+	<link rel="stylesheet" href="vendors/styles/style.css"><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script></head>
+<body>
+		
+<div class="pre-loader" style="display: none;"></div>
+	<div class="header clearfix">
+		<div class="header-right">
+			<div class="brand-logo">
+				<a href="index.php">
+					<img src="vendors/images/logo.png" alt="" class="mobile-logo">
+				</a>
+			</div>
+			<div class="menu-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			<div class="user-info-dropdown">
+				<div class="dropdown">
+									<a class="dropdown-item " href="login.php"><i class="fa fa-sign-out" aria-hidden="true"></i> Log In</a>
+					 				</div>
+			</div>
+		</div>
+	</div>	<div class="left-side-bar">
+	<div class="brand-logo">
+		<a href="index.php">
+			<font class="icon-copy ion-android-pin" alt="">    WEB GIS </font>
+		</a>
+		</div>
+		<div class="menu-block customscroll mCustomScrollbar _mCS_1 mCS-autoHide mCS_no_scrollbar" style="position: relative; overflow: visible;"><div id="mCSB_1" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" style="max-height: none;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+			<div class="sidebar-menu">
+				<ul id="accordion-menu">
+					<!-- button Home -->
+					<li>
+					<a href="index.php" class="dropdown-toggle no-arrow">
+					<span class="fa fa-home"></span><span class="mtext">Home</span>
+					</a>
+					</li>
+					<!-- Search By -->
+					<li class="dropdown">
+      				<a href="javascript:;" class="dropdown-toggle" data-option="off">
+       				<span class="fa fa-search"></span><span class="mtext">Cari Berdasarkan ...</span>
+      				</a>
+      				<ul class="submenu">
+       				<!-- cari berdasarkan Nama -->
+       				<li class="dropdown">
+        			<a href="javascript:;" class="dropdown-toggle" data-option="off">
+         			<span class="fa fa-sort-alpha-asc"></span><span class="mtext">Nama</span>
+        			</a>
+        			<ul class="submenu child">
+         			<div class="panel-body">
+                    <input type="text" class="form-control" id="caripanti" name="caripanti" placeholder="Search...">
+                    <br>
+                    <button type="submit" class="btn btn-default" value="" onclick="carinamapanti()"> <i class="fa fa-search"></i></button>                          
+                    </div>
+        			</ul>
+       				</li>
+       				<!-- cari berdasarkan Nama END -->
+
+             
+       				<!-- cari berdasarkan Kecamatan -->
+       				<li class="dropdown">
+       				<a href="javascript:;" class="dropdown-toggle" data-option="off">
+         			<span class="fa fa-institution"></span><span class="mtext">Kecamatan</span>
+       				</a>
+        			<ul class="submenu child">
+         			<div class="panel-body">
+                	<select class="form-control" id="kecamatan">
+                	<option value="1">Koto Tangah</option><option value="2">Pauh</option><option value="3">Padang Utara</option><option value="4">Bungus</option><option value="5">Padang Barat</option><option value="6">Padang Timur</option><option value="7">Padang Selatan</option><option value="8">Lubuk Begalung</option><option value="9">Nanggalo</option><option value="10">Kuranji</option><option value="11">Lubuk Kilangan</option>                	</select>
+                	<br>
+                	<button type="submit" class="btn btn-default" id="caritpkec" value="cari" onclick="caritpkec()"><i class="fa fa-search"></i></button>
+          			</div>
+        			</ul>
+       				</li>
+       				<!-- cari berdasarkan Kecamatan END -->
+       				<!-- cari berdasarkan Kecamatan -->
+       				<li class="dropdown">
+        			<a href="javascript:;" class="dropdown-toggle" data-option="off"> 
+         			<span class="fa fa-car"></span><span class="mtext">Fasilitas</span>
+        			</a>
+        			<ul class="submenu child">
+        			<input type="checkbox" name="cekboxfasilitas[]" value="3"> Kamar Tidur <br><input type="checkbox" name="cekboxfasilitas[]" value="4"> Mushola <br><input type="checkbox" name="cekboxfasilitas[]" value="6"> Mobil <br><input type="checkbox" name="cekboxfasilitas[]" value="5"> Masjid <br><input type="checkbox" name="cekboxfasilitas[]" value="8"> Ruang Koperasi <br><input type="checkbox" name="cekboxfasilitas[]" value="7"> Pustaka <br>            		<button type="submit" class="btn btn-default" id="carifasilitas" value="fas" onclick="carifasilitas()"><i class="fa fa-search"></i></button>
+          			</ul>
+       				</li>
+   					</ul>
+					<!-- Search By END -->
+					<!-- Tabel -->
+					</li><li>
+					<a href="list_panti.php" class="dropdown-toggle no-arrow">
+					<span class="fa fa-list-ul"></span><span class="mtext">List Panti Asuhan</span>
+					</a>
+					</li>
+					<!-- Tabel END -->
+					<!-- button Form --> 
+					<li>
+					<a href="kalender.php" class="dropdown-toggle no-arrow">
+					<span class="fa fa-calendar"></span><span class="mtext">Kalender Kegiatan</span>
+					</a>
+					</li>
+					<!-- button Form END -->
+					<!-- button Form -->
+					<li>
+					<a href="add_detail_keg.php" class="dropdown-toggle no-arrow">
+					<span class="fa fa-pencil"></span><span class="mtext">Form Daftar Kegiatan</span>
+					</a>
+					</li>
+					<!-- button Form END -->
+					<!-- button Form -->
+					<li>
+					<a href="status_kegiatan.php" class="dropdown-toggle no-arrow">
+					<span class="fa fi-checkbox"></span><span class="mtext">Status Kegiatan</span>
+					</a>
+					</li>
+           <!-- kegiatan -->
+            <!-- <li>
+          <a href="javascript:;" onclick="eventt()"  class="dropdown-toggle no-arrow">
+          <span class="fa fi-checkbox"></span><span class="mtext">Event</span>
+          </a>
+           
+            <ul class="submenu child">
+                          <li class="sub-menu">
+                      <a href="javascript:;" onclick="reset()">
+                          <i class="fa fa-calendar"></i>
+                          <span>Date</span>
+                      </a>
+                     <ul class="submenu child">
+                        <div  class="panel-body" >
+                        <div class="form-group">
+                         
+                          <input type="text" class="form-control form-control-inline input-medium default-date-picker" size="16" name="caritgl" id="caritgl" value="">
+                          <button type="submit" class="btn btn-default" value="caritgl" onclick="caritglkeg();resultt()"> <i class="fa fa-search"></i></button> 
+                         
+                        </div>
+                        </div>
+                      </ul>
+                  </li> -->
+
+
+
+					<!-- button Form END -->
+				</ul>
+			</div>
+		</div></div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; height: 0px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
+	</div>	<div class="main-container">
+		<div class="pd-ltr-20 customscroll customscroll-10-p height-100-p xs-pd-20-10 mCustomScrollbar _mCS_2 mCS-autoHide" style="position: relative; overflow: visible;"><div id="mCSB_2" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" tabindex="0" style="max-height: none;"><div id="mCSB_2_container" class="mCSB_container" style="position:relative; top:0; left:0;" dir="ltr">
+			<div class="min-height-200px">
+				<div class="page-header">
+				<div class="row clearfix">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">
+					<div class="bg-white pd-20 box-shadow border-radius-5 height-100-p">
+						<!-- <h4 class="mb-20">Recent Messages</h4> -->
+						<div class="notification-list mx-h-450 customscroll mCustomScrollbar _mCS_3 mCS-autoHide mCS_no_scrollbar" style="position: relative; overflow: visible;"><div id="mCSB_3" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" style="max-height: none;" tabindex="0"><div id="mCSB_3_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+							<ul>
+								<div class="col-sm-12" id="hide2"> <!-- menampilkan data detail panti-->
+									<table>
+									<tbody style="vertical-align:top;">
+										<tr><td width="220px"><b>&nbsp; Nama Panti</b></td><td> :&nbsp; </td><td style="text-transform:capitalize;">Hacked By Nolep7</td></tr>
+										<tr><td><b>&nbsp; Alamat</b></td><td>:</td><td>Agenda Perhekeran </td></tr>
+										<tr><td><b>&nbsp; Pimpinan</b></td> <td> :</td><td>Hj. Ermainiar </td></tr>
+										<tr><td><b>&nbsp; No Telp</b> </td><td>: </td><td>081363141440222 </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak</b> </td><td>: </td><td>28 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Perempuan</b> </td><td>: </td><td>28 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Laki-laki</b> </td><td>: </td><td>0 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Murid SD</b> </td><td>: </td><td>1 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Murid SMP</b> </td><td>: </td><td>13 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Murid SMA</b> </td><td>: </td><td>11 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Yatim</b> </td><td>: </td><td>8 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Piatu</b> </td><td>: </td><td>4 orang </td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Dhuafa</b> </td><td>: </td><td>13 orang</td></tr>
+										<tr><td><b>&nbsp; Jumlah Anak Yatim Piatu</b> </td><td>: </td><td>3 orang </td></tr>
+										<tr><td><b>&nbsp; Tahun Berdiri</b> </td><td>: </td><td>1950</td></tr>	
+										<tr><td><b>&nbsp; Jumlah Pegawai</b> </td><td>: </td><td>14 orang </td></tr>
+										<tr><td><b>&nbsp; Donatur Tetap</b> </td><td>: </td><td>4</td></tr>	
+									</tbody>
+									</table>
+								</div>
+							</ul>
+						</div></div><div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_3_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; height: 0px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
+					</div>			
+               	</div>
+               	<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">
+					<div class="bg-white pd-20 box-shadow border-radius-5 height-100-p">
+						<div class="to-do-list mx-h-450 customscroll mCustomScrollbar _mCS_4 mCS-autoHide" style="position: relative; overflow: visible;"><div id="mCSB_4" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" tabindex="0" style="max-height: none;"><div id="mCSB_4_container" class="mCSB_container" style="position:relative; top:0; left:0;" dir="ltr">
+							<ul>
+								<div class="col-sm-12" id="hide3"> <!-- menampilkan foto-->
+					   	 			<section class="panel">
+					                    <div class="panel-body">
+					                       <!--  <a class="btn btn-primary btn-lg btn-block">Tambah Panti Asuhan</a> -->
+					                        <div class="box-body">
+					                        	<table>
+					                        		<tbody>
+					                        			<tr><td><b>&nbsp; &nbsp;<img src="uploads/" style="width:450px;height:350px;" class="mCS_img_loaded"></b></td></tr>
+					                        		</tbody>	
+					                        	</table>		
+					                        </div>				
+					                    </div>
+					                </section>
+					            </div>
+					        </ul>
+					    </div></div><div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_4_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; display: block; height: 350px; max-height: 340px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div>
+					</div>
+				</div>
+			</div>
+				<div class="footer-wrap bg-white pd-20 mb-20 border-radius-5 box-shadow">
+		<a href="http//instagram.com/riaoktaviani17" target="_blank">Aulia Ayu Lukman (1411521007)</a>
+	</div>		</div>
+	</div>
+		<!-- js -->
+	<script src="vendors/scripts/script.js"></script>
+	<script src="script.js"></script>
+</div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; display: block; height: 565px; max-height: 561.6px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div></body></html>

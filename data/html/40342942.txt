@@ -1,0 +1,13 @@
+<html><head>
+        <title>Website dalam perbaikan</title>
+        <meta name="google-site-verification" content="MI7b34DtmiW-8cT7UYcycu-ByMedfEd66RpSIvpzTO8">
+    </head>
+    <body>
+        <h1>
+            Website Dalam Perbaikan
+        </h1>
+        <h2>
+            Beberapa Isi Halaman Belum Tersedia
+        </h2>
+    
+</body></html>

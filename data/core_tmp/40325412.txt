@@ -1,0 +1,3 @@
+Notified by: R13S
+Domain: https://my.kompta.net/a.txt
+IP address: 185.49.20.101

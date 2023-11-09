@@ -1,0 +1,5 @@
+1923 TURK GRUP DJ_K_A_H_I_R
+Warning:
+require_once(/includes/version.php) [function.require-once]: failed to open stream: No such file or directory in /home/adurbem/public_html/includes/mambo.php on line 41
+Fatal error:
+require_once() [function.require]: Failed opening required '/includes/version.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adurbem/public_html/includes/mambo.php on line 41

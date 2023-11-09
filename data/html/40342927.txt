@@ -1,0 +1,902 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=""><head profile="http://gmpg.org/xfn/11">
+
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Brawijaya University was established in 5 January 1963 and located in Malang. It is an autonomous state university in Indonesia. ">
+   <meta name="alexaVerifyID" content="NnuhsnZQoZilBhwIWMBdVjTbvSw">
+   <!-- <meta name="google-site-verification" content="y0e-Z-abCzZk2-EQSrECuKcc5Gij0gfSpXqehy339So" /> -->
+   <meta name="google-site-verification" content="XlTdYaLJmsDviWWFmVTfra44aPKycTq072-5_hl8YFY">
+   <meta name="msvalidate.01" content="E8E414C6A55AD27902F8E77907D679E4">
+   <meta name="y_key" content="508782732059fb96">
+   <meta name="msvalidate.01" content="9688B203693D9FFF5818A3F0C299DC50">
+    
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Universitas Brawijaya - Building Up Noble FutureUniversitas Brawijaya | Building Up Noble Future</title>
+    <!-- Bootstrap -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link href="https://ub.ac.id/wp-content/themes/v2018-1/style.css" rel="stylesheet">      
+   
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/flexslider.min.css" integrity="sha512-c7jR/kCnu09ZrAKsWXsI/x9HCO9kkpHw4Ftqhofqs+I2hNxalK5RGwo/IAhW3iqCHIw55wBSSCFlm8JP0sw2Zw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+   <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap4.min.css">
+   
+   <script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/1f77e565/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-12978503-1']);
+     _gaq.push(['_setDomainName', 'ub.ac.id']);
+     _gaq.push(['_trackPageview']);
+     (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   </script>
+   
+   
+
+    <meta name="robots" content="max-image-preview:large">
+
+   <!-- This site is optimized with the Yoast SEO plugin v14.7 - https://yoast.com/wordpress/plugins/seo/ -->
+   <meta name="description" content="Building Up Noble Future">
+   <meta name="robots" content="index, follow">
+   <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+   <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+   <link rel="canonical" href="https://ub.ac.id/">
+   <link rel="next" href="https://ub.ac.id/page/2/">
+   <meta property="og:locale" content="en_US">
+   <meta property="og:type" content="website">
+   <meta property="og:title" content="Universitas Brawijaya - Building Up Noble Future">
+   <meta property="og:description" content="Building Up Noble Future">
+   <meta property="og:url" content="https://ub.ac.id/">
+   <meta property="og:site_name" content="Universitas Brawijaya">
+   <meta name="twitter:card" content="summary_large_image">
+   <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ub.ac.id/#website","url":"https://ub.ac.id/","name":"Universitas Brawijaya","description":"Building Up Noble Future","potentialAction":[{"@type":"SearchAction","target":"https://ub.ac.id/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://ub.ac.id/#webpage","url":"https://ub.ac.id/","name":"Universitas Brawijaya - Building Up Noble Future","isPartOf":{"@id":"https://ub.ac.id/#website"},"description":"Building Up Noble Future","inLanguage":"en-US"}]}</script>
+   <meta name="google-site-verification" content="y0e-Z-abCzZk2-EQSrECuKcc5Gij0gfSpXqehy339So">
+   <!-- / Yoast SEO plugin. -->
+
+
+<link rel="stylesheet" id="wp-block-library-css" href="https://ub.ac.id/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="tablepress-default-css" href="https://ub.ac.id/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all">
+      <script>
+         /* <![CDATA[ */
+         var rcewpp = {
+            "ajax_url":"https://ub.ac.id/wp-admin/admin-ajax.php",
+            "nonce": "dd150e00b3",
+            "home_url": "https://ub.ac.id"
+         };
+         /* ]]\> */
+      </script>
+      <link rel="https://api.w.org/" href="https://ub.ac.id/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ub.ac.id/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ub.ac.id/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.2">
+<link rel="stylesheet" href="https://ub.ac.id/wp-content/plugins/wp-page-numbers/classic/wp-page-numbers.css" type="text/css" media="screen"><style type="text/css">
+.qtranxs_flag_en {background-image: url(https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+.qtranxs_flag_id {background-image: url(https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="en" href="https://ub.ac.id/en/" rel="alternate">
+<link hreflang="id" href="https://ub.ac.id/id/" rel="alternate">
+<link hreflang="x-default" href="https://ub.ac.id/" rel="alternate">
+<meta name="generator" content="qTranslate-X 3.4.6.8">
+      <script>
+         document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+      </script>
+            <style>
+         .no-js img.lazyload { display: none; }
+         figure.wp-block-image img.lazyloading { min-width: 150px; }
+                     .lazyload, .lazyloading { opacity: 0; }
+            .lazyloaded {
+               opacity: 1;
+               transition: opacity 400ms;
+               transition-delay: 0ms;
+            }
+               </style>
+      <style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://ub.ac.id/wp-content/uploads/2022/10/bg-2022.jpg"); background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+   <link rel="icon" href="https://ub.ac.id/wp-content/uploads/2020/10/favicon-32x32_640d339432103018c1c64b38cdf20bc4.png" sizes="32x32">
+<link rel="icon" href="https://ub.ac.id/wp-content/uploads/2020/10/favicon-32x32_640d339432103018c1c64b38cdf20bc4.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://ub.ac.id/wp-content/uploads/2020/10/favicon-32x32_640d339432103018c1c64b38cdf20bc4.png">
+<meta name="msapplication-TileImage" content="https://ub.ac.id/wp-content/uploads/2020/10/favicon-32x32_640d339432103018c1c64b38cdf20bc4.png">
+    
+  <style>#gpr-kominfo-widget-footer,#gpr-kominfo-widget-header{background-size:100% 100%!important;background-repeat:no-repeat!important}#gpr-kominfo-widget-container{background-color:#23277B!important;width:100%!important;min-width:200px!important;max-width:786px!important;border-top:5px solid #23277B!important;-webkit-border-radius:5px!important;-moz-border-radius:5px!important;border-radius:5px!important}#gpr-kominfo-widget-header{background-color:#23277B!important;background-image:url(https://widget.kominfo.go.id/images/g20-header.jpeg);background-position:center center!important;padding:5px!important;margin-right:5px!important;border-left:6px solid #23277B!important;height:70px!important}#gpr-kominfo-widget-footer{background-image:url(https://widget.kominfo.go.id/images/g20-footer.jpeg);background-position:top!important;height:55px!important;margin:-10px 5px 5px}#gpr-kominfo-widget-body{background-color:#fff!important;padding:5px!important;margin:5px 5px 0!important;word-wrap:break-word!important;-webkit-border-radius:2px 5px 5px!important;-moz-border-radius:2px 5px 5px!important;border-radius:2px 5px 5px!important}#gpr-kominfo-widget-list{margin:-5px 0 0!important;padding:0!important;border:0!important}li.gpr-kominfo-widget-list-item{font-family:Arial,Helvetica,sans-serif!important;font-size:14px!important;background-size:55px!important;padding-left:64px!important;padding-top:10px!important;padding-bottom:10px!important;border-bottom:1px dotted #23277B!important;list-style:none!important;text-decoration:none!important}li.gpr-kominfo-widget-icon-rilis-media-gpr{background:url(https://widget.kominfo.go.id/images/rilismediagpr.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-artikel-berita-gpr{background:url(https://widget.kominfo.go.id/images/artikelberitagpr.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-infografis-gpr{background:url(https://widget.kominfo.go.id/images/infografisgpr.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-laporan-gpr{background:url(https://widget.kominfo.go.id/images/laporangpr.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-lawan-covid-19{background:url(https://widget.kominfo.go.id/images/lawancovid19.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-hoaks{background:url(https://widget.kominfo.go.id/images/hoaks.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-berita-pemerintahan{background:url(https://widget.kominfo.go.id/images/beritapemerintahan.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-artikel{background:url(https://widget.kominfo.go.id/images/artikel.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-infografis{background:url(https://widget.kominfo.go.id/images/infografis.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-rilis-media{background:url(https://widget.kominfo.go.id/images/rilis-media.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-berita-terkini{background:url(https://widget.kominfo.go.id/images/berita-terkini.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-icon-debug-hoaks{background:url(https://widget.kominfo.go.id/images/debug-hoaks.png) left center no-repeat;background-size:55px!important}li.gpr-kominfo-widget-list-item a{text-decoration:none!important;color:#171717!important}li.gpr-kominfo-widget-list-item a:hover{color:#1474A7!important}li.gpr-kominfo-widget-list-item small{color:#23277B!important}li.gpr-kominfo-widget-list-item p.testing{background-color:#000!important;margin-top:0!important;margin-bottom:-2px!important}.gpr-kominfo-align-left{float:left!important;font-size:80%!important;font-weight:700!important}.gpr-kominfo-align-right{float:right!important;padding-right:20px!important;font-size:80%!important}.gpr-kominfo-clear-fix{clear:both!important}.gpr-small-date{font-size:70%!important}</style></head>
+  <body class="home blog custom-background wp-custom-logo elementor-default elementor-kit-4106">
+ 
+  
+  <nav id="ub-header" class="navbar navbar-inverse navbar-ub navbar-sticky-top navbar-agustus">
+<div class="thetop"></div>
+
+<section class="navbar-main ">
+    <section class="navbar-top  hidden-sm hidden-xs">
+        <div class="container clearfix">
+            <div class="pull-left">
+                <div class="menu-usernav-container"><ul id="menu-usernav" class="menu"><li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="https://ub.ac.id/information-for/pre-student/">Prospective Student</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://ub.ac.id/information-for/student/">Student</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://ub.ac.id/information-for/alumni/">Alumni</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="https://ub.ac.id/information-for/staff-and-lecture/">Staff and Lecture</a></li>
+<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://ub.ac.id/information-for/parent-and-media/">Parent and Media</a></li>
+<li id="menu-item-193" class="item-searchform hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-193"><a><button class="searchform-toggle btn animated"><i class="fa fa-search"></i></button></a></li>
+</ul></div>            </div>
+            <div class="pull-right">
+                <div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-183" class="qtranxs-lang-menu qtranxs-lang-menu-en menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-183 dropdown"><a title="English" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Language:&nbsp;<img alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" alt="English" /></noscript></a>
+<ul class="sub-menu dropdown-menu" role="menu">
+   <li id="menu-item-4056" class="qtranxs-lang-menu-item qtranxs-lang-menu-item-en menu-item menu-item-type-custom menu-item-object-custom menu-item-4056"><a title="English" href="https://ub.ac.id/en/"><img alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class=" lazyloaded" src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png"><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" alt="English" /></noscript>&nbsp;English</a></li>
+   <li id="menu-item-4057" class="qtranxs-lang-menu-item qtranxs-lang-menu-item-id menu-item menu-item-type-custom menu-item-object-custom menu-item-4057"><a title="Indonesia" href="https://ub.ac.id/id/"><img alt="Indonesia" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" class=" lazyloaded" src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png"><noscript><img  alt="Indonesia" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" alt="Indonesia" /></noscript>&nbsp;Indonesia</a></li>
+</ul>
+</li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://ub.ac.id/directory/">Directory</a></li>
+<li id="menu-item-1207" class="gapura-link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1207 dropdown"><a data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Services <i class="fa fa-caret-down"></i></a>
+<ul class="sub-menu dropdown-menu" role="menu">
+   <li id="menu-item-3392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3392"><a href="https://ult.ub.ac.id/">ULT UB</a></li>
+   <li id="menu-item-4012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4012"><a href="https://pld.ub.ac.id/">PLD UB</a></li>
+   <li id="menu-item-1359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1359"><a href="https://sertifikasi.ub.ac.id/">Sertifikasi IT</a></li>
+   <li id="menu-item-1416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1416"><a href="https://bais.ub.ac.id/">BAIS</a></li>
+   <li id="menu-item-4055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4055"><a href="https://assist.ub.ac.id/">Assist UB</a></li>
+   <li id="menu-item-1418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1418"><a href="http://lpse.ub.ac.id">LPSE</a></li>
+   <li id="menu-item-1419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1419"><a href="https://ub.ac.id/live-streaming/">Livestream</a></li>
+   <li id="menu-item-2221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2221"><a href="https://konseling.ub.ac.id">E-Counseling</a></li>
+   <li id="menu-item-1997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1997"><a href="https://goo.gl/bKYqxc">Quisioner Tracer Study</a></li>
+   <li id="menu-item-3648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3648"><a href="https://ulp.ub.ac.id/">ULP UB</a></li>
+</ul>
+</li>
+<li id="menu-item-187" class="quicklinks-toggle menu-item menu-item-type-custom menu-item-object-custom menu-item-187"><a href="#"><i class="fa fa-external-link-square"></i> Quicklinks</a></li>
+</ul></div>            </div>
+        </div>
+    </section>
+   <div class="container">
+      <div class="navbar-header">
+          <h1 title="Universitas Brawijaya - Building Up Noble Future">                         <a href="https://ub.ac.id/" class="custom-logo-link" rel="home" aria-current="page"><img width="560" height="100" alt="Universitas Brawijaya" data-src="https://ub.ac.id/wp-content/uploads/2022/10/logo-ub-202210.png" class="custom-logo lazyloaded" src="https://ub.ac.id/wp-content/uploads/2022/10/logo-ub-202210.png"><noscript><img width="560" height="100" src="https://ub.ac.id/wp-content/uploads/2022/10/logo-ub-202210.png" class="custom-logo" alt="Universitas Brawijaya" /></noscript></a>                   </h1>         </div> 
+        
+        <div class="navbar-right toggle-group clearfix">
+         <button class="btn btn-default search-toggle" type="button"><i class="fa fa-search"></i></button>
+         <button class="btn btn-default quicklinks-toggle hidden-lg" type="button"><i class="fa fa-link"></i></button>
+            <button type="button" class="navbar-toggle collapsed btn btn-default" data-toggle="collapse" data-target="#ub-nav" aria-expanded="false">
+               <i class="fa fa-reorder"></i>
+            </button>
+        </div>
+    
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ub-collapse" id="ub-nav">
+        <div class="menu-primary-container"><ul id="menu-primary" class="nav navbar-nav ub-nav navbar-right"><li id="menu-item-97" class="hidden-lg hidden-md hidden-md-down menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-97 dropdown"><a title="Information for" href="https://ub.ac.id/information-for/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Information for <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;"></div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a title="Prospective students" href="https://ub.ac.id/information-for/pre-student/">Prospective students</a></li>
+   <li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a title="Students" href="https://ub.ac.id/information-for/student/">Students</a></li>
+   <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a title="Alumni" href="https://ub.ac.id/information-for/alumni/">Alumni</a></li>
+   <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a title="Staff and Lecturer" href="https://ub.ac.id/information-for/staff-and-lecture/">Staff and Lecturer</a></li>
+   <li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a title="Parents and Media" href="https://ub.ac.id/information-for/parent-and-media/">Parents and Media</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-61" class="menu-about menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61 dropdown"><a title="About UB" description="This name is derived from the title of Kings of Majapahit, a great kingdom in Indonesia from 12th to 15th centuries." href="https://ub.ac.id/about/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">About UB <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;">This name is derived from the title of Kings of Majapahit, a great kingdom in Indonesia from 12th to 15th centuries.</div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-3509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3509"><a title="Brief Profile" href="https://ub.ac.id/about/brief-profile/">Brief Profile</a></li>
+   <li id="menu-item-705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-705"><a title="History" href="https://ub.ac.id/about/history/">History</a></li>
+   <li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a title="Coat of Arms, Logo, and Mascot" href="https://ub.ac.id/about/ub-brand/">Coat of Arms, Logo, and Mascot</a></li>
+   <li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="Vision, Mission and Educational Objectives" href="https://ub.ac.id/about/vision-and-mission/">Vision, Mission and Educational Objectives</a></li>
+   <li id="menu-item-708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-708"><a title="Hymn and Mars" href="https://ub.ac.id/about/hymne-and-mars/">Hymn and Mars</a></li>
+   <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a title="Organization" href="https://ub.ac.id/about/organization/">Organization</a></li>
+   <li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a title="Cooperation" href="https://ub.ac.id/about/cooperation/">Cooperation</a></li>
+   <li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a title="Accreditation" href="https://ub.ac.id/about/accreditation/">Accreditation</a></li>
+   <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a title="Achievements" href="https://ub.ac.id/about/achievements/">Achievements</a></li>
+   <li id="menu-item-2687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a title="Official Documents" href="https://ub.ac.id/about/official-documents/">Official Documents</a></li>
+   <li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a title="UB Statistics" href="https://ub.ac.id/about/ub-by-the-number/">UB Statistics</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-72" class="menu-academic menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-72 dropdown"><a title="Academics" description="Brawijaya University students come from across the Indonesia and throughout the world, representing diverse perspectives, experiences, backgrounds and cultures." href="https://ub.ac.id/academic/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Academics <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;">Brawijaya University students come from across the Indonesia and throughout the world, representing diverse perspectives, experiences, backgrounds and cultures.</div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a title="Admission" href="https://ub.ac.id/academic/admission/">Admission</a></li>
+   <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a title="Vocational Education Program" href="https://ub.ac.id/academic/vocational-education-program/">Vocational Education Program</a></li>
+   <li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a title="Undergraduate Academic Program" href="https://ub.ac.id/academic/undergraduate-academic-program/">Undergraduate Academic Program</a></li>
+   <li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a title="Master Program" href="https://ub.ac.id/academic/master-program/">Master Program</a></li>
+   <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a title="Doctoral Program" href="https://ub.ac.id/academic/doctoral-program/">Doctoral Program</a></li>
+   <li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a title="Professional Education Program" href="https://ub.ac.id/academic/professional-education-program/">Professional Education Program</a></li>
+   <li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a title="Specialist Program" href="https://ub.ac.id/academic/specialist-program/">Specialist Program</a></li>
+   <li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a title="Double Degree Program" href="https://ub.ac.id/academic/double-degree-program/">Double Degree Program</a></li>
+   <li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a title="Scholarships" href="https://ub.ac.id/academic/scholarships/">Scholarships</a></li>
+   <li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a title="International Student Admission" href="https://ub.ac.id/academic/international-student/">International Student Admission</a></li>
+   <li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a title="Academic Calendar" href="https://ub.ac.id/academic/academic-calendar/">Academic Calendar</a></li>
+   <li id="menu-item-3766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3766"><a title="Study Programs Accreditation" href="https://ub.ac.id/academic/study-programs-accreditation/">Study Programs Accreditation</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-222" class="menu-faculty menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-222 dropdown"><a title="Faculty" description="Brawijaya University offers the kind of education needed for leadership in a rapidly changing world." href="https://ub.ac.id/faculty/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Faculty <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;">Brawijaya University offers the kind of education needed for leadership in a rapidly changing world.</div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a title="Law" href="http://hukum.ub.ac.id">Law</a></li>
+   <li id="menu-item-205" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-205"><a title="Economics and Business" href="http://feb.ub.ac.id">Economics and Business</a></li>
+   <li id="menu-item-206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206"><a title="Administrative Sciences" href="http://fia.ub.ac.id">Administrative Sciences</a></li>
+   <li id="menu-item-207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-207"><a title="Agriculture" href="http://fp.ub.ac.id">Agriculture</a></li>
+   <li id="menu-item-208" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-208"><a title="Animal Science" href="http://fapet.ub.ac.id">Animal Science</a></li>
+   <li id="menu-item-209" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209"><a title="Engineering" href="http://teknik.ub.ac.id">Engineering</a></li>
+   <li id="menu-item-210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-210"><a title="Medical" href="http://www.fk.ub.ac.id">Medical</a></li>
+   <li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a title="Fisheries and Marine Sciences" href="http://fpik.ub.ac.id">Fisheries and Marine Sciences</a></li>
+   <li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212"><a title="Mathematics and Natural Sciences" href="http://mipa.ub.ac.id">Mathematics and Natural Sciences</a></li>
+   <li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a title="Agricultural Technology" href="http://tp.ub.ac.id">Agricultural Technology</a></li>
+   <li id="menu-item-214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214"><a title="Social Sciences and Political Sciences" href="http://fisip.ub.ac.id">Social Sciences and Political Sciences</a></li>
+   <li id="menu-item-215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-215"><a title="Cultural Studies" href="http://fib.ub.ac.id">Cultural Studies</a></li>
+   <li id="menu-item-216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a title="Veterinary Medicine" href="http://fkh.ub.ac.id">Veterinary Medicine</a></li>
+   <li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a title="Computer Science" href="http://filkom.ub.ac.id">Computer Science</a></li>
+   <li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a title="Dentistry" href="http://fkg.ub.ac.id/">Dentistry</a></li>
+   <li id="menu-item-3891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3891"><a title="Health Sciences" href="https://fikes.ub.ac.id/home/">Health Sciences</a></li>
+   <li id="menu-item-1339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1339"><a title="Graduate Studies" target="_blank" href="http://ppsub.ub.ac.id/en">Graduate Studies</a></li>
+   <li id="menu-item-3892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3892"><a title="Vocational" href="https://vokasi.ub.ac.id/">Vocational</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-81" class="menu-campus menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-81 dropdown"><a title="Around Campus" description="Living at Malang brings surprises and new experiences every day, in an extraordinary community of creative and accomplished people from around the world." href="https://ub.ac.id/campus-life/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Around Campus <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;">Living at Malang brings surprises and new experiences every day, in an extraordinary community of creative and accomplished people from around the world.</div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a title="Library" href="https://ub.ac.id/campus-life/library/">Library</a></li>
+   <li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a title="Student Activity Unit" href="https://ub.ac.id/campus-life/student-activity-unit/">Student Activity Unit</a></li>
+   <li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a title="Medical Facilities" href="https://ub.ac.id/campus-life/medical-facilities/">Medical Facilities</a></li>
+   <li id="menu-item-3519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3519"><a title="Disability Facilities" href="https://ub.ac.id/disability-facilities/">Disability Facilities</a></li>
+   <li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843"><a title="Sports Facilities" href="https://ub.ac.id/campus-life/facilities/">Sports Facilities</a></li>
+   <li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a title="General Facilities" href="https://ub.ac.id/campus-life/general-facilities/">General Facilities</a></li>
+   <li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a title="Animals and Plants in the Campus" href="https://ub.ac.id/campus-life/animals-and-plants-in-the-campus/">Animals and Plants in the Campus</a></li>
+   <li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a title="Canteen and Eateries" href="https://ub.ac.id/campus-life/eateries/">Canteen and Eateries</a></li>
+   <li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a title="Security" href="https://ub.ac.id/campus-life/security/">Security</a></li>
+   <li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a title="Campus Parking Lots" href="https://ub.ac.id/campus-life/campus-parking-lots/">Campus Parking Lots</a></li>
+   <li id="menu-item-2294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2294"><a title="Campus Map" href="https://ub.ac.id/campus-life/campus-map/">Campus Map</a></li>
+   <li id="menu-item-3473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a title="Occupational Health and Safety" href="https://ub.ac.id/campus-life/occupational-health-and-safety/">Occupational Health and Safety</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-112" class="menu-research menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-112 dropdown"><a title="Research" description="UB is committed to develop the relevance of research and community services to enhance the quality of education, industrial needs, and human resources." href="https://ub.ac.id/research/" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Research <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;">UB is committed to develop the relevance of research and community services to enhance the quality of education, industrial needs, and human resources.</div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a title="Research" href="https://ub.ac.id/research/research/">Research</a></li>
+   <li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a title="Community Service" href="https://ub.ac.id/research/community-service/">Community Service</a></li>
+   <li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a title="Research Cooperation" href="https://ub.ac.id/research/research-cooperation/">Research Cooperation</a></li>
+   <li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a title="Intellectual Property Rights" href="https://ub.ac.id/research/intellectual-property-rights/">Intellectual Property Rights</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-485" class="hidden-lg hidden-md menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-485 dropdown"><a title="Directory" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Directory <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;"></div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a title="AZ Index" href="https://ub.ac.id/az-index/">AZ Index</a></li>
+   <li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a title="Staff Directory" href="https://ub.ac.id/directory/direktori-karyawan/">Staff Directory</a></li>
+   <li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a title="Lecturer Directory" href="https://ub.ac.id/directory/direktori-dosen/">Lecturer Directory</a></li>
+   <li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489"><a title="Phone Directory" href="https://ub.ac.id/?page_id=432">Phone Directory</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-2229" class="hidden-lg hidden-md hidden-md-down menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2229 dropdown"><a title="Services" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Services <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;"></div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-2230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2230"><a title="Gapura UB" href="https://gapura.ub.ac.id/">Gapura UB</a></li>
+   <li id="menu-item-2231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2231"><a title="Sertifikasi IT" href="https://sertifikasi.ub.ac.id/">Sertifikasi IT</a></li>
+   <li id="menu-item-2232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2232"><a title="BAIS UB" href="https://bais.ub.ac.id/">BAIS UB</a></li>
+   <li id="menu-item-2233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2233"><a title="E Complaint" href="https://e-complaint.ub.ac.id/">E Complaint</a></li>
+   <li id="menu-item-2234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2234"><a title="LPSE" href="http://lpse.ub.ac.id">LPSE</a></li>
+   <li id="menu-item-2235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2235"><a title="Livestream" href="https://ub.ac.id/live-streaming/">Livestream</a></li>
+   <li id="menu-item-2236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2236"><a title="Konseling" href="https://konseling.ub.ac.id/">Konseling</a></li>
+   <li id="menu-item-2237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2237"><a title="Tracer Study" href="https://docs.google.com/forms/d/e/1FAIpQLScu-esQbpdvN77ePk9Ri4HY6at9jTLbSQNu4QhHiYTrNcwCpQ/viewform">Tracer Study</a></li>
+</ul>
+</div></div></div></div></li>
+<li id="menu-item-2227" class="hidden-lg hidden-md hidden-md-down qtranxs-lang-menu qtranxs-lang-menu-en menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2227 dropdown"><a title="Language:&nbsp;<img src=&quot;https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png&quot; alt=&quot;English&quot; />" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Language:&nbsp;<img alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" alt="English" /></noscript> <i class="animated fa fa-angle-right"></i></a><div class="menu-desc hidden-md-down" style="width: 33.33%;"></div>
+<div class=" dropdown-menu">
+
+<div class=" row block">
+
+<div class=" col-lg-7 col-md-7 col-xs-12 pull-right sub-mobile">
+
+<div class=" submenu-group">
+
+<ul class=" ul-2" role="menu">
+   <li id="menu-item-3893" class="qtranxs-lang-menu-item qtranxs-lang-menu-item-en menu-item menu-item-type-custom menu-item-object-custom menu-item-3893"><a title="<img src=&quot;https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png&quot; alt=&quot;English&quot; />&nbsp;English" href="https://ub.ac.id/en/"><img alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="English" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/gb.png" alt="English" /></noscript>&nbsp;English</a></li>
+   <li id="menu-item-3894" class="qtranxs-lang-menu-item qtranxs-lang-menu-item-id menu-item menu-item-type-custom menu-item-object-custom menu-item-3894"><a title="<img src=&quot;https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png&quot; alt=&quot;Indonesia&quot; />&nbsp;Indonesia" href="https://ub.ac.id/id/"><img alt="Indonesia" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  alt="Indonesia" data-src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://ub.ac.id/wp-content/plugins/qtranslate-x/flags/id.png" alt="Indonesia" /></noscript>&nbsp;Indonesia</a></li>
+</ul>
+</div></div></div></div></li>
+</ul></div>        
+        
+        </div>
+    </div>
+</section>
+
+
+
+<section id="quicklinks-row" class="quicklinks-row section-quicklinks">
+   <div class="container">
+            
+        <div class="quicklinks-box row">
+      <div id="nav_menu-2" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Directorate</h4><div class="menu-quicklinks-bureau-container"><ul id="menu-quicklinks-bureau" class="menu"><li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="http://bak.ub.ac.id">Directorate of Administrative and Academic Affairs</a></li>
+<li id="menu-item-1092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1092"><a href="https://kepegawaian.ub.ac.id/">Directorate of Human Resource</a></li>
+<li id="menu-item-1093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1093"><a href="http://birokeuangan.ub.ac.id">Directorate of Budgeting and Treasury</a></li>
+<li id="menu-item-4069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4069"><a href="https://kemahasiswaan.ub.ac.id/">Directorate of Student Affairs</a></li>
+<li id="menu-item-4070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4070"><a href="https://dpka.ub.ac.id/id/home-id/">Directorate of Career Development and Alumni</a></li>
+<li id="menu-item-4071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4071"><a href="http://kerjasama.ub.ac.id/">Directorate of Cooperation and Internationalization</a></li>
+<li id="menu-item-4072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4072"><a href="https://di2b.ub.ac.id/">Directorate of Innovation and Business Incubator</a></li>
+</ul></div></div><div id="nav_menu-3" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Institutions</h4><div class="menu-quicklinks-institutions-container"><ul id="menu-quicklinks-institutions" class="menu"><li id="menu-item-1094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1094"><a href="http://lppm.ub.ac.id">Institute of Research and Community Service</a></li>
+<li id="menu-item-1095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1095"><a href="http://lp3m.ub.ac.id">Institute of Educational Development and Quality Assurance</a></li>
+</ul></div></div><div id="nav_menu-4" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Technical Implementation Units</h4><div class="menu-quicklinks-technical-implementation-unit-container"><ul id="menu-quicklinks-technical-implementation-unit" class="menu"><li id="menu-item-1100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1100"><a href="http://lib.ub.ac.id">Central Library</a></li>
+<li id="menu-item-1099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1099"><a href="http://bits.ub.ac.id">Information and Communication Technology</a></li>
+<li id="menu-item-1098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1098"><a href="http://upkk.ub.ac.id">Career Development and Entrepreneurship</a></li>
+<li id="menu-item-1097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1097"><a href="http://lsih.ub.ac.id">Central Laboratory of Biological Sciences</a></li>
+<li id="menu-item-1096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1096"><a href="http://lssr.ub.ac.id">Central Laboratory of Science and Engineering</a></li>
+</ul></div></div><div id="nav_menu-8" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Business Management Units</h4><div class="menu-quicklinks-bpu-container"><ul id="menu-quicklinks-bpu" class="menu"><li id="menu-item-1349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1349"><a href="http://bua.ub.ac.id">Academic Business Unit</a></li>
+<li id="menu-item-1350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a href="http://buna.ub.ac.id/">Non-Academic Business Unit</a></li>
+<li id="menu-item-1351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1351"><a href="http://rumahsakit.ub.ac.id">UB Hospital</a></li>
+<li id="menu-item-1352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1352"><a href="#">UB Dentistry and Mouth Hospital</a></li>
+<li id="menu-item-1353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1353"><a href="#">UB Educational Veterinary Hospital</a></li>
+<li id="menu-item-1354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1354"><a href="http://poliklinik.ub.ac.id">Polyclinic</a></li>
+<li id="menu-item-1355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1355"><a href="#">Entrepreneurship Incubator Unit</a></li>
+<li id="menu-item-1356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1356"><a href="#">Office of Legal Services</a></li>
+</ul></div></div><div id="nav_menu-5" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Academic Business Units</h4><div class="menu-quicklinks-academic-business-unit-container"><ul id="menu-quicklinks-academic-business-unit" class="menu"><li id="menu-item-1101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1101"><a href="http://ubpress.ub.ac.id">UB Press</a></li>
+<li id="menu-item-1102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1102"><a href="http://bua.ub.ac.id/brawijaya-language-centre">Language Development Unit</a></li>
+<li id="menu-item-1103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1103"><a href="http://biosains.ub.ac.id">Institute of Bioscience</a></li>
+<li id="menu-item-1104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1104"><a href="http://bua.ub.ac.id/brawijaya-smart-school">Brawijaya Smart School</a></li>
+<li id="menu-item-1105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1105"><a href="http://bua.ub.ac.id/lab-lapangan-terpadu">Kepuharjo Integrated Field Laboratory</a></li>
+<li id="menu-item-1106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1106"><a href="http://bua.ub.ac.id/technopark">Agro Technopark</a></li>
+<li id="menu-item-1107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1107"><a href="http://bua.ub.ac.id/ubforest">UB Forest</a></li>
+<li id="menu-item-1108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1108"><a href="http://pureaa.ub.ac.id">Atsiri Institute</a></li>
+<li id="menu-item-1109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1109"><a href="http://tv.ub.ac.id">UB TV</a></li>
+<li id="menu-item-3275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3275"><a href="http://live.ub.ac.id:8000/">UB Radio</a></li>
+</ul></div></div><div id="nav_menu-6" class="quicklinks-col col-md-2 col-sm-4 col-xs-6"><h4 class="quicklinks-title serif">Non-Academic Business Units</h4><div class="menu-quicklinks-non-academic-business-unit-container"><ul id="menu-quicklinks-non-academic-business-unit" class="menu"><li id="menu-item-1112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1112"><a target="_blank" rel="noopener" href="http://guesthouse.ub.ac.id/">UB Guest House</a></li>
+<li id="menu-item-1114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1114"><a target="_blank" rel="noopener" href="http://griyabrawijaya.ub.ac.id/">Asrama Griya Brawijaya</a></li>
+<li id="menu-item-1113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1113"><a target="_blank" rel="noopener" href="http://ubkantin.ub.ac.id/">UB Canteen</a></li>
+<li id="menu-item-1110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1110"><a target="_blank" rel="noopener" href="http://sportcenter.ub.ac.id/">Sport Center</a></li>
+<li id="menu-item-1111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1111"><a target="_blank" rel="noopener" href="http://ubmedia.ub.ac.id/">UB Media</a></li>
+<li id="menu-item-1898" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1898"><a target="_blank" rel="noopener" href="http://ubcoffee.ub.ac.id/">UB Coffee</a></li>
+<li id="menu-item-2315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2315"><a href="http://griyabrawijaya.ub.ac.id/">Griya Brawijaya</a></li>
+</ul></div></div>        </div>
+              <div class="text-center">
+        <span class="quicklinks-close btn btn-danger"><i class="fa fa-angle-up"></i> Close Quicklinks</span>
+        </div>
+            
+    </div>
+</section>
+
+
+<section id="search-row" class="search-row section-search">
+   <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+          
+          <form role="search" method="get" class="search-form input-group" action="https://ub.ac.id/">
+
+                <input type="text" class="search-field form-control" placeholder="Search …" value="" name="s" title="Search for:">
+
+          <span class="input-group-btn">
+            <button class="btn btn-default" type="submit" value="Search">Go!</button>
+          </span>
+        </form>
+        </div>
+        </div>
+        
+    </div>
+</section>
+
+</nav>
+<section class="full-screen home-full">
+   <section class="home-video">
+
+
+<div id="embed-home" class="embed-responsive embed-responsive-16by9 ">
+      <iframe id="ubPlayer" class="embed-responsive-item" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="Universitas Brawijaya   MBKM 5" width="640" height="360" src="https://www.youtube.com/embed/TASng2UuWvw?autoplay=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;fs=0&amp;cc_load_policy=0&amp;iv_load_policy=3&amp;autohide=1&amp;disablekb=1&amp;playlist=TASng2UuWvw&amp;key=AIzaSyDOhmlRApiXEx837p8ehhikt4q5eIqj4yQ&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.nriit.ac.in&amp;widgetid=1"></iframe>
+</div>
+
+
+</section>     <section class="home-jump">
+
+   <div class="container mb-4" style="margin-bottom:20px;display:none">
+      <center class="">
+         <a style="display:block" href="https://pilrek.ub.ac.id/" target="_blank"><img style="max-width:100%" data-src="https://ub.ac.id/wp-content/uploads/2022/04/info-pilrek-2022.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img style="max-width:100%" src="https://ub.ac.id/wp-content/uploads/2022/04/info-pilrek-2022.jpg"></noscript></a>
+        </center>
+    </div>
+   <div class="container">
+      <div class="menu-ub-jump-container"><ul id="menu-ub-jump" class="menu"><li id="menu-item-1546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1546"><a href="https://ub.ac.id/about/achievements/">Achievements</a></li>
+<li id="menu-item-1342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1342"><a href="https://www.youtube.com/channel/UCnc-7fM48ye43KLZH7n9ZXg"><i class="fa fa-youtube-play"></i> Youtube Channel</a></li>
+<li id="menu-item-3006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3006"><a href="https://wiki.ub.ac.id/doku.php?id=vlm:index">Online Learning</a></li>
+<li id="menu-item-3393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3393"><a href="https://ult.ub.ac.id/">ULT UB</a></li>
+</ul></div>    </div>
+</section></section>
+
+   
+
+
+
+<section class="home-headline home-row" style="">
+   <div class="container">
+      <div id="panel-spotlight" class="panel panel-home panel-headline">
+            <div class="panel-heading serif ">
+                <h3 class="panel-title">
+                    Headlines                </h3>
+            </div>
+                <div class="row">
+            
+            
+                                 <div class="col-12 col-md-4">
+                     
+                        <div class="card">
+                           
+                           <a class="text-center" href="https://prasetya.ub.ac.id/en/ciptakan-alat-penghisap-gas-metana-dalam-kandang-mahasiswa-fapet-ub-peroleh-medali-emas-di-malaysia/" style="display:none; height:240px;overflow:hidden">
+                           <img src="" style="object-fit:cover; margin:0 auto; width:100%; height:auto">
+                           </a>
+                           
+                           <div class="headline-text text-center">
+                           <h4 class=" headline-title trim-text serif ">
+                           <a href="https://prasetya.ub.ac.id/en/ciptakan-alat-penghisap-gas-metana-dalam-kandang-mahasiswa-fapet-ub-peroleh-medali-emas-di-malaysia/" title="Creating Device of Methane Suction in Cattle Pens, Fapet UB Students Win Gold Medal in Malaysia">
+                              Creating Device of Methane Suction in Cattle Pens, Fapet UB Students Win Gold Medal in Malaysia                         </a>
+                           </h4>
+                           
+                           <div class="headline-description trim-text trim-four">
+                           <p>The student team of the Faculty of Animal Husbandry Universitas Brawijaya (Fapet UB) invents technological and robotic innovations, named “metadrone”. That is a drone designed to use the internet of things (IoT) system to suck methane gas in cattle pens. Through this work, they managed to get a gold medal, special award, and a grand […]</p>
+<p>Artikel <a rel="nofollow" href="https://prasetya.ub.ac.id/en/ciptakan-alat-penghisap-gas-metana-dalam-kandang-mahasiswa-fapet-ub-peroleh-medali-emas-di-malaysia/">Creating Device of Methane Suction in Cattle Pens, Fapet UB Students Win Gold Medal in Malaysia</a> pertama kali tampil pada <a rel="nofollow" href="https://prasetya.ub.ac.id/en">Prasetya UB</a>.</p>
+                           </div>
+                           </div>
+                        </div>
+                           
+                            </div>  
+
+                   
+                                          <div class="col-12 col-md-4">
+                     
+                        <div class="card">
+                           
+                           <a class="text-center" href="https://prasetya.ub.ac.id/en/innalillahi-dekan-fisip-ub-meninggal-dunia/" style="display:none; height:240px;overflow:hidden">
+                           <img src="" style="object-fit:cover; margin:0 auto; width:100%; height:auto">
+                           </a>
+                           
+                           <div class="headline-text text-center">
+                           <h4 class=" headline-title trim-text serif ">
+                           <a href="https://prasetya.ub.ac.id/en/innalillahi-dekan-fisip-ub-meninggal-dunia/" title="Innalillahi, The Dean of FISIP UB has Passed Away">
+                              Innalillahi, The Dean of FISIP UB has Passed Away                          </a>
+                           </h4>
+                           
+                           <div class="headline-description trim-text trim-four">
+                           <p>Sad news surrounds FISIP Universitas Brawijaya. The Dean of FISIP UB, Dr Sholih Muadi SH M.Si has passed away, Monday (3/10/2022) due to illness. “Dr. Sholih Mu’adi (Dean of FISIP UB) has passed away on Monday, October 3, 2022 at 06.17. May he be husnul khatimah, forgiven his sins, accept his deeds and be blessed […]</p>
+<p>Artikel <a rel="nofollow" href="https://prasetya.ub.ac.id/en/innalillahi-dekan-fisip-ub-meninggal-dunia/">Innalillahi, The Dean of FISIP UB has Passed Away</a> pertama kali tampil pada <a rel="nofollow" href="https://prasetya.ub.ac.id/en">Prasetya UB</a>.</p>
+                           </div>
+                           </div>
+                        </div>
+                           
+                            </div>  
+
+                   
+                                          <div class="col-12 col-md-4">
+                     
+                        <div class="card">
+                           
+                           <a class="text-center" href="https://prasetya.ub.ac.id/en/ub-kembangkan-iot-berbasis-gis-di-semeru/" style="display:none; height:240px;overflow:hidden">
+                           <img src="" style="object-fit:cover; margin:0 auto; width:100%; height:auto">
+                           </a>
+                           
+                           <div class="headline-text text-center">
+                           <h4 class=" headline-title trim-text serif ">
+                           <a href="https://prasetya.ub.ac.id/en/ub-kembangkan-iot-berbasis-gis-di-semeru/" title="UB Develops GIS-based IoT in Semeru">
+                              UB Develops GIS-based IoT in Semeru                         </a>
+                           </h4>
+                           
+                           <div class="headline-description trim-text trim-four">
+                           <p>Universitas Brawijaya (UB) has developed the Internet of Things (IoT) based on Geographic Information System (GIS) to mitigate disasters in Pronojiwo District which is an area affected by the eruption of Mount Semeru. The developer, Adipandang Yudono, S.Si., MURP, Ph.D, in Malang, Thursday (29/9/2022), said the method had been applied to the Semeru Post-eruption until […]</p>
+<p>Artikel <a rel="nofollow" href="https://prasetya.ub.ac.id/en/ub-kembangkan-iot-berbasis-gis-di-semeru/">UB Develops GIS-based IoT in Semeru</a> pertama kali tampil pada <a rel="nofollow" href="https://prasetya.ub.ac.id/en">Prasetya UB</a>.</p>
+                           </div>
+                           </div>
+                        </div>
+                           
+                            </div>  
+
+                   
+                                       
+                       
+                        
+                </div>
+                
+                <div class="text-center go-to-archive">
+                  
+                                                            <a class="btn btn-sm btn-primary btn-archive" href="https://prasetya.ub.ac.id/berita/en" target="_blank"><i class="fa fa-archive"></i>
+                                    More Headlines                    </a>
+                </div>
+                
+        </div>
+    </div>
+</section>
+<section class="home-row home-news bg-lite-gray">
+   <div class="container">
+      <div class="row">
+         <div class=" col-md-4 col-sm-4 col-xs-12">
+
+
+                <div id="panel-news" class="panel panel-home panel-news " style="">
+                    <div class="panel-heading no-radius">
+                        <h3 class="serif panel-title">
+                            Kampus Merdeka                        </h3>
+                    </div>
+                    <div class="panel-body">
+                        
+                                       <div class="media">
+                        
+                                <div class="media-body">
+                                <div class="post-date small">
+                                    October 10, 2022                                </div>
+                                <h4 class="media-heading serif">
+                                <a href="https://prasetya.ub.ac.id/en/jalin-relasi-dari-berbagai-negara-melalui-iismaevo/" title="Jalin Relasi dari Berbagai Negara melalui IISMAeVo">
+                                    Jalin Relasi dari Berbagai Negara melalui IISMAeVo                                </a>
+                                </h4>
+                                </div>    
+                            </div>  
+
+                   
+                                          <div class="media">
+                        
+                                <div class="media-body">
+                                <div class="post-date small">
+                                    October 10, 2022                                </div>
+                                <h4 class="media-heading serif">
+                                <a href="https://prasetya.ub.ac.id/en/cerita-mahasiswa-vokasi-di-iismaevo-impian-sejak-kecil-untuk-bisa-ke-inggris/" title="Cerita Mahasiswa Vokasi di IISMAeVo : Impian sejak Kecil untuk bisa ke Inggris">
+                                    Cerita Mahasiswa Vokasi di IISMAeVo : Impian sejak Kecil untuk bisa ke Inggris                                </a>
+                                </h4>
+                                </div>    
+                            </div>  
+
+                   
+                                          <div class="media">
+                        
+                                <div class="media-body">
+                                <div class="post-date small">
+                                    October 10, 2022                                </div>
+                                <h4 class="media-heading serif">
+                                <a href="https://prasetya.ub.ac.id/en/rezki-syarifudin-kuliah-sembari-healing/" title="Rezki Syarifudin, Kuliah Sembari Healing">
+                                    Rezki Syarifudin, Kuliah Sembari Healing                                </a>
+                                </h4>
+                                </div>    
+                            </div>  
+
+                   
+                                          <div class="media">
+                        
+                                <div class="media-body">
+                                <div class="post-date small">
+                                    October 10, 2022                                </div>
+                                <h4 class="media-heading serif">
+                                <a href="https://prasetya.ub.ac.id/en/melalui-yourney-mahasiswa-ub-bantu-pulihkan-pariwisata-indonesia/" title="Melalui Yourney, Mahasiswa UB Bantu Pulihkan Pariwisata Indonesia">
+                                    Melalui Yourney, Mahasiswa UB Bantu Pulihkan Pariwisata Indonesia                                </a>
+                                </h4>
+                                </div>    
+                            </div>  
+
+                   
+                                          <div class="media">
+                        
+                                <div class="media-body">
+                                <div class="post-date small">
+                                    September 09, 2022                                </div>
+                                <h4 class="media-heading serif">
+                                <a href="https://prasetya.ub.ac.id/en/gali-potensi-wisata-tim-dm-ub-rancang-desa-wisata-koi-latukan/" title="Gali Potensi Wisata, Tim DM UB Rancang Desa Wisata Koi Latukan">
+                                    Gali Potensi Wisata, Tim DM UB Rancang Desa Wisata Koi Latukan                                </a>
+                                </h4>
+                                </div>    
+                            </div>  
+
+                   
+                                       
+                    </div>
+                    
+                     
+                    <div class="text-center go-to-archive">
+                                                      <a class="btn btn-sm btn-primary btn-archive" href="https://prasetya.ub.ac.id/en/category/kampus-merdeka/" target="_blank"><i class="fa fa-newspaper-o"></i>
+                                More News about Kampus Merdeka
+                        </a>
+                        
+                
+                
+                    </div>
+                    
+                </div>
+
+            </div>
+            
+         <div class=" col-md-4 col-sm-4 col-xs-12 pull-right">
+               
+                <div id="panel-announcement" class="panel panel-home panel-news">
+                    <div class="panel-heading ">
+                        <h3 class="serif panel-title">
+                           Announcement                        </h3>
+                    </div>
+                    <div class="panel-body">
+                        
+                                   
+                    <div class="quicklinks-box">
+                    <div id="rpjc_widget_cat_recent_posts-2" class="rpjc_widget_cat_recent_posts widget_recent_entries"><div><div class="media"><div class="media-body"><div class="post-date small">October 9, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/graduation-period-iii-and-iv-2022-2023/">Graduation Period III and IV 2022/2023</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">September 14, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/undangan-presentasi-collecting-data-material-konstruksi-mep-dan-barang-atk-penyusunan-ssh-ub/">Undangan Presentasi dan Collecting Data Material Konstruksi MEP dan Barang ATK untuk Penyusunan Standar Satuan Harga Unversitas Brawijaya</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">August 29, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/pelaksanaan-wisuda-periode-i-dan-ii-ta-2022-2023/">Pelaksanaan Wisuda Periode I dan II TA. 2022/2023</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">August 26, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/cara-pindah-fasilitas-kesehatan-bpjs-ke-klinik-ub/">Cara Pindah Fasilitas Kesehatan BPJS Ke Klinik UB</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">August 15, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/undangan-peringatan-hut-ri-secara-daring-untuk-dosen-dan-tendik/">Undangan Peringatan HUT-RI Secara Daring Untuk Dosen dan Tendik</a></h4></div></div></div></div>                    </div>
+                                        </div>
+                   
+                    
+                    <div class="text-center go-to-archive">
+                       <a class="btn btn-sm btn-primary btn-archive" href="https://ub.ac.id/category/pengumuman" role="button"><i class="fa fa-bullhorn"></i>
+                       More Announcement                       </a>
+                    </div>
+                    
+
+            </div>
+            
+        </div>
+        
+        
+         <div class=" col-md-4 col-sm-4 col-xs-12">
+               
+                <div id="panel-event" class="panel panel-home panel-event panel-news">
+                    <div class="panel-heading no-radius">
+                        <h3 class="serif panel-title">
+                            Event                        </h3>
+                    </div>
+                    <div class="panel-body">
+                                             
+                                            
+                        <div class="quicklinks-box">
+                        <div id="rpjc_widget_cat_recent_posts-4" class="rpjc_widget_cat_recent_posts widget_recent_entries"><div><div class="media"><div class="media-body"><div class="post-date small">September 5, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/the-1st-aquatic-science-international-conference-2022-asic-2022/">The 1st Aquatic Science International Conference 2022 (ASIC 2022)</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">August 26, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/the-3rd-international-conference-on-fisheries-and-marine-research-icofmr-2022/">The 3rd International Conference on Fisheries and Marine Research (ICoFMR) 2022</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">August 10, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/the-1st-brawijaya-international-conference-on-business-and-law-bicobl-2022/">The 1st Brawijaya International Conference on Business and Law (BICoBL) 2022</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">June 3, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/the-13th-international-conference-on-global-resource-conservation-icgrc/">The 13th International Conference on Global Resource Conservation (ICGRC)</a></h4></div></div><div class="media"><div class="media-body"><div class="post-date small">May 24, 2022</div><h4 class="media-heading serif"><a href="https://ub.ac.id/registration-for-fga-batch-3/">Registration for FGA Batch 3</a></h4></div></div></div></div>                        </div>
+                                                
+                    </div>
+                    
+                    <div class="text-center go-to-archive">
+                        <a class="btn btn-sm btn-warning btn-archive" href="https://ub.ac.id/calendar-event/" role="button"><i class="fa fa-calendar"></i> 
+                        More Events                        </a>
+                    </div>
+                    
+                    <div id="event-triangle"></div>
+                            
+                </div>
+
+            </div>
+            
+    </div>
+</div></section>
+
+
+
+
+<div id="section-ub-fact" class="home-fact">
+   <div class="container">
+        <div id="ub-fact" class="panel panel-digit panel-fact">
+            <div class="panel-heading">
+                <h2 class="panel-title no-margin no-radius">
+                     
+                     UB Fact                </h2>
+            </div>
+            <div class="panel-body">
+            <div class="row">
+            
+               <div class="digit-text col-lg-4 col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">18</span></div>
+               <div class="small">
+                     Faculty                    </div>
+               </div>
+               
+               <div class="digit-text col-lg-4  col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">174</span></div>
+               <div class="small">
+                     
+                     Study Programs                    </div>
+               </div>
+               
+               <div class="digit-text col-lg-4 col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">17470</span></div>
+               <div class="small">
+                     
+                     New Students                    </div>
+               </div>
+               
+               <div class="digit-text col-lg-4 col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">940</span></div>
+               <div class="small">
+                     
+                     Doctor                    </div>
+               </div>
+               
+               <div class="digit-text col-lg-4 col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">206</span></div>
+               <div class="small">
+                     
+                     Professor                    </div>
+               </div>
+               
+               <div class="digit-text col-lg-4 col-md-4 col-xs-6">
+               <div class="large ubcount serif2"><span class="counter">6</span>X</div>
+               <div class="small">
+                     
+                     PIMNAS Champions                    </div>
+               </div>
+               
+            </div>
+                
+                
+                
+                    <div class="text-center go-to-archive">
+                        <a class="btn btn-sm btn-primary btn-archive" href="https://ub.ac.id/about/ub-by-the-number/" role="button"><i class="fa fa-bar-chart"></i>
+                           
+                     More Facts                        </a>
+                  <a class="btn btn-sm btn-default btn-fact" href="https://ub.ac.id/about/achievements/pencapaian-iku-blu-akademik-2021/">Pindai IKU</a>
+                  <a class="btn btn-sm btn-danger btn-fact" href="https://ub.ac.id/about/achievements/key-performance-indicators-of-ub/">Pindai PT</a>
+                    </div>
+        </div>
+            </div>
+    </div>
+</div>
+
+
+
+
+<style>
+.home-modal .modal-dialog{
+   top:50%;
+   transform:translateY(-50%)!important
+   }
+.home-modal .modal-header{
+   position::relative;
+   border:none;
+   }
+.home-modal .close{
+   position:absolute;top:0;right:0; 
+   height:24px;
+   width:24px;
+   text-align:center;
+   line-height:24px;
+   background-color:#fff;
+   margin-top:0;
+   opacity:.8;
+      }
+@media (max-width:767px){
+.corner-74{
+   display:none
+   }
+}
+</style>
+
+
+
+
+<div class="ub-footer home-row">
+   <div class="container">
+      
+        <div class="row">
+         <div class="col-lg-3 col-md-3 col-xs-12">
+               
+                           <div class="logo-footer">
+            <div id="media_image-2" class="footer-logo"><a href="https://mbkm.ub.ac.id/"><img width="600" height="100" alt="" loading="lazy" style="max-width: 100%; height: auto;" data-src="https://ub.ac.id/wp-content/uploads/2021/10/logo-ub-merdeka-belajar.png" class="image wp-image-3416  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="600" height="100" src="https://ub.ac.id/wp-content/uploads/2021/10/logo-ub-merdeka-belajar.png" class="image wp-image-3416  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></noscript></a></div>            </div>
+                            
+            
+            </div>
+         <div class="col col-lg-9 col-md-9 col-xs-12">
+               
+        
+         <div class="pull-right">
+               <div class="foot-frame">
+                    <div class="foot-link clearfix">
+                        
+                    <div class="menu-footnav-container"><ul id="menu-footnav" class="menu"><li id="menu-item-530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-530"><a href="https://ub.ac.id/term-of-use/">Terms of Use</a></li>
+<li id="menu-item-3474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3474"><a href="https://ult.ub.ac.id/">FAQ</a></li>
+<li id="menu-item-688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-688"><a href="https://ub.ac.id/copy-rights/">Copyrights</a></li>
+<li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-606"><a href="https://ub.ac.id/sitemap/">Sitemap</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-533"><a href="https://prasetya.ub.ac.id/rss.xml?lang=en">RSS</a></li>
+<li id="menu-item-3570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570"><a href="https://sc19.ub.ac.id/">Satgas Covid</a></li>
+<li id="menu-item-1225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1225"><a href="https://ub.ac.id/copyright/contact/">Contact</a></li>
+<li id="menu-item-4104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4104"><a href="https://gapura.ub.ac.id/">Gapura UB</a></li>
+</ul></div>                    </div>
+                    <div class="foot-media  clearfix">
+                    <div class="menu-socnav-container"><ul id="menu-socnav" class="menu"><li id="menu-item-535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535"><a target="_blank" rel="noopener" href="https://www.facebook.com/Universitas.Brawijaya.Official/"><i class="fa fa-facebook"></i></a></li>
+<li id="menu-item-536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-536"><a target="_blank" rel="noopener" href="https://twitter.com/ub_official"><i class="fa fa-twitter"></i></a></li>
+<li id="menu-item-537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-537"><a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCnc-7fM48ye43KLZH7n9ZXg"><i class="fa fa-youtube-play"></i></a></li>
+<li id="menu-item-689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-689"><a target="_blank" rel="noopener" href="https://www.flickr.com/photos/ub_pictures/"><i class="fa fa-flickr"></i></a></li>
+<li id="menu-item-539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539"><a target="_blank" rel="noopener" href="https://prasetya.ub.ac.id/rss.xml?lang=id"><i class="fa fa-rss"></i></a></li>
+<li id="menu-item-1226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1226"><a target="_blank" rel="noopener" href="https://www.instagram.com/univ.brawijaya"><i class="fa fa-instagram"></i></a></li>
+<li id="menu-item-3569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3569"><a href="https://wiki.ub.ac.id/"><i class="fa fa-wikipedia-w" aria-hidden="true"></i></a></li>
+</ul></div>                    </div>
+                </div>
+            </div> 
+            </div>
+        </div>
+            
+            
+    </div>
+</div>
+
+<a href="#" id="scroll"><i class="fa fa-angle-up"></i></a>
+
+
+
+<div class="modal fade" tabindex="-1" role="dialog" id="gpr-modal" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog  modal-dialog-centered" role="document">
+    <div class="modal-content">  
+   
+      <div class="modal-body text-center">
+     
+      <script type="text/javascript" src="https://ub.ac.id/wp-content/themes/v2018-1/asset/js/gpr-widget-kominfo.min.js"></script>
+      <div id="gpr-kominfo-widget-container"><div id="gpr-kominfo-widget-header"></div><div id="gpr-kominfo-widget-body"><ul id="gpr-kominfo-widget-list"><li class="gpr-kominfo-widget-list-item gpr-kominfo-widget-icon-berita-pemerintahan"><small class="gpr-kominfo-align-left"><b>Artikel</b></small><small class="gpr-kominfo-align-right gpr-small-date">15-10-2022 09:27</small><br><a href="http://www.kominfo.go.id/content/detail/45002/pendataan-awal-registrasi-sosial-ekonomi-dimulai/0/artikel_gpr" target="_blank">Pendataan Awal Registrasi Sosial Ekonomi Dimulai</a><br><small class="gpr-kominfo-align-right"> </small><div class="gpr-kominfo-clear-fix"></div></li><li class="gpr-kominfo-widget-list-item gpr-kominfo-widget-icon-berita-pemerintahan"><small class="gpr-kominfo-align-left"><b>Artikel</b></small><small class="gpr-kominfo-align-right gpr-small-date">14-10-2022 23:32</small><br><a href="http://www.kominfo.go.id/content/detail/44997/pemerintah-tetapkan-protokol-kesehatan-ktt-g20/0/artikel_gpr" target="_blank">Pemerintah Tetapkan Protokol Kesehatan KTT G20</a><br><small class="gpr-kominfo-align-right"> </small><div class="gpr-kominfo-clear-fix"></div></li><li class="gpr-kominfo-widget-list-item gpr-kominfo-widget-icon-berita-pemerintahan"><small class="gpr-kominfo-align-left"><b>Artikel</b></small><small class="gpr-kominfo-align-right gpr-small-date">13-10-2022 08:43</small><br><a href="http://www.kominfo.go.id/content/detail/44952/masyarakat-bali-siap-sukseskan-ktt-g20/0/artikel_gpr" target="_blank">Masyarakat Bali Siap Sukseskan KTT G20</a><br><small class="gpr-kominfo-align-right"> </small><div class="gpr-kominfo-clear-fix"></div></li><li class="gpr-kominfo-widget-list-item gpr-kominfo-widget-icon-berita-pemerintahan"><small class="gpr-kominfo-align-left"><b>Artikel</b></small><small class="gpr-kominfo-align-right gpr-small-date">11-10-2022 12:03</small><br><a href="http://www.kominfo.go.id/content/detail/44903/regsosek-untuk-akurasi-kebijakan-publik-peningkatan-capaian-pembangunan-dan-implementasi-satu-data-indonesia/0/artikel_gpr" target="_blank">Regsosek untuk Akurasi Kebijakan Publik, Peningkatan Capaian Pembangunan, dan Implementasi Satu Data Indonesia</a><br><small class="gpr-kominfo-align-right"> </small><div class="gpr-kominfo-clear-fix"></div></li><li class="gpr-kominfo-widget-list-item gpr-kominfo-widget-icon-berita-pemerintahan"><small class="gpr-kominfo-align-left"><b>Artikel</b></small><small class="gpr-kominfo-align-right gpr-small-date">07-10-2022 13:49</small><br><a href="http://www.kominfo.go.id/content/detail/44769/presidensi-g20-ajang-promosi-umkm-indonesia-di-tingkat-dunia/0/artikel_gpr" target="_blank">Presidensi G20 Ajang Promosi UMKM Indonesia di Tingkat Dunia</a><br><small class="gpr-kominfo-align-right"> </small><div class="gpr-kominfo-clear-fix"></div></li></ul></div><div id="gpr-kominfo-widget-footer"></div></div>
+      
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="https://ub.ac.id/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.8.3" id="smush-lazy-load-js"></script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://ub.ac.id/wp-content/themes/v2018-1/asset/js/bootstrap.min.js"></script>
+
+
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.7.2/jquery.flexslider-min.js"></script>
+         <script>
+
+              var htmlString = 'ZpNZGxz7brs';
+              var htmlString ='TASng2UuWvw';
+              $('#event-modal').modal('show');
+
+         </script>
+      
+
+   
+    <script src="https://ub.ac.id/wp-content/themes/v2018-1/asset/js/desktop.js"></script>
+   <script src="https://ub.ac.id/wp-content/themes/v2018-1/asset/js/video.js"></script>
+
+
+<script>
+$('#section-covid-close').click(function(){
+    $("#section-covid").remove();
+});
+</script>
+
+
+
+
+<!-- END -->
+  
+</body></html>

@@ -1,0 +1,534 @@
+Server Owned by Earthquaker ...................
+Site Is  H a c k e d
+! ! ! !
+Owned by Earthquaker
+Viewers
+can take any of the following steps:
+Come
+back when the admin made
+secured
+his/her site.
+Go
+to another
+website
+now
+Laugh
+about this hack.
+Cry
+about the fact you won't be able to view the site right now.
+Become
+a soldier in my army and fight for world
+domination!
+Click
+the Back
+button to go back
+(duh).
+Website Hacked
+Internet
+Exploder
+The admin has to take the following steps:
+Update
+the services used in the CGI-Bin more often
+Laugh
+about this hack.
+Cry
+about the fact that his site is hacked :(
+Become
+a soldier in my army and fight for world
+domination!..nah
+better forget about that !
+Click
+the Back
+button to go back
+(duh).
+34rthqu4k3r
+k33pz 0n h4x0r1ng.... I'm
+not that good, hell I'm not even very smart,
+but I always tend find people dumber than me :-)
+If you're tired of the hacking
+shit already (lamer!) you can go to the original website HERE
+"Life sucks ...so does your security"
+8-Þ
+No harm was done.
+(No account info changed, nothing deleted)
+Shouts outs of today : GHA, Elite-Sysadmin
+Paul (that's my dad LOL), ShadowLady, Nemesyst, Tux2000.
+It's all about the Pentiums, baby Uhh, uh-huh, yeah Uhh, uh-huh, yeah
+It's all about the Pentiums, baby
+It's all about the Pentiums, baby It's all about the Pentiums!
+It's all about the Pentiums! (Yeah!!)
+What y'all wanna do?
+Wanna be hackers? Code crackers? Slackers
+Wastin' time with all the chatroom yakkers?
+9 to 5, chillin' at Hewlett Packard?
+Workin' at a desk with a dumb little placard?
+Yeah, payin' the bills with my mad programming skills
+Defraggin' my hard drive for thrills
+I got me a hundred gigabytes of RAM
+I never feed trolls and I don't read spam
+Installed a T1 line in my house
+Always at my PC, double-clickin' on my mizouse
+Upgrade my system at least twice a day
+I'm strictly plug-and-play, I ain't afraid of Y2K
+I'm down with Bill Gates, I call him Money for short
+I phone him up at home and I make him do my tech support
+It's all about the Pentiums, what?
+You gotta be the dumbest newbie I've ever seen
+You've got white-out all over your screen
+You think your Commodore 64 is really neato
+What kinda chip you got in there, a Dorito?
+You're usin' a 286?
+Don't make me laugh
+Your Windows boots up in what, a day and a half?
+You could back up your whole hard drive on a floppy diskette
+You're the biggest joke on the Internet
+Your database is a disaster
+You're waxin' your modem, tryin' to make it go faster
+Hey fella, I bet you're still livin' in your parents' cellar
+Downloadin' pictures of Sarah Michelle Gellar
+And postin' "Me too!" like some brain-dead AOL-er
+I should do the world a favor and cap you like Old Yeller
+You're just about as useless as jpegs to Helen Keller
+It's all about the Pentiums!
+It's all about the Pentiums!
+It's all about the Pentiums!
+It's all about the Pentiums!
+Now, what y'all wanna do?
+Wanna be hackers? Code crackers? Slackers
+Wastin' time with all the chatroom yakkers?
+9 to 5, chillin' at Hewlett Packard?
+Uh, uh, loggin' in now
+Wanna run wit my crew, hah?
+Rule cyberspace and crunch numbers like I do?
+They call me the king of the spreadsheets
+Got'em all printed out on my bedsheets
+My new computer's got the clocks, it rocks
+But it was obsolete before I opened the box
+You say you've had your desktop for over a week?
+Throw that junk away, man, it's an antique!
+Your laptop is a month old? Well, that's great
+If you could use a nice, heavy paperweight
+My digital media is write-protected
+Every file inspected, no viruses detected
+I beta tested every operating system
+Gave props to some, and others? I dissed'em
+While your computer's crashin', mine's multitaskin'
+It does all my work without me even askin'
+Got a flat-screen monitor, 40" wide
+I believe that yours says, "Etch-A-Sketch" on the side
+In a 32-bit world, you're a 2-bit user
+You've got your own newsgroup, alt.total-loser
+Your motherboard melts when you try to send a fax
+Where'd you get your CPU, in a box of Cracker Jacks?
+Play me online? Well, you know that I'll beat you
+If I ever meet yo I'll control-alt-delete you
+What? It's all about the Pentiums!
+It's all about the Pentiums!
+It's all about the Pentiums!
+It's all about the Pentiums!
+What y'all wanna do?
+Wanna be hackers? Code crackers? Slackers
+Wastin' time with all the chatroom yakkers?
+9 to 5, chillin' at Hewlett Packard?
+What?
+root
+i got in for you ....
+total 454
+-rw-r--r--
+1 moviepri
+moviepri
+9037 Nov 21
+1999 .bash_history
+-rw-r--r--
+1 moviepri
+moviepri
+73 May 12
+1999 .bash_profile
+drwxr-xr-x
+15 moviepri
+moviepri
+512 Sep 15
+1999 .hirizeconfig
+lrwxrwxrwx
+1 root
+1035
+31 Sep 15
+1999 .vsaconfig -> /usr/www/moviepri/.hirizeconfig
+drwx------
+6 moviepri
+moviepri
+512 Jul
+5 12:11 Counter
+drwxr-xr-x
+5 moviepri
+moviepri
+1024 May 11
+1999 DBI-1.06
+drwxr-xr-x
+4 moviepri
+moviepri
+512 May 11
+1999 Data-Dumper-2.10
+drwxr-xr-x
+5 moviepri
+moviepri
+1024 May 11
+1999 Data-ShowTable-3.3
+drwxr-xr-x
+7 moviepri
+moviepri
+512 Jan 26
+1999 Msql-Mysql-modules-1.2017
+-rw-r--r--
+1 moviepri
+moviepri
+35140 Sep 15
+1999 adult.shtml
+-rw-r--r--
+1 moviepri
+moviepri
+8828 Sep 15
+1999 advertisinginfo.shtml
+lrwxrwxrwx
+1 root
+wheel
+13 May
+3
+1999 cgi -> httpd/cgi-bin
+drwxr-xr-x
+15 moviepri
+moviepri
+1024 May
+9
+1999 dead
+lrwxrwxrwx
+1 root
+wheel
+12 May
+3
+1999 html -> httpd/htdocs
+drwxr-xr-x
+8 moviepri
+moviepri
+512 Jul 15
+1999 httpd
+-rw-r--r--
+1 moviepri
+moviepri
+51083 Sep 15
+1999 index.shtml
+drwx------
+2 moviepri
+moviepri
+512 Jun 30
+1997 mail
+-rw-r--r--
+1 moviepri
+moviepri
+34140 Sep 15
+1999 multimedia.html
+drwxr-xr-x
+11 moviepri
+moviepri
+512 May 11
+1999 mysql
+drwxr-xr-x
+21 moviepri
+moviepri
+1024 May 11
+1999 mysql-3.22.22
+-rw-r--r--
+1 moviepri
+moviepri
+15485 Sep 15
+1999 search.shtml
+drwxr-xr-x
+3 moviepri
+moviepri
+512 May 11
+1999 usr
+-rw-r--r--
+1 moviepri
+moviepri
+62255 Sep 15
+1999 video.shtml
+cgi
+.... now now y0u find d4 h0l3
+!
+total 79806
+-rwxr-xr-x
+1 moviepri
+moviepri
+71645 Jul
+5 12:11 Count.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+1379 Nov 15
+1999 ads.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+1381 Nov 15
+1999 ads_1.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+1381 Nov 15
+1999 ads_A.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+1381 Feb 23 11:46 ads_B.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+82693 Nov 15
+1999 ads_admin.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+18798 Jul 15
+1999 ads_display.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+71688 Jun 29
+1999 ax-admin.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+9425 Jun 29
+1999 ax.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+569 May 21 20:18 axs.dat
+drwxr-xr-x
+2 moviepri
+moviepri
+512 Nov 12
+1999 backup
+-rwxr-xr-x
+1 moviepri
+moviepri
+0 Nov 13
+1999 banner.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+1 Nov 12
+1999 bktime.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+1476 Feb
+2 23:53 cfg.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+22696 Nov 12
+1999 configur.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+2 Nov 13
+1999 count.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+0 Nov 21
+1999 data.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+428 Nov 13
+1999 footer.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+178 Jul
+5 12:11 form_submitter.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+22670 Jul
+5 12:13 formmail.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+8062 Jan 11
+2000 friends.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+3696 Nov 12
+1999 gateway.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+123 Nov 13
+1999 gfooter.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+63 Nov 13
+1999 gheader.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+11348 Jul
+5 12:13 guestbook.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+5082 Feb
+3 00:13 header.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+18682 Oct 26
+1999 hirize.enc
+-rwxr-xr-x
+1 moviepri
+moviepri
+0 Jun
+3 13:05 ip.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+0 Nov 21
+1999 iplog.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+9 Jun
+3 13:05 iptime.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+3048 Nov 12
+1999 license.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+40237299 Jul 25 20:27 log.txt
+drwxr-xr-x
+2 moviepri
+moviepri
+512 Nov 13
+1999 members
+-rwxr-xr-x
+1 moviepri
+moviepri
+16693 Nov 12
+1999 members.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+132 Jan 29 19:46 menu.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+3070 Jan 29 20:44 menujump.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+17 Nov 13
+1999 mfooter.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+62 Nov 13
+1999 mheader.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+13 Nov 12
+1999 pass.dat
+-rwxr-xr-x
+1 moviepri
+moviepri
+3525 Nov 21
+1999 randex.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+42895 Nov 12
+1999 rank-admin.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+5519 Nov 12
+1999 ranking.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+2523 Jan 29 20:35 redirect.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+133 Nov 13
+1999 rfooter.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+62 Nov 13
+1999 rheader.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+36616 Feb
+9 19:53 search.cgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+14726 Jul
+5 12:14 search.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+18 Nov 13
+1999 sfooter.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+63 Nov 13
+1999 sheader.txt
+-rwxr-xr-x
+1 moviepri
+moviepri
+9325 Nov 12
+1999 signup.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+19 Jun
+3 13:05 time.txt
+drwxr-xr-x
+3 moviepri
+moviepri
+1024 Nov 11
+1999 ubbcgi
+-rwxr-xr-x
+1 moviepri
+moviepri
+15287 Nov 12
+1999 update.pl
+lrwxrwxrwx
+1 root
+1035
+10 Oct 26
+1999 vsa.enc -> hirize.enc
+-rwxr-xr-x
+1 moviepri
+moviepri
+27304 Jul
+5 12:14 wwwadmin.pl
+-rwxr-xr-x
+1 moviepri
+moviepri
+19014 Jul
+5 12:13 wwwboard.pl
+peace !!!!!!
+(and until next time)

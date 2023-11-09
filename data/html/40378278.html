@@ -1,0 +1,956 @@
+<html><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="icon" href="Images/Uop.ico"></head><body>-
+        <title>Bioinformatics Centre, Svatribai Phule Pune University</title>
+		<script type="text/javascript" src="jquery-latest.js"></script>
+        <!-- Bootstrap core CSS -->
+        <link href="Centre_Page/CSS/main.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <!-- <link href="./Result_files/jumbotron.css" rel="stylesheet">-->
+		<style>
+		body {margin:0;}
+		</style>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+		  // Add smooth scrolling to all links
+		  $("a").on('click', function(event) {
+
+			// Make sure this.hash has a value before overriding default behavior
+			if (this.hash !== "") {
+			  // Prevent default anchor click behavior
+			  event.preventDefault();
+
+			  // Store hash
+			  var hash = this.hash;
+
+			  // Using jQuery's animate() method to add smooth page scroll
+			  // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+			  $('html, body').animate({
+				scrollTop: $(hash).offset().top
+			  }, 800, function(){
+		   
+				// Add hash (#) to URL when done scrolling (default click behavior)
+				window.location.hash = hash;
+			  });
+			} // End if
+		  });
+		});
+		</script>
+<style>
+/* Dashed red border */
+hr.hrl {
+  border-top: 2px dashed #85929E;
+}
+
+hr.line {
+  border-top: 1px solid #C0C0C0;
+}
+</style>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.clmn {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    height: relative; /* Should be removed. Only for demonstration */
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: relative; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+<style>
+
+a {
+	color: #0254EB
+}
+a:visited {
+	color: #0254EB
+}
+#header h2 {
+	color: white;
+	background-color: #00A1E6;
+	margin:0px;
+	padding: 5px;
+}
+.comment {
+	width: relative;
+	background-color: white;
+	margin: 10px;
+}
+a.morelink {
+	text-decoration:none;
+	outline: none;
+}
+.morecontent span {
+	display: none;
+
+}
+</style>
+
+    
+    
+<!-- Navigation Bar -->
+		<div class="navbar">
+		<div class="bodytext"><br>
+	
+		<font color="#e3e0cc" size="3" style="padding-left:30px;">©&nbsp;&nbsp;Bioinformatics Centre, Svatribai Phule Pune University</font>
+		<a href="#Contact" style="text-decoration: none"><font color="white">Contact</font></a>
+		<a href="#Resources" style="text-decoration: none"><font color="white">Resources</font>	</a>
+		<a href="#Home" style="text-decoration: none"><font color="white">Home</font></a>
+		</div>		  
+		</div>
+<!-- Navigation Bar ENDs here -->
+<br><br><br><br><br>
+
+<!-- Landing Page Image and text -->
+
+<div align="center">
+	<table border="0" width="100%" cellspacing="4" cellpadding="4">
+		<tbody><tr>
+			<td width="40%" align="center">
+			<div class="clmn">
+				<img src="Centre_Page/Images/Home.jpeg" width="510" height="510" border="0">
+			  </div>
+			</td>
+
+			<td>
+			<div class="clmn">
+			<div class="bodytext">
+						<strong><p id="Home">Wellcome to Cloud Platform!</p></strong><br>
+						Bioinformatics Centre at the Savitribai Phule Pune University (SPPU, formerly University of Pune) was established in 1987 as a Distributed Information Centre (DIC) under the Biotechnology Information System Network (BTISNET) established by the Department of Biotechnology (DBT), Govt. of India. Ever since its inception, the Centre has made perceptible impact towards the growth of the discipline of Bioinformatics at the national and international levels. As a culmination of this, the Centre is conferred with the status of the Centre of Excellence (CoE) in Bioinformatics by the DBT (2002 - till date).  It also has a distinction of being recognised as the Centre of Excellence (CoE) in Bioinformatics by the Department of Electronics &amp; Information Technology (DeitY), Govt. of India during 2008-2013. The centre is equipped with the-state-of-the-art infrastructure and a specialised library. The faculty &amp; the students at the Centre are engaged in carrying out cutting-edge research in various areas of Bioinformatics with a special focus on ViroInformatics and Structural Bioinformatics. The mission of the Bioinformatics Centre at SPPU has been and continues to be a nationally acclaimed and internationally recognised premier institution of higher education and research in Bioinformatics and Computational Biology.<br>The Centre is known for its contributions in R&amp;D and has developed several algorithms, servers and databases which are extensively used by the scientific community.  Some of these indigenous algorithms and databases are the firsts in respective categories and have made a significant impact nationally and internationally. The centre has an impressive record of publications, citations and usage statistics for its servers and databases.<br>The Centre is happy to announce launch of the cloud platform to host the databases and servers and profusely acknowledges Centre for Information &amp; Network Security (CINS), Savitribai Phule Pune University for coming forward to develop cloud and related facilities dedicated to Bioinformatics. With Bioinformatics Centre, CINS@SPPU is also successfully launching cloud environment for the first time on SPPU campus!
+						</div>
+						</div>
+
+
+
+			</td>
+		</tr>
+	</tbody></table>
+</div><br>
+
+<!-- Landing Page Image and text ENDs here -->
+
+<!-- Resources Box  -->
+<div align="center">
+<table border="0" width="95%" cellspacing="4" cellpadding="8">
+<tbody><tr>
+<td>
+<div class="bodytext"><font color="#1F618D" size="5">&nbsp;<p id="Resources">Resources</p></font></div>
+
+<div class="row">
+
+ <div class="column1">
+    <div class="bodytext">
+	<table border="0" width="100%" bgcolor="#85929E">
+	<tbody><tr>
+		<td align="center"><h2><font color="white" size="5.5">Databases</font></h2></td>
+	</tr>
+	</tbody></table>
+</div>
+
+    <p align="justify">
+						</p><div class="bodytext">
+						<a href="#AllerBase" style="text-decoration: none"><font color="#6495ED"><strong>AllerBase</strong></font></a><br>An Allergen Knowledgebase<br><hr class="line">
+						<a href="#AgAbDB" style="text-decoration: none"><font color="#6495ED"><strong>AgAbDb</strong></font></a><br>Antigen Antibody Interaction Database<br><hr class="line">
+						</div>
+	<p></p>
+  </div>
+  <div class="column2">
+  <div class="bodytext">
+   <table border="0" width="100%" bgcolor="#85929E">
+	<tbody><tr>
+		<td align="center"><h2><font color="white" size="5.5">Data Extraction</font></h2></td>
+	</tr>
+	</tbody></table>
+	</div>
+    <p align="justify">
+						</p><div class="bodytext">
+						<a href="#BDE" style="text-decoration: none"><font color="#6495ED"><strong>BDE</strong></font></a><br>BioDB Extractor<br><hr class="line">
+						<a href="#ImI" style="text-decoration: none"><font color="#6495ED"><strong>ICDEE</strong></font></a><br>Integrated Customized Data Extraction of Enzyme/s<br><hr class="line">
+						<a href="#ImI" style="text-decoration: none"><font color="#6495ED"><strong>PFV3D</strong></font></a><br>Protein Feature Visualisation on 3D structure <br><hr class="line">
+						</div><p></p>
+  </div>
+	<div class="column3">
+							<div class="bodytext">
+							<table border="0" width="100%" bgcolor="#85929E">
+							<tbody><tr>
+								<td align="center"><h2><font color="white" size="5.5">Web Servers</font></h2></td>
+							</tr>
+							</tbody></table>
+							</div>
+							<p align="justify">
+							</p><div class="bodytext">
+												<strong><font color="black">Viral Bioinformatics</font></strong><br><font color="black">RTD based typing servers</font><br>
+												<ul>
+												  <li style="list-style-type:square"><a href="#Dengue" style="text-decoration: none"><font color="#6495ED">Dengue Subtyper</font></a></li>
+												  <li style="list-style-type:square"><a href="#HRV" style="text-decoration: none"><font color="#6495ED">HRV Typer</font></a></li>
+												  <li style="list-style-type:square"><a href="#Muv" style="text-decoration: none"><font color="#6495ED">MuV genotyping server</font></a></li>
+												  <li style="list-style-type:square"><a href="#RTD" style="text-decoration: none"><font color="#6495ED">RTD Phylogeny</font></a></li>
+												  <li style="list-style-type:square"><a href="#WNV" style="text-decoration: none"><font color="#6495ED">WNV Typer</font></a></li>
+												</ul><br><hr class="line">
+												<a href="#IRESPred" style="text-decoration: none"><font color="#6495ED" "=""><strong>IRESPred:</strong></font></a> Internal Ribosome Entry Site (IRES) prdiction server
+												<hr class="line">
+												<strong><a href="#ImI" style="text-decoration: none"><font color="black">Immunoinformatics</font></a></strong><br>
+												<ul>
+												  <li style="list-style-type:square"><a href="#CEP" style="text-decoration: none"><font color="#6495ED" "=""><strong>CEP:</strong></font></a> Conformational Epitope Prediction Server</li>
+												</ul>
+												<hr class="line">
+												<strong><a href="#SB" style="text-decoration: none"><font color="black">Structural Biology</font></a></strong><br>
+												<ul>
+												  <li style="list-style-type:square"><a href="#ProtFract" style="text-decoration: none"><font color="#6495ED" "=""><strong>ProtFract</strong></font></a></li><strong>
+												</strong></ul><strong>
+												<hr class="line">
+												</strong></div><p></p><strong>
+						</strong></div><strong>
+		</strong></div><strong>
+
+			</strong></td>
+		</tr>
+	</tbody></table>
+</div>
+<!-- Resources Box ENDs here -->
+
+
+<!-- Databases Section Start Here -->
+<div align="center">
+<table border="0" width="95%" cellspacing="4" cellpadding="8">
+<tbody><tr>
+<td>
+<div class="bodytext"><p id="AllerBase"><font color="#1F618D" size="5">&nbsp;Databases</font></p></div>
+
+<!-- AllerBase -->
+<div class="row">
+  <div class="column"><br>
+    				<div align="center"><a href="http://bioinfo.unipune.ac.in/AllerBase/Home.html" target="_blank"><img src="Centre_Page/Images/AllerBase.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+
+  </div>
+  <div class="column">
+  <div class="bodytext">
+    <h2>AllerBase</h2>
+	<div class="comment more">
+				AllerBase is a comprehensive knowledgebase of allergens and allergen related data. The database provides an in depth coverage of allergens and related data with cross-references to primary, immunological and allergen database<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>es. 
+				<strong><br>Publication:&nbsp;</strong>
+				<ul style="list-style-type:square">
+				<li>Kiran Kadam, Rajiv Karbhal, V. K. Jayaraman, Sangeeta Sawant, Urmila Kulkarni-Kale; AllerBase: a comprehensive allergen knowledgebase, Database, Volume 2017, 1 January 2017, bax066.</li></ul>
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/AllerBase/Home.html" target="_blank">http://bioinfo.unipune.ac.in/AllerBase/Home.html</a><br>
+</span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+  </div>
+  </div>
+</div><p id="AgAbDB"></p><hr class="line">
+<!-- AllerBase ENDs Here -->
+
+<!-- AgAbDb -->
+<div class="row">
+
+			  <div class="column">
+				<div align="center"><img src="Centre_Page/Images/Agabdb.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+				<div class="bodytext">
+			  <div class="column">
+				<h2>Antigen Antibody Interaction Database (AgAbDb)</h2>
+				<div class="comment more">
+				AgAbDb, a derived knowledge base archives molecular interactions of protein and peptide antigens characterized by co-crystal structures. The interactions are characterized using AAIF (Antigen-Antibody Interaction Finder) deve<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>eloped in-house.
+				<strong><br>Publication:&nbsp;</strong>
+				<ul style="list-style-type:square">
+				<li>Ghate AD, Bhagwat BU, Bhosle SG, Gadepalli SM, Kulkarni-Kale UD (2007). Characterization of antibody-binding sites on proteins: development of a knowledgebase and its applications in improving epitope prediction. Protein Pept. Lett;14(6):531-5.</li>
+				<li>Kulkarni-Kale U, Raskar-Renuse S, Natekar-Kalantre G &amp; Saxena SA. (2014).  Antigen-Antibody Interaction Database (AgAbDb): A compendium of antigen-antibody interactions in the book Immunoinformatics, Second Edition Eds: De RK &amp; Tomar N, published by Springer Printer &amp; Business Media. Methods in molecular biology (Clifton, N.J.) 01/2014; 1184:149-64.</li>
+				</ul>
+				<strong>Link:&nbsp;</strong><a href="http://196.1.114.46:8080/agabdb2/home.jsp" target="_blank">http://196.1.114.46:8080/agabdb2/home.jsp</a><br>
+			</span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+				</div>
+			  </div>
+
+			</div><p id="BDE"></p><hr class="line"><p></p>
+<!-- AgAbDb ENDs Here-->
+
+<!-- Databases Section ENDs Here -->
+
+
+<!-- Databases Extraction section Start Here -->
+<div align="center">
+<table border="0" width="95%" cellspacing="4" cellpadding="8">
+<tbody><tr>
+<td>
+<div class="bodytext"><font color="#1F618D" size="5">Data Extraction</font></div>
+
+<!-- BDE -->
+<div class="row">
+  <div class="column"><br>
+    				<div align="center"><a href="http://bioinfo.unipune.ac.in/BioDB/Home.html" target="_blank"><img src="Centre_Page/Images/BDE.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+
+  </div>
+  <div class="column">
+  <div class="bodytext">
+    <h2>BioDb Extractor</h2>
+	<div class="comment more">
+				BioDB Extractor (BDE) provides customized search and extraction utilities for widely used Bioinformatics databases such as ENA (EMBL-Bank), UniprotKB, PDB, and KEGG through web-based user interface. Current version supports 2<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>26 utilities are supported.  
+				<strong><br>Publication:&nbsp;</strong>
+				<ul style="list-style-type:square">
+				<li>Karbhal R, Sawant S, Kulkarni-Kale U. BioDB extractor: customized data extraction system for commonly used bioinformatics databases. BioData Min. 2015 Oct 28;8:31.</li></ul>
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/BioDB/Home.html" target="_blank">http://bioinfo.unipune.ac.in/BioDB/Home.html</a><br>
+</span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+  </div>
+  </div>
+</div><hr class="line">
+<!-- BDE ENDs Here -->
+
+<!-- Databases Extraction section ENDs Here -->
+
+
+
+
+
+
+
+
+
+<!-- Webserver Section Starts Here -->
+<br>
+<div class="bodytext"><font color="#1F618D" size="5">&nbsp;Web Servers</font></div>
+<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><img src="Centre_Page/Images/Aeromonas.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>Aeromons MLSTyper</h2>
+				<div class="comment more">
+				MLSTyper helps to identify the Aeromonas species by Multiple-locus Sequence Typing (MLST) method using novel alignment-free method based on Return Time Distribution (RTD) developed in-house. 
+				<strong><br>Publication:&nbsp;<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>p;</span></span></strong>Manuscript under preparation.
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/aeromonas/homepage.html<br>
+			&nbsp;&nbsp;<a href="" class="morelink">Read more</a></div>
+			  </div>
+			</div>
+			</div><p id="Dengue"></p><hr class="line"><p></p>
+
+
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/Dengue/home.html" target="_blank"><img src="Centre_Page/Images/Dengue.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>Dengue Subtyper</h2>
+				<div class="comment more">
+				Dengue Subtyper server assigns serotype/genotype to query sequence(s) using an alignment-free method based on Return Time Distribution (RTD), which is developed in-house. Typing of Dengue viruses is carried out using whole ge<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>enome sequencs.
+
+				<strong><br>Publication:&nbsp;</strong>
+				<ul style="list-style-type:square">
+				<li>Kolekar P, Kale M, Kulkarni-Kale U. Alignment-free distance measure based on return time distribution for sequence analysis: Applications to clustering, molecular phylogeny and subtyping. Mol Phylogenet Evol. 2012; 65(2):510-22.</li>
+				</ul>
+				
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/Dengue/home.html" target="_blank">http://bioinfo.unipune.ac.in/Dengue/home.html</a><br>
+			</span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			</div>
+			</div><p id="HRV"></p><hr class="line"><p></p>
+
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/RV-Typer/home.html" target="_blank"><img src="Centre_Page/Images/HRV.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column">
+			  <div class="bodytext">
+				<h2>HRV Typer</h2>
+				<div class="comment more">
+				This server assigns serotype to query sequence(s) of VP1 protein of Human rhinoviruses A, B &amp; C using RTD-based approach. Server accepts nucleotide or protein sequence of VP1 and computes return times of di-peptides (k = <span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span> 2) to assign serotypes. The RV-Typer performs with 100% sensitivity and specificity.
+				<strong><br>Publication:&nbsp;</strong><ul style="list-style-type:square"><li>Kolekar PS, Waman VP, Kale MM, Kulkarni-Kale U. RV-Typer: A Web Server forTyping of Rhinoviruses Using Alignment-Free Approach. PLoS One. 2016. 11(2):e0149350.</li></ul>		
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/RV-Typer/home.html" target="_blank">http://bioinfo.unipune.ac.in/RV-Typer/home.html</a><br>
+			 </span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			</div>
+			</div><p id="Muv"></p><hr class="line"><p></p>
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/Muv1.1/homepage.html" target="_blank"><img src="Centre_Page/Images/MUV.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column">
+			   <div class="bodytext">
+				<h2>MuV genotyping server </h2>
+				<div class="comment more">
+				Genotyping of Mumps is carried out using SH gene sequences. Mumps Virus (MuV) genotyping server assigns genotype to query sequence(s) of small hydrophobic (SH) gene. The server uses two conventional methods viz., BLAST, molec<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>cular phylogeny analysis (MPA) and a novel method based on Return Time Distribution (RTD), which is developed in-house. 
+				<strong><br>Publication:&nbsp;</strong><ul style="list-style-type:square"><li>Kolekar, P. S., Kale M. M. and Kulkarni-Kale, U. Genotyping of Mumps viruses based on SH gene: Development of a server using alignment-free and alignment-based methods. Immunome Research (2011).  7:3:4</li></ul>				
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/Muv1.1/homepage.html" target="_blank">http://bioinfo.unipune.ac.in/Muv1.1/homepage.html</a><br>
+			 </span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			</div>
+			</div><p id="RTD"></p><hr class="line"><p></p>
+
+			<br><div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/RTD/home.html" target="_blank"><img src="Centre_Page/Images/RTD.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column">
+				  <div class="bodytext">
+				<h2>RTD Phylogeny</h2>
+				<div class="comment more">
+				RTD Phylogeny server is an implementation of Return Time Distribution (RTD) based alignment-free approach developed in house for phylogeny of genomic sequences. While most of the alignment-free methods use frequencies of k-me<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>ers in genomic sequences, RTD-based method utilises relative occurrence or 'return times' of k-mers to summarise their compositions in the form of RTDs. 
+				<strong><br>Publication:&nbsp;</strong><ul style="list-style-type:square"><li>Kolekar P, Kale M, Kulkarni-Kale U. Alignment-free distance measure based on return time distribution for sequence analysis: Applications to clustering, molecular phylogeny and subtyping. Mol Phylogenet Evol. 2012; 65(2):510-22.</li><li>Kolekar, P. S., Kale M. M. and Kulkarni-Kale, U., Inter-Arrival Time Inspired Algorithm and its Application in Clustering and Molecular Phylogeny", AIP Conference Proceedings 2010. 1298(1):307-312. ISBN 978-0-7354-0854-8.</li></ul>		
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/RTD/home.html" target="_blank">http://bioinfo.unipune.ac.in/RTD/home.html</a><br>
+			 </span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			</div>
+			</div><p id="WNV"></p><hr class="line"><p></p>
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/WNV/homepage.html" target="_blank"><img src="Centre_Page/Images/WNV.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>WNV Typer</h2>
+				<div class="comment more">
+				WNV Typer has been developed to predict lineage/genotype of West Nile viruses using the complete coding sequences as an input. The server uses alignment-free approach based on RTD at back-end. 
+				<strong><br>Publication:&amp;nb<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>bsp;</span></span></strong><ul style="list-style-type:square"><li>Kolekar P, Hake N, Kale M, Kulkarni-Kale U. WNV Typer: a server for genotyping of West Nile viruses using an alignment-free method based on a return time distribution. J Virol Methods. 2014. 198:41-55.</li></ul>		
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/WNV/homepage.html" target="_blank">http://bioinfo.unipune.ac.in/WNV/homepage.html</a><br>
+			 &nbsp;&nbsp;<a href="" class="morelink">Read more</a></div>
+			  </div>
+			</div>
+			</div><p id="IRESPred"></p><hr class="line"><p></p>
+
+
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><a href="http://bioinfo.unipune.ac.in/IRESPred/home.html" target="_blank"><img src="Centre_Page/Images/IRESPred.png" width="300" height="275" border="0" alt="Column 1"></a></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>IRESPred</h2>
+				<div class="comment more">
+				IRESPred is a Support Vector Machine (SVM) based computational tool to predict the presence of Internal Ribosome Entry Site (IRES) in viral and cellular 5'UTR sequences.
+				<strong><br>Publication:&nbsp;</strong><ul style="l<span class=" moreelipses"="">...&nbsp;<span class="morecontent"><span>list-style-type:square"&gt;<li>Kolekar, P., et al. IRESPred: Web Server for Prediction of Cellular and Viral Internal Ribosome Entry Site (IRES). Sci Rep 2016;6:27436.</li></span></span></ul>		
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/IRESPred/home.html" target="_blank">http://bioinfo.unipune.ac.in/IRESPred/home.html</a><br>
+			 &nbsp;&nbsp;<a href="" class="morelink">Read more</a></div>
+			  </div>
+			</div>
+			</div><p id="CEP"></p><hr class="line"><p></p>
+
+
+
+
+
+
+
+
+
+		
+			<div class="row">
+
+			  <div class="column">	<br>
+
+				<div align="center"><img src="Centre_Page/Images/CEP.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>Conformational Epitope Prediction (CEP) Server</h2>
+				<div class="comment more">
+				CEP predicts both, linear and conformational epitopes of protein antigens using 3D structure as an input. It is the first algorithm that was developed to predict conformational epitopes using accessibility and distance-based <span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span> cut-off criteria.
+				<strong><br>Publication:&nbsp;</strong><ul style="list-style-type:square"><li>Kulkarni-Kale U, Bhosle S, Kolaskar AS. CEP: a conformational epitope prediction server. Nucleic Acids Res. 2005. 33(Web Server issue):W168-71.</li><li>Kolaskar AS, Kulkarni-Kale U. Prediction of three-dimensional structure and mapping of conformational epitopes of envelope glycoprotein of Japanese encephalitis virus. Virology. 1999. 261(1):31-42.</li></ul>		
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/wnv/homepage.html<br>
+			 </span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			  </div>
+			</div>
+			<p id="ProtFract"></p><hr class="line"><p></p>
+
+
+			<div class="row">
+
+			  <div class="column"><br>
+				<div align="center"><img src="Centre_Page/Images/fact.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+
+			  <div class="column"><div class="bodytext">
+				<h2>ProtFract</h2>
+				<div class="comment more">
+				ProtFract analyses interior  and exterior of proteins using fractals. It offers two classes of broad services: services meant for calculating many protein interior fractal-properties and services meant for calculating protein<span class="moreelipses">...</span>&nbsp;<span class="morecontent"><span>n exterior fractal-properties using 3D coordinates as a starting point. ProtFract calculates the self-similarity in inhomogeneous  distributions of mass, hydrophobicity and polarizability with fractal dimension (FD). 
+				<strong><br>Publication:</strong><br><ul style="list-style-type:square"><li>Banerji A, Ghosh I. Fractal symmetry of protein interior: what have we learned? Cell Mol Life Sci. 2011 Aug;68(16):2711-37.</li></ul>		
+				<strong>Link:&nbsp;</strong><a href="http://196.1.114.49/fract/" target="_blank">http://196.1.114.49/fract/</a><br>
+			</span>&nbsp;&nbsp;<a href="" class="morelink">Read more</a></span></div>
+			  </div>
+			<div>
+			</div>
+
+
+
+</div></div></td>
+
+		</tr>
+	</tbody></table><hr class="line">
+</div>
+<br>
+<div class="bodytext"><font color="#1F618D" size="5">&nbsp;&nbsp;&nbsp;<p id="Contact">Contact Us</p></font></div>
+
+<div align="center">
+<table border="0" width="95%" cellspacing="4" cellpadding="8">
+<tbody><tr>
+<td>
+<div align="center">
+<table border="0" width="75%" bgcolor="#FFFFFF">
+	
+	<tbody><tr>
+		<td width="50%">
+		<div class="bodytext">
+		<strong>Postal Address:</strong><br> 
+		Bioinformatics Centre,<br>
+		Savitribai Phule Pune University (Formerly University of Pune),<br>
+		Pune 411 007,<br> 
+		Maharashtra, India.<br> 
+		Telephone +91 20 25692039,  25690195<br>
+		Fax	+91 20 25690087<br><br>
+		<strong>E-mail:</strong>&nbsp;bioinfosppu@gmail.com<br>
+		</div>
+		</td>
+		<td>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6106167783623!2d73.82883141481025!3d18.546490173221752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf66213fa3cf%3A0xe83383724a9a11a7!2sBioinformatics+Centre!5e0!3m2!1sen!2sin!4v1537770111864" width="400" height="400" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		</td>
+	</tr>
+	
+</tbody></table>
+</div>
+
+</td>
+
+		</tr>
+	</tbody></table>
+</div>
+
+	
+
+	<script>
+$(document).ready(function() {
+	var showChar = 230;
+	var ellipsestext = "...";
+	var moretext = "Read more";
+	var lesstext = "Hide";
+	$('.more').each(function() {
+		var content = $(this).html();
+
+		if(content.length > showChar) {
+
+			var c = content.substr(0, showChar);
+			var h = content.substr(showChar-1, content.length - showChar);
+
+			var html = c + '<span class="moreelipses">'+ellipsestext+'</span>&nbsp;<span class="morecontent"><span>' + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">'+moretext+'</a></span>';
+
+			$(this).html(html);
+		}
+
+	});
+
+	$(".morelink").click(function(){
+		if($(this).hasClass("less")) {
+			$(this).removeClass("less");
+			$(this).html(moretext);
+		} else {
+			$(this).addClass("less");
+			$(this).html(lesstext);
+		}
+		$(this).parent().prev().toggle();
+		$(this).prev().toggle();
+		return false;
+	});
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+<div class="main" id="Home">
+<div class="bodytext">
+			<div align="center"><font color="#336699" size="3">
+			<table border="0" width="100%">
+					<tr>
+						<td width="40%" align="center"><br>
+						<img src="Images/Home.jpeg" width="510" height="510" border="0"></td>
+						<td>
+						<p align="justify">
+						<div class="bodytext">
+						<strong>Wellcome to Cloud Platform! </strong></font><br>
+						Bioinformatics Centre at the Savitribai Phule Pune University (SPPU, formerly University of Pune) was established in 1987 as a Distributed Information Centre (DIC) under the Biotechnology Information System Network (BTISNET) established by the Department of Biotechnology (DBT), Govt. of India. Ever since its inception, the Centre has made perceptible impact towards the growth of the discipline of Bioinformatics at the national and international levels. As a culmination of this, the Centre is conferred with the status of the Centre of Excellence (CoE) in Bioinformatics by the DBT (2002 - till date).  It also has a distinction of being recognised as the Centre of Excellence (CoE) in Bioinformatics by the Department of Electronics & Information Technology (DeitY), Govt. of India during 2008-2013. The centre is equipped with the-state-of-the-art infrastructure and a specialised library. The faculty & the students at the Centre are engaged in carrying out cutting-edge research in various areas of Bioinformatics with a special focus on ViroInformatics and Structural Bioinformatics. The mission of the Bioinformatics Centre at SPPU has been and continues to be a nationally acclaimed and internationally recognised premier institution of higher education and research in Bioinformatics and Computational Biology.<br>The Centre is known for its contributions in R&D and has developed several algorithms, servers and databases which are extensively used by the scientific community.  Some of these indigenous algorithms and databases are the firsts in respective categories and have made a significant impact nationally and internationally. The centre has an impressive record of publications, citations and usage statistics for its servers and databases.<br>The Centre is happy to announce launch of the cloud platform to host the databases and servers and profusely acknowledges Centre for Information & Network Security (CINS), Savitribai Phule Pune University for coming forward to develop cloud and related facilities dedicated to Bioinformatics. With Bioinformatics Centre, CINS@SPPU is also successfully launching cloud environment for the first time on SPPU campus!
+						</div class="bodytext">
+						
+						
+					</tr>
+				</table>
+			</div>
+
+</div class="main">
+
+
+<div class="main" id="Services">
+<br><br><br>
+<div align="center">
+<font color="#1F618D" size="7"><strong><div class="glow">Resources</div></strong></font>
+				<table border="0" width="80%">
+					<tr>
+						<td>
+  <div class="row">
+  <div class="column1">
+    
+	<table border="0" width="100%" bgcolor="#85929E">
+	<tr>
+		<td align="center"><h2><font color="white" size="5.5">Databases</font></h2></td>
+	</tr>
+	</table>
+
+    <p align="justify">
+						<div class="bodytext">
+						<strong><a href="#DB" style="text-decoration: none"><font color="black">AllerBase</strong><br>An Allergen Knowledgebase</font></a><br><hr class="line">
+						<a href="#DB" style="text-decoration: none"><font color="black"><strong>AgAbDb</strong><br>Antigen Antibody Interaction Database</font></a><br><hr class="line">
+						</div>
+	</p>
+  </div>
+  <div class="column2">
+   <table border="0" width="100%" bgcolor="#85929E">
+	<tr>
+		<td align="center"><h2><font color="white" size="5.5">Data Extraction</font></h2></td>
+	</tr>
+	</table>
+    <p align="justify">
+						<div class="bodytext">
+						<a href="#WS" style="text-decoration: none"><font color="black"><strong>BDE</strong><br>BioDB Extractor</font></a><br><hr class="line">
+						<a href="#ImI" style="text-decoration: none"><font color="black"><strong>ICDEE</strong><br>Integrated Customized Data Extraction of Enzyme/s </font></a><br><hr class="line">
+						<a href="#ImI" style="text-decoration: none"><font color="black"><strong>SFVS</strong><br>Sequece Feature/s Visualization</font></a><br><hr class="line">
+						</div></p>
+  </div>
+  <div class="column3">
+    <table border="0" width="100%" bgcolor="#85929E">
+	<tr>
+		<td align="center"><h2><font color="white" size="5.5">Web Servers</font></h2></td>
+	</tr>
+	</table>
+    <p align="justify">
+						<div class="bodytext">
+						<strong><a href="#WS" style="text-decoration: none"><font color="black">Viral Bioinformatics</strong><br>RTD based typing servers</font></a><br><hr class="line">
+						<strong><a href="#ImI" style="text-decoration: none"><font color="black">Immunoinformatics</font></a></strong><br><hr class="line">
+						<strong><a href="#SB" style="text-decoration: none"><font color="black">Structural Biology</font></a></strong><br><hr class="line">
+						</div></p>
+</div>
+</div>
+
+</tr>
+</td>
+</table>
+</div>
+
+
+<div class="main" id="WS">
+<div align="center">
+<table border="0" width="85%" bgcolor="#FFFFFF">	
+<tr>
+<td>
+
+		<div class="main" id="DB">
+		<font color="#04B9CC" size="5.5">Databases at Bioinformatics Centre, SPPU</font></div>
+
+		<div class="bodytext">
+			
+			<div class="row">
+
+			  <div class="column">
+				<div align="center"><img src="Images/AllerBase.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+
+			  <div class="column">
+				<h2>AllerBase</h2>
+				AllerBase is a comprehensive knowledgebase of allergens and allergen related data. The database provides an in depth coverage of allergens and related data with cross-references to primary, immunological and allergen databases. 
+				<strong><br>Publication:&nbsp;</strong>Kiran Kadam, Rajiv Karbhal, V. K. Jayaraman, Sangeeta Sawant, Urmila Kulkarni-Kale; AllerBase: a comprehensive allergen knowledgebase, Database, Volume 2017, 1 January 2017, bax066.
+				<strong>Link:&nbsp;</strong><a href="http://bioinfo.unipune.ac.in/AllerBase/Home.html" target="_blank">http://bioinfo.unipune.ac.in/AllerBase/Home.html</a>
+			  </div>
+
+			</div>
+
+<hr class="line">
+			<div class="row">
+
+			  <div class="column">
+				<div align="center"><img src="Images/Agabdb.png" width="300" height="275" border="0" alt="Column 1"></div>
+			  </div>
+
+			  <div class="column">
+				<h2>Antigen Antibody Interaction Database (AgAbDb)</h2>
+				AgAbDb, a derived knowledge base archives molecular interactions of protein and peptide antigens characterized by co-crystal structures. The interactions are characterized using AAIF (Antigen-Antibody Interaction Finder) developed in-house.
+				<strong><br>Publication:&nbsp;</strong>Ghate AD, Bhagwat BU, Bhosle SG, Gadepalli SM, Kulkarni-Kale UD (2007). Characterization of antibody-binding sites on proteins: development of a knowledgebase and its applications in improving epitope prediction. Protein Pept. Lett;14(6):531-5. <br>Kulkarni-Kale U, Raskar-Renuse S, Natekar-Kalantre G & Saxena SA. (2014).  Antigen-Antibody Interaction Database (AgAbDb): A compendium of antigen-antibody interactions in the book Immunoinformatics, Second Edition Eds: De RK & Tomar N, published by Springer Printer & Business Media. Methods in molecular biology (Clifton, N.J.) 01/2014; 1184:149-64.
+				<strong>Link:&nbsp;</strong>http://196.1.114.46:8080/agabdb2/home.jsp 
+			  </div>
+
+			</div><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+		<font color="#04B9CC" size="5.5">Web servers at Bioinformatics Centre, SPPU</font></div>
+		<div class="bodytext">
+		<h2>RTD based typing servers</h2>
+
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/Aeromonas.png" width="400" height="250" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>Aeromons MLSTyper</h2>
+				MLSTyper helps to identify the Aeromonas species by Multiple-locus Sequence Typing (MLST) method using novel alignment-free method based on Return Time Distribution (RTD) developed in-house. 
+				<strong><br>Publication:&nbsp;</strong>Manuscript under preparation.
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/aeromonas/homepage.html
+			  </div>
+
+			</div>
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/Dengue.png" width="400" height="250" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>Dengue Subtyper</h2>
+				Dengue Subtyper server assigns serotype/genotype to query sequence(s) using an alignment-free method based on Return Time Distribution (RTD), which is developed in-house. Typing of Dengue viruses is carried out using whole genome sequencs.
+
+				<strong><br>Publication:&nbsp;</strong>Kolekar P, Kale M, Kulkarni-Kale U. Alignment-free distance measure based on return time distribution for sequence analysis: Applications to clustering, molecular phylogeny and subtyping. Mol Phylogenet Evol. 2012; 65(2):510-22.<br>
+
+				
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in//dengue/homepage.html 
+			  </div>
+
+			</div>
+
+
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/HRV.png" width="400" height="250" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>HRV Typer</h2>
+				This server assigns serotype to query sequence(s) of VP1 protein of Human rhinoviruses A, B & C using RTD-based approach. Server accepts nucleotide or protein sequence of VP1 and computes return times of di-peptides (k = 2) to assign serotypes. The RV-Typer performs with 100% sensitivity and specificity.
+
+				<strong><br>Publication:&nbsp;</strong>Kolekar PS, Waman VP, Kale MM, Kulkarni-Kale U. RV-Typer: A Web Server forTyping of Rhinoviruses Using Alignment-Free Approach. PLoS One. 2016. 11(2):e0149350.<br>
+
+				
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/hrv/homepage.html
+			  </div>
+
+			</div>
+
+
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/MUV.png" width="400" height="250" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>MuV genotyping server </h2>
+				Genotyping of Mumps is carried out using SH gene sequences. Mumps Virus (MuV) genotyping server assigns genotype to query sequence(s) of small hydrophobic (SH) gene. The server uses two conventional methods viz., BLAST, molecular phylogeny analysis (MPA) and a novel method based on Return Time Distribution (RTD), which is developed in-house. 
+				<strong><br>Publication:&nbsp;</strong>Kolekar, P. S., Kale M. M. and Kulkarni-Kale, U. Genotyping of Mumps viruses based on SH gene: Development of a server using alignment-free and alignment-based methods. Immunome Research (2011).  7:3:4<br>
+
+				
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/muv/homepage.html
+			  </div>
+
+			</div>
+
+
+
+			<br><div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/RTD.png" width="400" height="300" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>RTD Phylogeny</h2>
+				RTD Phylogeny server is an implementation of Return Time Distribution (RTD) based alignment-free approach developed in house for phylogeny of genomic sequences. While most of the alignment-free methods use frequencies of k-mers in genomic sequences, RTD-based method utilises relative occurrence or 'return times' of k-mers to summarise their compositions in the form of RTDs. 
+				<strong><br>Publication:&nbsp;</strong>Kolekar P, Kale M, Kulkarni-Kale U. Alignment-free distance measure based on return time distribution for sequence analysis: Applications to clustering, molecular phylogeny and subtyping. Mol Phylogenet Evol. 2012; 65(2):510-22.<br>Kolekar, P. S., Kale M. M. and Kulkarni-Kale, U., Inter-Arrival Time Inspired Algorithm and its Application in Clustering and Molecular Phylogeny", AIP Conference Proceedings 2010. 1298(1):307-312. ISBN 978-0-7354-0854-8.<br>		
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/muv/homepage.html
+			  </div>
+
+			</div><br><br><br><br>
+
+			<br><div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/WNV.png" width="400" height="250" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>WNV Typer</h2>
+				WNV Typer has been developed to predict lineage/genotype of West Nile viruses using the complete coding sequences as an input. The server uses alignment-free approach based on RTD at back-end. 
+				<strong><br>Publication:&nbsp;</strong>Kolekar P, Hake N, Kale M, Kulkarni-Kale U. WNV Typer: a server for genotyping of West Nile viruses using an alignment-free method based on a return time distribution. J Virol Methods. 2014. 198:41-55.<br>		
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/wnv/homepage.html
+			  </div>
+
+			</div>
+
+			<div class="main" id="ImI">
+			<h2>Immunoinformatics</h2>
+			</div>
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/CEP.png" width="400" height="300" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>Conformational Epitope Prediction (CEP) Server</h2>
+				CEP predicts both, linear and conformational epitopes of protein antigens using 3D structure as an input. It is the first algorithm that was developed to predict conformational epitopes using accessibility and distance-based cut-off criteria.
+				<strong><br>Publication:&nbsp;</strong>Kulkarni-Kale U, Bhosle S, Kolaskar AS. CEP: a conformational epitope prediction server. Nucleic Acids Res. 2005. 33(Web Server issue):W168-71.<br>Kolaskar AS, Kulkarni-Kale U. Prediction of three-dimensional structure and mapping of conformational epitopes of envelope glycoprotein of Japanese encephalitis virus. Virology. 1999. 261(1):31-42.<br>		
+				<strong>Link:&nbsp;</strong>http://bioinfo.net.in/wnv/homepage.html
+			  </div>
+
+			</div>
+
+
+
+			<div class="main" id="SB">
+			<h2>Structural Biology</h2>
+			</div>
+			<div class="row">
+
+			  <div class="column">
+				<h2><img src="Images/fact.png" width="400" height="300" border="0" alt="Column 1"></h2>
+			  </div>
+
+			  <div class="column">
+				<h2>ProtFract</h2>
+				ProtFract analyses interior  and exterior of proteins using fractals. It offers two classes of broad services: services meant for calculating many protein interior fractal-properties and services meant for calculating protein exterior fractal-properties using 3D coordinates as a starting point. ProtFract calculates the self-similarity in inhomogeneous  distributions of mass, hydrophobicity and polarizability with fractal dimension (FD). 
+				<strong><br>Publication:&nbsp;</strong>Banerji A, Ghosh I. Fractal symmetry of protein interior: what have we learned? Cell Mol Life Sci. 2011 Aug;68(16):2711-37.<br>		
+				<strong>Link:&nbsp;</strong>http://196.1.114.49/fract/ 
+			  </div>
+
+			</div>
+
+
+</td>
+</tr>
+	
+</table>
+</div align="center">
+</div>
+
+</div>
+
+
+
+
+<div class="main" id="Contact">
+<br><br><br>
+
+<div align="center">
+	<font color="#1F618D" size="7"><strong><div class="glow">Contact Us</div></strong></font>
+	</div>
+</div>
+<br><br>
+<div align="center">
+<table border="0" width="75%" bgcolor="#FFFFFF">
+	
+	<tr>
+		<td width="50%">
+		<div class="bodytext">
+		<strong>Postal Address:</strong><br> 
+		Bioinformatics Centre,<br>
+		Savitribai Phule Pune University (Formerly University of Pune),<br>
+		Pune 411 007,<br> 
+		Maharashtra, India.<br> 
+		Telephone +91 20 25692039,  25690195<br>
+		Fax	+91 20 25690087<br><br>
+		<strong>E-mail:</strong>&nbsp;icdee@gmail.com<br>
+		</div>
+		</td>
+		<td>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.6106167783623!2d73.82883141481025!3d18.546490173221752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf66213fa3cf%3A0xe83383724a9a11a7!2sBioinformatics+Centre!5e0!3m2!1sen!2sin!4v1537770111864" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</td>
+	</tr>
+	
+</table>
+</div align="center">
+</div>
+<br><br><br>
+
+
+	</body>
+<html>--></td></tr></tbody></table></div></body></html>

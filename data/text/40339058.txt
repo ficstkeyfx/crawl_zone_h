@@ -1,0 +1,8 @@
+Data Control g0t r00t ?
+Data Control got root
+?
+uname -a;id
+HP-UX sch2 B.10.20 B 9000/871
+uid=0(root) gid=0(root) egid=3(sys)
+Contact us: dacontrol@hushmail.com
+Visit us: #datacontrol on Brasnet.org and Rizenet.

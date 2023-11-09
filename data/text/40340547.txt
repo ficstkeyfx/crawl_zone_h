@@ -1,0 +1,9 @@
+404
+NOT FOUND
+1
+2
+3
+8.0.20
+50.85ms
+6MB
+GET posts/{id}/{slug?}

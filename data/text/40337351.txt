@@ -1,0 +1,15 @@
+woot-project root ya! - 742617000027 -
+woot-project
+id;uname -a;uptime;cat
+/etc/issue
+Linux penguin 2.0.36 #5 Wed Aug 18 03:48:57 JST 1999 i686 unknown
+uid=0(root) gid=0(root)
+uptime
+11:31pm up 69 days, 9:22, 1 user, load average: 0.00, 0.00, 0.00
+cat /etc/issue
+Red Hat Linux release 4.2 (Biltmore)
+Kernel 2.0.36 on an i686
+..::
+defaced by SynchrOnize
+of woot-project ::..
+sup; Data Cha0s - MNS - Silver Lords - DarkCode -Trippin Smurfs - WoH - Anarchy Control - 0xff - Agressive Boys - dr34d - delta - jenkins - [sYn] - PlAgUe - controlphreak - Streak - F1r3h3ll - N3xus - kraft - Xfaulz - macwiz - no|d - dawgyg - Tw34k - FonE_TonE - sENsE - linux^sex - ezs - nulL - |N4j4| - Fluffy Bunny - MessiahX - robhouse - Tzunami - preamble - blachz - Sneed - octane - k0kane - hardw1r3 - SLayER03 - eth1cal - d1ckw33d - r00t - decypher - psycho-penguin - m4st3r_syst3m - syr0kill - th0r - LynxGRep - [RaFa] - D-force - J0shua - AnaRChiSTe - serialroot - Vo0b - philer - ^grun^aw Dns- - id3nt - Surfer - bigua - traira - crazy_dog - nessus - invisibl3 - xg1rl - Dark_^A^ngel - L1nd1nh4

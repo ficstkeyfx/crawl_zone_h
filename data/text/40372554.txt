@@ -1,0 +1,262 @@
+RESEARCHER SIGN UP LOGIN
+OUTHACK THEM ALL™
+Who We Are
+Products
+Resources
+Customers CrowdStream Programs
+About
+Learn More
+Takeaway.com
+Lead, Deliver, Care - Takeaway.com
+$100 – $2,500 per vulnerability Up to $5,000 maximum reward Safe harbor
+Submit report
+Program details
+Announcements 16
+CrowdStream
+Hall of Fame
+Program stats
+Vulnerabilities rewarded
+271
+Validation within
+4 days
+75% of submissions are accepted or rejected within 4 days
+Average payout
+$230.55
+within the last 3 months
+Latest hall of famers
+View all 466
+Recently joined this program
+1928 total
+Takeaway.com welcomes security researchers to review our public-facing defenses with an objective, professional eye. Earn rewards, bragging rights, and security experience to level up!
+We do not want to hide our mistakes, but please allow us to take appropriate measures before disclosing any vulnerabilities to the outside world.
+Ratings/Rewards:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd
+Vulnerability Rating Taxonomy. However, it is important to note that in some cases a
+vulnerability priority will be modified by us due to its likelihood or impact. The main
+criteria here are certain risks with regard to Takeaway.com's platform and business. In
+some cases, we also consider the amount of effort required to identify a vulnerability
+(i.e., we typically do not appreciate submissions based solely on the results of
+automated scans, unless it reveals something really interesting). In instances where an
+issue is downgraded, a full, detailed explanation will be provided to the researcher,
+along with the opportunity to appeal and make a case for a higher priority. Rewards for
+this program are currently split into 2 groups in terms of scope, to help the
+researchers focus more on the important parts for our business flow. You can find the
+respective ranges for each group below.
+Scope and rewards
+Takeaway Group 1 Targets (In Scope)
+In scope
+Important notes for targets:
+All main domains (takeaway.com, lieferando.de, thuisbezorgd.nl etc.; you can check if it redirects to a page with same functionality) have the same codebase behind them and thus, identical vulnerabilities on different main domains and on their subdomains will be treated as duplicates.
+If a subdomain or a path of a wildcard (*) URL in Group 1 is also defined under Group 2, that subdomain (or path) should be considered Group 2.
+Payment reward chart
+$5000
+P1
+$2000 – $2500
+P2
+$1200
+P3
+$500
+P4
+$100
+*.takeaway.com
+Cloudflare CDN
+Bootstrap
+Website Testing
++1
+*.thuisbezorgd.nl
+Website Testing
+PHP
+*.lieferando.de
+Moment.js
+jQuery
+Website Testing
++1
+*.lieferando.at
+*.yourdelivery.de
+Website Testing
+*.scoober.com
+Cloudflare CDN
+Wordpress
+Website Testing
++1
+*.citymeal.com
+Cloudflare CDN
+Wordpress
+Website Testing
++1
+*.just-eat.fr
+*.eat.ch
+*.just-eat.no
+*.just-eat.dk
+https://takeawaypayapi-ase.tenbis-ase.p.azurewebsites.net/api
+API Testing
+https://takeawaypay-internal-api-ase.tenbis-ase.p.azurewebsites.net/
+API Testing
+restaurant-api.takeaway.com
+API Testing
+HTTP
+https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
+Objective-C
+SwiftUI
+Swift
++2
+https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+Java
+Android
+Mobile Application Testing
++1
+*.pyszne.pl
+Moment.js
+jQuery
+Website Testing
++1
+*.bistro.sk
+https://takeawaypay.azurefd.net/en/takeawaypay/
+Website Testing
+Takeaway Group 2 Targets (In Scope)
+In scope
+Important notes for targets:
+All main domains (takeaway.com, lieferando.de, thuisbezorgd.nl etc.; you can check if it redirects to a page with same functionality) have the same codebase behind them and thus, identical vulnerabilities on different main domains and on their subdomains will be treated as duplicates.
+If a subdomain or a path of a wildcard (*) URL in Group 1 is also defined under Group 2, that subdomain (or path) should be considered Group 2.
+Payment reward chart
+$2500
+P1
+$500 – $1000
+P2
+$250 – $300
+P3
+$150
+careers.takeaway.com
+www.takeaway.com/foodwiki/
+https://www.lieferando.de/thetakeaway/
+www.takeaway.com/drivers
+www.takeaway.com/deals
+www.thuisbezorgd.nl/aanmelden
+shop.thuisbezorgd.nl
+tv.takeaway.com
+newsletter.thuisbezorgd.nl
+static.thuisbezorgd.nl
+dev.takeaway.com/html/
+brand.takeaway.com
+intranet.takeaway.com
+www.status-takeaway.com/status
+cloud.update.takeaway.com
+*.10bis.co.il
+atarkasher.co.il
+*.justeattakeaway.com
+https://www.justeat.it/rider
+https://*.takeawayriders.com/
+https://status-takeaway.com/status.
+Takeaway Out of Scope Targets
+Out of scope
+Any domain/property of Takeaway not listed in the targets section is out of scope. This includes any/all subdomains not listed above.
+https://www.lieferando.at/en/vouchercode/new-customer
+Website Testing
+https://www.lieferando.at/gutschein/neukunde
+Website Testing
+www.integration-takeaway.com
+Testing is only authorized on the targets listed as In-Scope. Any domain/property of Takeaway not listed in the targets section is out of scope. This includes any/all subdomains not listed above. If you believe you've identified a vulnerability on a system outside the scope, please reach out to support@bugcrowd.com before submitting.
+There are 3 test restaurants dedicated to security assessments, which can be used to test ordering:
+BugCrowd NL in the zip area 8888
+BugCrowd DE in the zip area 88888 (if its not working add ?showTestRestaurants=true at the end of the URL)
+BugCrowd PL in the zip area 88-888
+Please place test orders exclusively using these properly labelled test restaurants. Kindly note that the principal domains have the same codebase behind them and thus, identical vulnerabilities on different main domains and on their subdomains will be treated as duplicates.
+For certain API endpoints you can access the test restaurans by adding the following POST parameter to your request: var10=1
+Blackbox Targets
+The below targets are part of business2business portal which allows companies to manage monthly and daily allowances paid by the company for their employees when those order food on our platform. Testing them is considered in scope but credentials will not be provided for these targets specifically.
+https://takeawaypay.azurefd.net/en/takeawaypay/
+https://takeawaypayapi-ase.tenbis-ase.p.azurewebsites.net/api
+https://takeawaypay-internal-api-ase.tenbis-ase.p.azurewebsites.net
+Credentials
+To gain access to the application, please sign up for an account using your @bugcrowdninja.com email address. For more info regarding @bugcrowdninja email addresses, see here.
+Focus Areas
+We encourage researchers to focus their efforts in the following areas:
+Business Logic Flaws
+Exfiltration of Sensitive or Personal Data
+Remote Code Execution
+SQL and Command Injection
+Authentication Bypass
+Cross-Site Request Forgery (CSRF) in sensitive functions
+Out of scope
+Multiple recurrences of the same vulnerability on different domains will be treated as the same issue.
+We are already aware of issues related to rate limiting in the authentication subsystem
+Google Maps API keys
+Session valid after logout and password change/reset
+Cookie expiration
+Software version disclosure
+Same site scripting
+Social engineering and phishing
+Multiple recurrences of the same vulnerability on different domains
+Cross-site request forgery (CSRF) in non-sensitive functions
+Missing/misconfigured SPF/DMARC DNS-records
+Denial of service or resource exhaustion attacks (but such vulnerabilities in proprietary applications should be reported)
+Weak or misconfigured SSL/TLS parameters
+Content spoofing
+Issues related to rate limiting in the authentication subsystem
+Issues related to cross-domain policies for software such as Wordpress, Silverlight, etc. without evidence of an exploitable vulnerability
+Vulnerabilities that are limited to unsupported browsers will not be accepted (i.e. "this exploit only works in IE6/IE7")
+Username / email enumeration, password guessing and exposed API interfaces (like xmlrpc.php) in standard software (i.e. Wordpress)
+Vulnerabilities that require a large amount of user cooperation to perform, unlikely or unreasonable actions which would be more symptomatic of a social engineering or phishing attack and not an application vulnerability (e.g. disabling browser security features, sending the attacker critical information to complete the attack, etc.)
+Eligibility:
+Takeaway.com employees (including former employees that separated from Takeaway.com within the prior 12 months), contingent workers, contractors and their personnel, and consultants, as well as their immediate family members and persons living in the same household are not eligible to receive bounties or rewards of any kind under this program.
+Safe Harbor:
+When conducting vulnerability research according to this policy, we consider this research to be:
+Authorized in accordance with the Computer Fraud and Abuse Act (CFAA) (and/or similar state laws), and we will not initiate or support legal action against you for accidental, good faith violations of this policy;
+Exempt from the Digital Millennium Copyright Act (DMCA), and we will not bring a claim against you for circumvention of technology controls;
+Exempt from restrictions in our Terms & Conditions that would interfere with conducting security research, and we waive those restrictions on a limited basis for work done under this policy; and
+Lawful, helpful to the overall security of the Internet, and conducted in good faith.
+You are expected, as always, to comply with all applicable laws.
+If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please inquire via support@bugcrowd.com before going any further.
+Program rules
+This program follows Bugcrowd’s standard disclosure terms.
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+This program does not offer financial or point-based rewards for P5 — Informational findings. Learn more about Bugcrowd’s VRT.
+Home
+PRODUCTS
+Penetration Testing
+Bug Bounty
+Vulnerability Disclosure
+Attack Surface Management
+SOLUTIONS
+Financial Services
+Healthcare
+Retail
+Automotive
+Technology
+Government
+Security
+RESEARCHERS
+Programs
+Crowdstream
+Bug Bounty List
+Start Hacking
+Researcher FAQ
+Researcher Docs
+Bugcrowd University
+Community
+Leaderboard
+RESOURCES
+Resource Library
+Case Studies
+Blog
+Webinars
+Resource FAQ
+ABOUT
+About Us
+Leadership
+Our Customers
+Careers
+Partners
+Contact Us
+Why Crowdsourcing is better
+The Bugcrowd Difference
+Copyright © 2022 Bugcrowd
+Security
+Terms & Conditions
+Privacy Policy
+Do Not Sell or Share My Information
+General Data Protection Act
+LinkedIn
+Twitter
+Facebook
+YouTube

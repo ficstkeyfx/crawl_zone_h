@@ -1,0 +1,31 @@
+<html lang="pt-BR" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head>
+	<meta charset="UTF-8">
+	<title>WP Locaweb</title>
+	<meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/dominio.css">
+	<!--[if lt IE 9]>
+		<script src="js/vendors/html5shiv.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<main id="dominio">
+		<header class="align-center">
+			<h1 class="logo">Locaweb</h1>
+		</header>
+		<section class="info-domain valign-center" style="margin-top: 54px;">
+			<div class="inner">
+			<h1 class="constru">Manutenção Site Wordpress</h1>
+				<p class="description-domain">PÁGINA EM MANUTENÇÃO</p>
+				<h5>Logo estaremos de volta!</h5>
+			</div>
+		</section>
+	</main>
+
+	<script type="text/javascript" src="js/vendors/vendor.min.js"></script>
+	<script src="js/vendors/modernizr.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+
+</body></html>

@@ -1,0 +1,15 @@
+alnjm33 here
+by
+* Alnjm33
+*
+you will found me in
+' sec-war
+'
+<?php
+echo
+"áÇ Çáå ÇáÇ
+Çááå";
+echo
+"I'am
+mouslimhacker";
+?>

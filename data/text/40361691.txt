@@ -1,0 +1,1 @@
+Fatal error: Cannot redeclare curl_get_contents() (previously declared in /home/pykmy123/public_html/ayvma.txt:1) in /home/pykmy123/public_html/vjlsj.txt on line 1

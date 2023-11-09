@@ -1,0 +1,26 @@
+Burvik
+S?k:
+Bo och golfa p?
+Burvik
+Startsida
+Nyheter
+Nyhetsbidrag
+Meny
+StartsidaBO I BURVIKKLUBBEN
+STUGOR
+TRANSLATE[[Welcome to phpWebSite]]
+TRANSLATE[[Developed by the Web Technology Group at Appalachian State University, phpWebSite provides a complete web site content management solution]].
+TRANSLATE[[All client output is valid XHTML 1.0 and meets the W3C Web Accessibility Initiative requirements]].
+TRANSLATE[[You can administrate this site by going the ]] TRANSLATE[[Administrative Menu]]
+TRANSLATE[[and logging on using the following username and password:]]
+Anv?ndarnamn:
+admin
+L?senord:
+phpwebsite
+TRANSLATE[[Once you are logged in you can change this content to fit your needs]]
+TRANSLATE[[Remember to please change the administrative password to protect your site]].
+TRANSLATE[[Thank you!]]
+- TRANSLATE[[The phpWebSite Development Team]]
+Copyright ? Appalachian State University 2001-2002
+This Site is powered by phpWebSite © The Web Technology Group, Appalachian State University
+phpWebSite is licensed under the GNU GPL

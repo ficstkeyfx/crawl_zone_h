@@ -1,0 +1,24 @@
+Connected to 203.250.57.45.
+Escape character is '^]'.
+Red Hat Linux release 6.2 (Zoot)
+Kernel 2.2.14-5.0 on an i686
+login: a
+Password:
+[a@ankmi /.,]$ su b
+Password:
+[root@ankmi /.,]# passwd root
+Changing password for user root
+New UNIX password:
+BAD PASSWORD: it is too short
+Retype new UNIX password:
+passwd: all authentication tokens updated successfully
+[root@ankmi /.,]# passwd dhlee
+Changing password for user dhlee
+New UNIX password:
+BAD PASSWORD: it is too short
+Retype new UNIX password:
+passwd: all authentication tokens updated successfully
+[root@ankmi /.,]# echo "hrmm..rooted?" | wall
+[root@ankmi /.,]#
+Broadcast message from root Wed Dec 19 09:24:12 2001...
+hrmm..rooted?

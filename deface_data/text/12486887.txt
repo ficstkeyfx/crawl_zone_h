@@ -1,0 +1,3 @@
+Not Found
+The requested URL /public/js/kindeditor/attached/file/20221019/20221019161130_56208.htm was not found on this server.
+Apache/2.2.8 (Win32) PHP/5.2.6 Server at www.mtcbus.com.tw Port 80

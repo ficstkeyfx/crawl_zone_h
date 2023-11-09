@@ -1,0 +1,88 @@
+Welcome to the Frontpage
+Yesterday all servers in the U.S. went out on strike in a bid to get more RAM and better CPUs. A spokes person said that the need for better RAM was due to some fool increasing the front-side bus speed. In future, buses will be told to slow down in residential motherboards.
+About Joomla!FeaturesNewsThe Community
+Home
+Main Menu
+HomeJoomla! OverviewJoomla! LicenseMore about Joomla!FAQThe NewsWeb LinksNews Feeds
+Resources
+Joomla! HomeJoomla! ForumsJoomla! HelpOSM HomeAdministrator
+Key Concepts
+ExtensionsContent LayoutsExample Pages
+Login Form
+Username
+Password
+Remember Me
+Forgot your password?
+Forgot your username?
+Create an account
+Latest News
+Content Layouts
+The Joomla! Community
+Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !
+Newsflash 4
+Newsflash 5
+Popular
+Joomla! Overview
+Joomla! License Guidelines
+What are the requirements to run Joomla! 1.5?
+Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | Dard1 | v|agra | SpikeOnn3 !
+Extensions
+Welcome to the Frontpage
+Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !
+Written by besarttt
+Thursday, 12 October 2006 10:00
+Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Â Â Â Â Â Â Â Â Â  KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1 KNS-CREW #1Â  Â Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 !Hacked by : L0ckreader'z | CrAcKeR BeSi | STreammz | v|agra | Dard1 | SpikeOnn3 ! Â Â Â
+Last Updated ( Monday, 11 May 2009 05:45 )
+We are Volunteers
+Written by besarttt
+Wednesday, 07 July 2004 09:54
+The Joomla! Core Team consists of volunteer developers, designers, administrators and managers who, together with a large range of Work Groups of dedicated community members have taken Joomla! to new heights in its relatively short life. This well-oiled machine is often copied but never surpassed.
+Joomla! has some wonderfully talented people taking Open Source concepts to the forefront of industry standards.
+Joomla! 1.5 is a major leap forward and represents the most exciting Joomla! release in the history of the project.
+Last Updated ( Thursday, 08 November 2007 12:10 )
+Read more...
+What is the FTP layer for?
+Written by besarttt
+Friday, 06 October 2006 21:27
+The FTP Layer allows file operations (such as installing Extensions or updating the main configuration file) without having to make all the folders and files writable. This has been an issue on Linux and other Unix based platforms in respect of file permissions. This makes the site admin's life a lot easier and increases security of the site.You can check the write status of relevent folders by going to ''Help->System Info" and then in the sub-menu to "Directory Permissions". With the FTP Layer enabled even if all directories are red, Joomla! will operate smoothly.NOTE: the FTP layer is not required on a Windows host/server.
+Last Updated ( Thursday, 03 May 2007 09:39 )
+Stick to the Code!
+Written by besarttt
+Wednesday, 07 July 2004 12:00
+To ensure this code release, Wilco Jansen resorted to sending rum to joint lead-developer Johan Janssens.
+Johan, who's had a penchant for rum ever since the first "Pirate's of the Caribbean" movie screened, took the bait, mixed it with Cola, and here we are with our latest 1.5 release.
+It looks like pirate talk will figure quite a lot in future Joomla! development!
+Last Updated ( Sunday, 25 November 2007 22:37 )
+Read more...
+Only one edit window! How do I create "Read more..."?
+Written by besarttt
+Friday, 06 October 2006 19:29
+This is now implemented by inserting a Read more... tag (the button is located below the editor area) a dotted line appears in the edited text showing the split location for the Read more.... A new Plugin takes care of the rest.It is worth mentioning that this does not have a negative effect on migrated data from older sites. The new implementation is fully backward compatible.
+Last Updated ( Thursday, 08 November 2007 11:03 )
+Copyright © 2009 OTTWEB. All Rights Reserved.
+Joomla! is Free Software released under the GNU/GPL License.
+Polls
+Joomla! is used for?
+Community Sites
+Public Brand Sites
+eCommerce
+Blogs
+Intranets
+Photo and Media Sites
+All of the Above!
+Who's Online
+We have 1 guest online
+Advertisement
+Featured Links:
+Joomla!
+Joomla! The most popular and widely used Open Source CMS Project in the world.
+JoomlaCode
+JoomlaCode, development and distribution made easy.
+Joomla! Extensions
+Joomla! Components, Modules, Plugins and Languages by the bucket load.
+Joomla! Shop
+For all your Joomla! merchandise.
+Ads by Joomla!
+Feed Entries
+Powered by Joomla!.
+valid XHTML and CSS.

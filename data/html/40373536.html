@@ -1,0 +1,139 @@
+<html lang="en" class=" js no-touch" style=""><head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>MAN ICS</title>
+		<meta name="description" content="Aplikasi Rapot Digital MAN ICS">
+		<meta name="keywords" content="Aplikasi Rapot Digital, MTs Negeri 7 Bantul, ARD Ma7uba">
+		<meta name="author" content="Codrops">
+		<link rel="shortcut icon" href="http://didieksuriadi.my.id/kemenag.png"> 
+		<link rel="stylesheet" type="text/css" href="css/default.css">
+		<link rel="stylesheet" type="text/css" href="css/component.css">
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container">	
+			<!-- Didiek Suriadi -->
+		
+<div style="text-align: center;">
+            <br><img class="img-responsive" src="http://didieksuriadi.my.id/kemenag.png">
+</div>
+
+			<header>	
+				<h1><marquee behavior="ALTERNATE">MAN INSAN CENDEKIA SORONG</marquee></h1>
+				<h2><marquee direction="right">Madrasah Hebat Bermartabat</marquee></h2>
+			</header>
+			<div class="main clearfix">
+				<nav id="menu" class="nav"><button type="button" id="menutoggle" class="navtoogle" aria-hidden="true"><i aria-hidden="true" class="icon-menu"> </i> Menu</button>					
+					<ul>
+						<li>
+							<a href="https://manics.sch.id/">
+								<span class="icon">
+									<i aria-hidden="true" class="icon-home"></i>
+								</span>
+								<span>Home</span>
+							</a>
+						</li>
+						
+							<li>
+							<a target="_blank" href="https://tinyurl.com/manicsgo">
+								<span class="icon">
+									<i aria-hidden="true" class="icon-blog"></i>
+								</span>
+								<span>Lokasi</span>
+							</a>
+						</li>
+						<li>
+							<a href="/Smt2-2020/portal/login/ma">
+								<span class="icon"> 
+									<i aria-hidden="true" class="icon-services"></i>
+								</span>
+								<span>Smt Genap 2020/2021</span>
+								
+							<!--	<a target="_blank" href="/Smt2-2020/siswa/updater"> -->
+						<!--			<span class="icon"> -->
+									<i aria-hidden="true" class="icon-team"></i> --&gt;
+							<!--		</span> -->
+							<!--		<span>Stuvi Admin</span> -->
+							<!--	</a> -->
+								
+								
+							</a>
+						</li>
+						
+						<li>
+							<a href="">
+								<span class="icon">
+									<i aria-hidden="true" class="icon-portfolio"></i>
+								</span>
+								<span>Smt Ganjil 2021/2022</span>
+								
+							</a>
+						</li>
+					
+						<li>
+						<!--	<a target="_blank" href="https://www.facebook.com/MAN-IC-Sorong-183776658958322/"> -->
+						<a target="_blank" href="http://rdm.manics.my.id/"> 
+								<span class="icon">
+									<i aria-hidden="true" class="icon-team"></i>
+								</span>
+								<span>R D M</span>
+							</a>
+						</li>
+						<li>
+							<a href="http://emispendis.kemenag.go.id/dashboard/index.php?content=data-statistik&amp;action=lbg_bc&amp;nss=131192010001">						
+								<span class="icon">
+									<i aria-hidden="true" class="icon-contacts"></i>
+								</span>
+								<span>Emis Profile</span>
+							</a>
+						</li>
+					</ul>
+				</nav>
+
+				<div style="text-align: center;">
+            				<!-- <br><img class="img-responsive" src="logoard.png">  -->				
+					<br><span></span><br>
+        			</div>
+
+			</div>
+				<div style="text-align: left;">
+					<a href="https://www.facebook.com/didieksuriadi"></a><a>
+        			</a></div><a>
+
+
+		</a></div><!-- /container --><a>
+		<script>
+			//  The function to change the class
+			var changeClass = function (r,className1,className2) {
+				var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
+				if( regex.test(r.className) ) {
+					r.className = r.className.replace(regex,' '+className2+' ');
+			    }
+			    else{
+					r.className = r.className.replace(new RegExp("(?:^|\\s+)" + className2 + "(?:\\s+|$)"),' '+className1+' ');
+			    }
+			    return r.className;
+			};	
+
+			//  Creating our button in JS for smaller screens
+			var menuElements = document.getElementById('menu');
+			menuElements.insertAdjacentHTML('afterBegin','<button type="button" id="menutoggle" class="navtoogle" aria-hidden="true"><i aria-hidden="true" class="icon-menu"> </i> Menu</button>');
+
+			//  Toggle the class on click to show / hide the menu
+			document.getElementById('menutoggle').onclick = function() {
+				changeClass(this, 'navtoogle active', 'navtoogle');
+			}
+
+			// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
+			document.onclick = function(e) {
+				var mobileButton = document.getElementById('menutoggle'),
+					buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
+
+				if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
+					changeClass(mobileButton, 'navtoogle active', 'navtoogle');
+				}
+			}
+		</script>
+	
+</a></body></html>
